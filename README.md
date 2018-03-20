@@ -86,13 +86,13 @@ Here we go through a more in depth git flow that includes code branches and pull
 We're going to create a branch now and try out this new workflow.
 
 ### Create a new branch
-Start a local feature branch and do work on it. A branch keeps your work separate from the main (usually called *master*) branch.  Think of this as a tree where the *master* branch can be thought of as the main strunk.
+Start a local feature branch and do work on it. A branch keeps your work separate from the main (usually called *master*) branch.  Think of this as a tree where the *master* branch can be thought of as the main trunk.
 
 Here is a great visualization tool to help see what you are doing in the git tree: [git-with-d3](https://onlywei.github.io/explain-git-with-d3/#branch)
 
 ```bash
-💻 git branch <feature>  # creates new branch feature
-💻 git checkout <feature>  # switches to branch feature
+💻 git branch <featurename>  # creates new branch feature
+💻 git checkout <featurename>  # switches to branch feature
 ```
 
 🍸 Protip: `git checkout -b` will both create a new branch and check it out to make it the current branch you are working on.
@@ -138,7 +138,7 @@ var h = 'Hi!';
 >>>>>> cb1abc6bd98cfc84317f8aa95a7662815417802d
 ```
 
-where the line between  `<<<HEAD` and `====` is the line/lines of code that are relevant in your file, and between  `====` and `>>>> cb1abc6` are from the remote repository (the repository that you see on github.com). The crazy characters refer to the commit that the change comes from.
+where the line between  `<<<HEAD` and `====` is the line/lines of code that are relevant in your file, and between  `====` and `>>>> cb1abc6` are from the remote repository (the repository that you see on github.com). The crazy characters refer to the commit id hash that the change comes from.
 
 Since we've been using Atom so far there is a nice plugin to help visualize this a little better. *Atom -> Preferences -> Install -> search* for merge-conflicts
 ![merge-conflict](images/docs/merge-conflicts.gif)
@@ -172,9 +172,7 @@ When you're nearly ready to publish, rebase your local branch on top of the late
 💻 git pull --rebase origin master
 ```
 
-If you have rebase conflicts, fix the files as in [Deciphering-Merge-Conflicts](#Deciphering-Merge-Conflicts) and do `git add`, then
- `git rebase --continue`. Repeat until you're all good.
-
+If you have rebase conflicts, fix the files as in [Deciphering-Merge-Conflicts](#Deciphering-Merge-Conflicts) and do `git add` to indicate to git that you have resolved things, then `git rebase --continue`. Repeat until you're all good.
 
 ### Push Your Feature Branch
 
@@ -183,8 +181,8 @@ After you are finished working on your branch, you should push it up to github.
 ```bash
 💻 git push origin yourname_icon
 ```
-🍸 Protip: git does not push multiple branches by default, but you can with: `git push --all origin`.  Just be careful if you have a ton of test branches lying around.
 
+🍸 Protip: git does not push multiple branches by default, but you can with: `git push --all origin`.  Just be careful if you have a ton of test branches lying around.
 
 ### Create Pull Request
 
