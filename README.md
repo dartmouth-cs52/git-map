@@ -50,8 +50,10 @@ And make sure the email you choose is also listed in [GitHub Email Settings](htt
 Serving HTTP on 0.0.0.0 port 9000 ...
 127.0.0.1 - - [09/Jun/2016 18:25:18] "GET / HTTP/1.1" 200 -
 ```
-Lets check out what we have made in Chrome: http://localhost:9000
 
+Let's check out what we have made in Chrome: [http://localhost:9000](http://localhost:9000)
+
+As you edit this, keep checking and make sure you aren't pushing a broken site.
 
 ### Proper Git Flow
 
@@ -84,7 +86,7 @@ Here we go through a more in depth git flow that includes code branches and pull
 We're going to create a branch now and try out this new workflow.
 
 ### Create a new branch
-Start a local feature branch and do work on it. A branch keeps your work separate from the main (usually called *master*) branch.  Think of this as a tree where the *master* (or in our case *gh-pages*) branch can be thought of as the trunk.
+Start a local feature branch and do work on it. A branch keeps your work separate from the main (usually called *master*) branch.  Think of this as a tree where the *master* branch can be thought of as the main strunk.
 
 Here is a great visualization tool to help see what you are doing in the git tree: [git-with-d3](https://onlywei.github.io/explain-git-with-d3/#branch)
 
@@ -98,16 +100,17 @@ Here is a great visualization tool to help see what you are doing in the git tre
 🍸 Protip: `git branch` will show which branches exist and which you're on (the `*`).
 
 
-🚀 lets name our branch feature with yourname_icon! `git checkout -b yourname_icon`.   (lowercase and no spaces)
+🚀 lets name our branch feature with *yourname_icon*! `git checkout -b yourname_icon`.   (lowercase and no spaces)
 
 🚀 if you do `git branch` you should see `* yourname_icon`.
 
 
-🍸 Protip: Periodically pull in changes from *origin/gh-pages* (or *origin/master* in other situations) and update your feature branch.
+🍸 Protip: Periodically pull in changes from *origin/master* and update your feature branch.
+
 Note that these commands only update your current local branch.  The idea here is to not fall too far behind the master branch if other people are working on it.
 
 ```bash
-💻 git pull origin gh-pages
+💻 git pull origin master
 ```
 
 #### Merge Conflicts
@@ -149,7 +152,7 @@ Once you have your conflict file the way you want it — ie. fixed and without a
 
 Now lets add a picture of yourself and a lat long for a place that you like or are from.
 
-🚀 Open `people.json` in atom.
+🚀 Open up one of the `people-#.json` files in atom (it doesn't matter which one).
 
 🚀 Add a new json object for yourself. You can start by copy pasting a previous object -- this is the 15 or so lines of text inside the curly braces.
 
@@ -159,14 +162,14 @@ For the `url` field use the new page that you made earlier!  Rather than using h
 
 Find a lat long: http://www.latlong.net/
 
-🚀 Play around with it till you have a working badge visible on your local dev site:  http://localhost:9000/ and when click on the badge it is able to load in the page you made into the modal.
+🚀 Play around with it till you have a working badge visible on your local dev site:  http://localhost:9000/ and when you click on the badge it is able to load in the page you made into the modal.
 
 
 ### Rebase local branch
 When you're nearly ready to publish, rebase your local branch on top of the latest master one more time. Just like you have been above. Note: we are using rebasing here instead of just pulling, because now we are pros. 🏆  What this does is basically pull in all remote changes and then replay your commits on top of them. This gives you a cleaner version history.
 
 ```bash
-💻 git pull --rebase origin gh-pages
+💻 git pull --rebase origin master
 ```
 
 If you have rebase conflicts, fix the files as in [Deciphering-Merge-Conflicts](#Deciphering-Merge-Conflicts) and do `git add`, then
@@ -191,7 +194,7 @@ The best way to merge your feature into the main branch is to issue a pull reque
 
 ![pull-request](images/docs/pull-request.png)
 
-Ensure that you are comparing the correct two branches. Set "base" branch to be the branch where you want to commit your changes and "compare" branch to be the branch where your commits reside (see above image).
+⚠️ Verify that you are comparing the correct two branches. Set "base" branch to be the branch where you want to commit your changes and "compare" branch to be the branch where your commits reside (see above image).
 
 To do a code review, @mention a peer in the pull request. Once approved, your code changes will be merged. You can also merge pull requests after carefully reviewing all the changes.
 
@@ -216,7 +219,7 @@ Note: you have to delete it in both places, as just deleting it remotely won't d
 
 ## DONE!!
 
-Once your changes are merged into the remote `gh-pages` branch on github you'll be able to see your changes at: http://map.cs52.me
+Once your changes are merged into the remote `master` branch on github you'll be able to see your changes at: http://map.cs52.me
 
 <br>
 <hr>
