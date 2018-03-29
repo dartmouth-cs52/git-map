@@ -9,5 +9,16 @@
       -118.8578716
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Sia",
+    "iconUrl": "images/sia.jpg",
+    "url": "//siapeng.me",
+    "message": "Let's go eat Sushi!",
+    "lat_long": [
+      49.2827,
+      -123.1207
+    ],
+    "year": "11BC"
   }
 ]
