@@ -23,6 +23,7 @@
     "year": "'18"
   },
 
+<<<<<<< HEAD
   {
     "name": "Nate Neumann",
     "iconUrl": "images/fujicrop.jpg",
@@ -46,6 +47,8 @@
   ],
   "year": "'20"
 },
+=======
+>>>>>>> new
   {
     "name": "Nathan Yu",
     "iconUrl": "images/nathan_yu.jpg",
@@ -90,6 +93,20 @@
     ],
     "year": "'20"
   }
+<<<<<<< HEAD
 
 
+=======
+  {
+    "name": "Katherine Bernardez",
+    "iconUrl": "images/katherine_bernardez.jpg",
+    "url": "//katherinebernardez.me",
+    "message": "I love CS52!",
+    "lat_long": [
+      47.595226,
+      -122.242168
+    ],
+    "year": "'20"
+  }
+>>>>>>> new
 ]
