@@ -54,5 +54,13 @@
     "message": "Yay, Sunny Tiny Island of Singapore",
     "lat_long": [1.3521,103.8198],
     "year": "'19"
+  },
+  {
+    "name": "Alex Petros",
+    "iconUrl": "images/petros.jpg",
+    "url": "//apetros.me",
+    "message": "Selfie from the J Crew dressing room",
+    "lat_long": [25.693713, -80.162825],
+    "year": "'19"
   }
 ]
