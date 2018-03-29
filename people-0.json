@@ -94,5 +94,13 @@
     "message": "Welcome to Zanzibar!",
     "lat_long": [-6.16394,39.19793],
     "year": "'19"
+  },
+  {
+    "name": "Ted Bausch",
+    "iconUrl": "images/ted_b.jpg",
+    "url": "//tedbausch.me",
+    "message": "From a college town smaller and colder than Hanover",
+    "lat_long": [42.827014,-75.544624],
+    "year": "'18"
   }
 ]
