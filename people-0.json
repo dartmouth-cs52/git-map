@@ -64,6 +64,14 @@
     "year": "'19"
   },
   {
+    "name": "Alex Petros",
+    "iconUrl": "images/petros.jpg",
+    "url": "//apetros.me",
+    "message": "Selfie from the J Crew dressing room",
+    "lat_long": [25.693713, -80.162825],
+    "year": "'19"
+  },
+  {
     "name": "Azhar Hussain",
     "iconUrl": "images/azharhussain.png",
     "url": "//azharhussain.me",
@@ -77,6 +85,22 @@
     "url": "//rlivaudais.me",
     "message": "yolo",
     "lat_long": [29.951066, -90.071532],
+    "year": "'19"
+  },
+  {
+    "name": "Kevin Xue",
+    "iconUrl": "images/kxue.jpg",
+    "url": "//kfxue.me",
+    "message": "not actually from Seattle",
+    "lat_long": [47.6062, 122.3321],
+    "year": "'18"
+  },
+  {
+    "name": "Ally Mahmoud",
+    "iconUrl": "images/ally1.jpg",
+    "url": "//zanzibar.net/",
+    "message": "Welcome to Zanzibar!",
+    "lat_long": [-6.16394,39.19793],
     "year": "'19"
   }
 ]

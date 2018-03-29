@@ -1,5 +1,13 @@
 [
   {
+       "name": "Taggart",
+       "iconUrl": "images/taggart.jpg",
+       "url": "//taggartbonham.me",
+       "message": "These map things are pretty nifty, huh?",
+       "lat_long": [56.1305, 106.3468],
+       "year": "'20"
+  },
+  {
     "name": "Annie",
     "iconUrl": "images/annie.jpg",
     "url": "//annieke.me",
@@ -30,6 +38,39 @@
     "year": "11BC"
   },
   {
+    "name": "Annika",
+    "iconUrl": "images/Ann.jpg",
+    "url": "//www.annikakouhia.me",
+    "message": "Pls let this work",
+    "lat_long": [
+      47.606209,
+      -122.332071
+    ],
+    "year": "11BC"
+  },
+  {
+    "name": "Morgan",
+    "iconUrl": "images/morgan.jpg",
+    "url": "//www.msorbaro.me",
+    "message": "Hi Im Morgan!",
+    "lat_long": [
+      24.266100,
+      -76.517029
+    ],
+    "year": "'20'"
+  },
+  {
+    "name": "Steven",
+    "iconUrl": "images/steven.png",
+    "url": "//www.stevenchun.me",
+    "message": "haha",
+    "lat_long": [
+      41.878114,
+      -87.629798
+    ],
+    "year": "19"
+  },
+  {
     "name": "Andrew",
     "iconUrl": "images/andrewliu.jpg",
     "url": "andrewakliu.me",
@@ -39,5 +80,18 @@
       -122.201516
     ],
     "year": "'19"
+  },
+
+  {
+    "name": "Junfei",
+    "iconUrl": "images/junfei.jpg",
+    "url": "//flashing3.com",
+    "message": "Ball is life",
+    "lat_long": [
+      31.236830,
+      121.474042
+    ],
+    "year": "22"
   }
+
 ]
