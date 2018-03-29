@@ -198,5 +198,13 @@
     "message": "hi there",
     "lat_long": [40.760779,-111.891047],
     "year": "'20"
+  },
+  {
+    "name": "Isabel",
+    "iconUrl": "images/resized_isabel.jpg",
+    "url": "//isabelh.me",
+    "message": "sunny CA",
+    "lat_long": [37.8716, -122.2727],
+    "year": "'19"
   }
 ]
