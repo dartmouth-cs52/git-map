@@ -157,14 +157,19 @@
         "year": "'19'"
     },
     {
-    "name": "Benji",
-    "iconUrl": "images/benji.jpg",
-    "url": "//benjihannam.me",
-    "message": "The cake is a lie.",
-    "lat_long": [
-      51.513522,
-      -0.209115
-    ],
-    "year": "'18"
+      "name": "Benji",
+      "iconUrl": "images/benji.jpg",
+      "url": "//benjihannam.me",
+      "message": "The cake is a lie.",
+      "lat_long": [51.513522, -0.209115],
+      "year": "'18'"
+    },
+    {
+      "name": "Steven",
+      "iconUrl": "images/stevenkim.jpg",
+      "url": "//cs52skim.me",
+      "message": "Hello World",
+      "lat_long": [47.6101, -122.201516],
+      "year": "'19'"
     }
 ]
