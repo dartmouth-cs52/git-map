@@ -1,4 +1,25 @@
 [
+  {
+    "name": "Kyu",
+    "iconUrl": "images/kyu.jpg",
+    "url": "//kkim.me",
+    "message": "What a fun website!",
+    "lat_long": [37.566535, 126.977969],
+    "year": "'18"
+  },
+  {
+    "name": "Annie",
+    "iconUrl": "images/annie.jpg",
+    "url": "//annieke.me",
+    "message": "graphic design is my passion",
+    "lat_long": [37.338208, -121.886329],
+    "year": "'19"
+  },
+  {
+    "name": "Sia",
+    "iconUrl": "images/sia.jpg",
+    "url": "//siapeng.me",
+    "message": "Let's go eat Sushi!",
     {
         "name": "Annie",
         "iconUrl": "images/annie.jpg",
