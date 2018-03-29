@@ -54,5 +54,13 @@
     "message": "always down to chill to some Taylor Swift",
     "lat_long": [41.732343, -71.311612],
     "year": "'19'"
+  },
+  {
+    "name": "Sam Ching",
+    "iconUrl": "images/samching.jpg",
+    "url": "//samching.me",
+    "message": "Yay, Sunny Tiny Island of Singapore",
+    "lat_long": [1.3521,103.8198],
+    "year": "'19"
   }
 ]
