@@ -22,8 +22,6 @@
     ],
     "year": "'18"
   },
-
-<<<<<<< HEAD
   {
     "name": "Nate Neumann",
     "iconUrl": "images/fujicrop.jpg",
@@ -35,7 +33,6 @@
     ],
     "year": "'20"
 },
-
   {
   "name": "Amy Guan",
   "iconUrl": "images/amy.jpg",
@@ -47,8 +44,6 @@
   ],
   "year": "'20"
 },
-=======
->>>>>>> new
   {
     "name": "Nathan Yu",
     "iconUrl": "images/nathan_yu.jpg",
@@ -70,7 +65,6 @@
       74.006],
     "year": "'20"
   },
-  
   {
     "name": "Ijemma Onwuzulike",
     "iconUrl": "images/ijemma.png",
@@ -92,11 +86,7 @@
       21.236615
     ],
     "year": "'20"
-  }
-<<<<<<< HEAD
-
-
-=======
+  },
   {
     "name": "Katherine Bernardez",
     "iconUrl": "images/katherine_bernardez.jpg",
@@ -108,5 +98,4 @@
     ],
     "year": "'20"
   }
->>>>>>> new
 ]
