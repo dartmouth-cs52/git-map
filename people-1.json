@@ -28,5 +28,16 @@
       -118.8578716
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Annika",
+    "iconUrl": "images/Ann.jpg",
+    "url": "//www.annikakouhia.me",
+    "message": "Pls let this work",
+    "lat_long": [
+      47.606209,
+      -122.332071
+    ],
+    "year": "11BC"
   }
 ]
