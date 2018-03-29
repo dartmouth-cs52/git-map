@@ -1,5 +1,16 @@
 [
   {
+    "name": "Kyu",
+    "iconUrl": "images/kyu.jpg",
+    "url": "//kkim.me",
+    "message": "What an incredible map!",
+    "lat_long": [
+      37.566535,
+      126.977969
+    ],
+    "year": "2018"
+  },
+  {
     "name": "Annie",
     "iconUrl": "images/annie.jpg",
     "url": "//annieke.me",
