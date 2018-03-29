@@ -9,5 +9,16 @@
       -85.0621176
     ],
     "year": "'21"
-  }
+  },
+  {
+    "name": "Alma",
+    "iconUrl": "images/alma.jpg",
+    "url": "//almawang.github.io",
+    "message": "Add me on LinkedIn!",
+    "lat_long": [
+      -76.337187,
+      22.699087
+    ],
+    "year": "'18'"
+   }
 ]
