@@ -38,6 +38,18 @@
     "year": "11BC"
   },
   {
+
+    "name": "Annika",
+    "iconUrl": "images/Ann.jpg",
+    "url": "//www.annikakouhia.me",
+    "message": "Pls let this work",
+    "lat_long": [
+      47.606209,
+      -122.332071
+    ],
+    "year": "11BC"
+  },
+  {
     "name": "Thomas",
     "iconUrl": "images/thomas.jpg",
     "url": "//www.thomas-cs52.me",
@@ -48,6 +60,7 @@
     ],
     "year": "19"
   },
+  {
     "name": "Morgan",
     "iconUrl": "images/morgan.jpg",
     "url": "//www.msorbaro.me",
@@ -80,7 +93,6 @@
     ],
     "year": "'19"
   },
-
   {
     "name": "Junfei",
     "iconUrl": "images/junfei.jpg",
@@ -91,6 +103,17 @@
       121.474042
     ],
     "year": "22"
-  }
+  },
+  {
+    "name": "Christina",
+    "iconUrl": "images/christina.jpg",
+    "url": "//christinalu.me",
+    "message": "i hope the vixen wins rupaul's drag race season 10",
+    "lat_long": [
+      37.322998,
+      -122.032182
+    ],
+    "year": "'20"
 
+  }
 ]

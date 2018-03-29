@@ -7,6 +7,7 @@
     "lat_long": [9.6660971, -85.0621176],
     "year": "'21"
   },
+
   {
     "name": "Alma",
     "iconUrl": "images/alma.jpg",
@@ -69,6 +70,15 @@
     "url": "//apetros.me",
     "message": "Selfie from the J Crew dressing room",
     "lat_long": [25.693713, -80.162825],
+    "year": "'19"
+  },
+  {
+    "name": "Sara Topic",
+    "iconUrl": "images/saratopic.jpg",
+    "url": "//stopic13.me",
+    "message": " 'It's a love story, baby just say yes' ~ author unknown",
+    "lat_long": [43.6, 1.47],
+    "year": "18"
   },
   {
     "name": "Azhar Hussain",
@@ -79,11 +89,35 @@
     "year": "'19"
   },
   {
+    "name": "Robert Livaudais",
+    "iconUrl": "images/rlivaudais.png",
+    "url": "//rlivaudais.me",
+    "message": "yolo",
+    "lat_long": [29.951066, -90.071532],
+    "year": "'19"
+  },
+  {
     "name": "Kevin Xue",
-    "iconUrl": "images/kxue.png",
+    "iconUrl": "images/kxue.jpg",
     "url": "//kfxue.me",
     "message": "not actually from Seattle",
     "lat_long": [47.6062, 122.3321],
+    "year": "'18"
+  },
+  {
+    "name": "Ally Mahmoud",
+    "iconUrl": "images/ally1.jpg",
+    "url": "//zanzibar.net/",
+    "message": "Welcome to Zanzibar!",
+    "lat_long": [-6.16394,39.19793],
+    "year": "'19"
+  },
+  {
+    "name": "Ted Bausch",
+    "iconUrl": "images/ted_b.jpg",
+    "url": "//tedbausch.me",
+    "message": "From a college town smaller and colder than Hanover",
+    "lat_long": [42.827014,-75.544624],
     "year": "'18"
   }
 ]
