@@ -43,5 +43,18 @@
       -97.439478
     ],
     "year": "'19"
+  },
+  {
+    "name": "Sam Schiff",
+    "iconUrl": "images/Sam.png",
+    "url": "//samschiff.me",
+    "message": "This is cool",
+    "lat_long": [
+      40.7128,
+      74.006
+    ],
+    "year": "'20"
   }
+
+
 ]
