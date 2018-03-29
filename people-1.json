@@ -28,5 +28,16 @@
       -118.8578716
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Steven",
+    "iconUrl": "images/steven.png",
+    "url": "//www.stevenchun.me",
+    "message": "haha",
+    "lat_long": [
+      41.878114,
+      -87.629798
+    ],
+    "year": "19"
   }
 ]
