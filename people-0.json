@@ -89,6 +89,13 @@
     "year": "'19"
   },
   {
+    "name": "Chae Kim",
+    "iconUrl": "images/chae.jpg",
+    "url": "//compsci.me",
+    "message": "Hi",
+    "lat_long": [37.522476, 126.973816],
+},
+{
     "name": "Robert Livaudais",
     "iconUrl": "images/rlivaudais.png",
     "url": "//rlivaudais.me",
