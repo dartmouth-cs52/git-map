@@ -85,7 +85,7 @@
   {
     "name": "Andrew",
     "iconUrl": "images/andrewliu.jpg",
-    "url": "andrewakliu.me",
+    "url": "//andrewakliu.me",
     "message": "Hi!",
     "lat_long": [
       47.610150,
@@ -96,7 +96,7 @@
   {
     "name": "Junfei",
     "iconUrl": "images/junfei.jpg",
-    "url": "//flashing3.me",
+    "url": "flashing3.me",
     "message": "Ball is life",
     "lat_long": [
       31.236830,
@@ -115,5 +115,38 @@
     ],
     "year": "'20"
 
+  },
+  {
+    "name": "Brian",
+    "iconUrl": "images/brian.jpg",
+    "url": "//www.bkeare.me",
+    "message": "SOS! Please Help Me!",
+    "lat_long": [
+      -7.3110000,
+      -131.0457000
+    ],
+    "year": "2018"
+  },
+  {
+    "name": "Lessley",
+    "iconUrl": "images/LessleyHe.jpg",
+    "url": "//lessleyhernandez.me",
+    "message": "El Salvador is a country.",
+    "lat_long": [
+      13.808674,
+      -89.180122
+    ],
+    "year": "'20'"
+  },
+  {
+    "name": "Peter",
+    "iconUrl": "images/pwarren.jpg",
+    "url": "//pmw18.me",
+    "message": "What's good",
+    "lat_long": [
+      38.6270,
+      -90.1994
+    ],
+    "year": "'18'"
   }
 ]
