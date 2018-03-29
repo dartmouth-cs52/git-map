@@ -70,7 +70,7 @@
     "url": "//apetros.me",
     "message": "Selfie from the J Crew dressing room",
     "lat_long": [25.693713, -80.162825],
-    "year": "'19'"
+    "year": "'19"
   },
   {
     "name": "Sara Topic",
@@ -86,6 +86,14 @@
     "url": "//azharhussain.me",
     "message": "Go Big Green",
     "lat_long": [32.934190, -97.129119],
+    "year": "'19"
+  },
+  {
+    "name": "Robert Livaudais",
+    "iconUrl": "images/rlivaudais.png",
+    "url": "//rlivaudais.me",
+    "message": "yolo",
+    "lat_long": [29.951066, -90.071532],
     "year": "'19"
   },
   {

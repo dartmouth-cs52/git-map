@@ -56,6 +56,17 @@
     "year": "'19"
   },
   {
+    "name": "Raul Rodriguez",
+    "iconUrl": "images/rodriguez_raul.jpg",
+    "url": "//rrod.me",
+    "message": "ill catch u guyz l4tr imma go mine some bitcoin lololololol",
+    "lat_long": [
+      40.416775,
+      -3.703790
+    ],
+    "year": "'19"
+},
+  {
     "name": "Sam Schiff",
     "iconUrl": "images/Sam.png",
     "url": "//samschiff.me",
