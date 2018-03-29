@@ -137,5 +137,16 @@
       -89.180122
     ],
     "year": "'20'"
+  },
+  {
+    "name": "Paul de Supinski",
+    "iconUrl": "images/pdesupinski-pic.jpg",
+    "url": "//paulportfolio.me",
+    "message": "Yooooooo",
+    "lat_long": [
+      38.029306,
+      -78.476678
+    ],
+    "year": "'19"
   }
 ]
