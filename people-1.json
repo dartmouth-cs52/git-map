@@ -51,4 +51,17 @@
     ],
     "year": "'19"
   }
+
+  {
+    "name": "Junfei",
+    "iconUrl": "images/junfei.jpg",
+    "url": "//flashing3.com",
+    "message": "Ball is life",
+    "lat_long": [
+      31.236830,
+      121.474042
+    ],
+    "year": "22"
+  }
+
 ]
