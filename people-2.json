@@ -20,5 +20,119 @@
       -72.923841
     ],
     "year": "'18"
+  },
+
+  {
+  "name": "Imanol Avendano",
+  "iconUrl": "images/imanol.jpg",
+  "url": "//emanol.me",
+  "message": "Home is where the heart is",
+  "lat_long": [
+    44.9537,
+    93.0900
+  ],
+  "year": "'18"
+  },
+
+  {
+    "name": "Ijemma Onwuzulike",
+    "iconUrl": "images/ijemma.png",
+    "url": "//ijemmao.me",
+    "message": "where the memes are spicy 🤙🏾",
+    "lat_long": [
+      37.9492705,
+      -121.7354938
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Sofia Stanescu-Bellu",
+    "iconUrl": "images/sofia.jpg",
+    "url": "//sofiasb.me",
+    "message": "Can't touch the vision",
+    "lat_long": [
+      45.760396,
+      21.236615
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Katherine Bernardez",
+    "iconUrl": "images/katherine_bernardez.jpg",
+    "url": "//katherinebernardez.me",
+    "message": "I love CS52!",
+    "lat_long": [
+      47.595226,
+      -122.242168
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Jolene Bernagene",
+    "iconUrl": "images/Bernagene.jpg",
+    "url": "//joleneb.me",
+    "message": "Hello!! :) ",
+    "lat_long": [
+      40.678178,
+      -73.944158
+    ],
+    "year": "'19"
+  }
+
+  ,
+  {
+    "name": "Moyosore Okeremi",
+    "iconUrl": "images/moyo.jpg",
+    "url": "//moyook.me",
+    "message": "Can't touch this",
+    "lat_long": [
+      6.524379,
+      3.379206
+    ],
+    "year": "19"
+  },
+  {
+    "name": "Zack Johnson",
+    "iconUrl": "images/zack.jpg",
+    "url": "//zackjohnson.me",
+    "message": "Error 404: Spring Weather Not Found",
+    "lat_long": [
+      41.654173,
+      -71.542039
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Savannah Liu",
+    "iconUrl": "images/savannah.jpg",
+    "url": "//savannahliu.me",
+    "message": ":)",
+    "lat_long": [
+      37.774929,
+      -122.419416
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Helen He",
+    "iconUrl": "images/helen.jpg",
+    "url": "//helenhe.me",
+    "message": "Sign up for HackDartmouth!",
+    "lat_long": [
+      33.019843,
+      -96.698886
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Imanol Avendano",
+    "iconUrl": "images/imanol.jpg",
+    "url": "//emanol.me",
+    "message": "Home is where the heart is",
+    "lat_long": [
+      44.9537,
+      93.0900
+    ],
+    "year": "'18"
   }
 ]

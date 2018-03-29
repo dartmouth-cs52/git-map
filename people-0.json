@@ -7,6 +7,7 @@
     "lat_long": [9.6660971, -85.0621176],
     "year": "'21"
   },
+
   {
     "name": "Alma",
     "iconUrl": "images/alma.jpg",
@@ -45,6 +46,103 @@
     "url": "//yeonjaepark.com",
     "message": "food makes me happy",
     "lat_long": [42.395640, -71.177611],
+    "year": "'19"
+  },
+  {
+    "name": "Teddy",
+    "iconUrl": "images/teddy.jpg",
+    "url": "//teddyni.com",
+    "message": "always down to chill to some Taylor Swift",
+    "lat_long": [41.732343, -71.311612],
+    "year": "'19'"
+  },
+  {
+    "name": "Sam Ching",
+    "iconUrl": "images/samching.jpg",
+    "url": "//samcwl.me",
+    "message": "Yay, Sunny Tiny Island of Singapore",
+    "lat_long": [1.3521,103.8198],
+    "year": "'19"
+  },
+  {
+    "name": "Alex Petros",
+    "iconUrl": "images/petros.jpg",
+    "url": "//apetros.me",
+    "message": "Selfie from the J Crew dressing room",
+    "lat_long": [25.693713, -80.162825],
+    "year": "'19"
+  },
+  {
+    "name": "Sara Topic",
+    "iconUrl": "images/saratopic.jpg",
+    "url": "//stopic13.me",
+    "message": " 'It's a love story, baby just say yes' ~ author unknown",
+    "lat_long": [43.6, 1.47],
+    "year": "18"
+  },
+  {
+    "name": "Azhar Hussain",
+    "iconUrl": "images/azharhussain.png",
+    "url": "//azharhussain.me",
+    "message": "Howdy",
+    "lat_long": [32.934190, -97.129119],
+    "year": "'19"
+  },
+  {
+    "name": "Chae Kim",
+    "iconUrl": "images/chae.jpg",
+    "url": "//compsci.me",
+    "message": "Hi",
+    "lat_long": [37.522476, 126.973816],
+    "year": "'18"
+},
+{
+    "name": "Robert Livaudais",
+    "iconUrl": "images/rlivaudais.png",
+    "url": "//rlivaudais.me",
+    "message": "yolo",
+    "lat_long": [29.951066, -90.071532],
+    "year": "'19"
+  },
+  {
+    "name": "Kevin Xue",
+    "iconUrl": "images/kxue.jpg",
+    "url": "//kfxue.me",
+    "message": "not actually from Seattle",
+    "lat_long": [47.6062, 122.3321],
+    "year": "'18"
+  },
+  {
+    "name": "Ally Mahmoud",
+    "iconUrl": "images/ally1.jpg",
+    "url": "//zanzibar.net/",
+    "message": "Welcome to Zanzibar!",
+    "lat_long": [-6.16394,39.19793],
+    "year": "'19"
+  },
+  {
+    "name": "Ted Bausch",
+    "iconUrl": "images/ted_b.jpg",
+    "url": "//tedbausch.me",
+    "message": "From a college town smaller and colder than Hanover",
+    "lat_long": [42.827014,-75.544624],
+    "year": "'18"
+  },
+  {
+    "name": "Isaac Gluck",
+    "iconUrl": "images/isaac.jpg",
+    "url": "//isaacgluck.me",
+    "message": "whoa",
+    "lat_long": [40.712775,-74.005973],
+    "year": "'19"
+  }
+
+  {
+    "name": "Emma Kennelly",
+    "iconUrl": "images/emma.jpg",
+    "url": "//emmakennelly.me",
+    "message": "here I am",
+    "lat_long": [41.146763, -73.494844],
     "year": "'19"
   }
 ]
