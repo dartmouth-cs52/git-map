@@ -28,5 +28,16 @@
       -118.8578716
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Morgan",
+    "iconUrl": "images/morgan.jpg",
+    "url": "//www.msorbaro.me",
+    "message": "Hi Im Morgan!",
+    "lat_long": [
+      24.266100,
+      -76.517029
+    ],
+    "year": "'20'"
   }
 ]
