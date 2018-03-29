@@ -38,6 +38,7 @@
     "year": "11BC"
   },
   {
+
     "name": "Annika",
     "iconUrl": "images/Ann.jpg",
     "url": "//www.annikakouhia.me",
@@ -49,6 +50,7 @@
     "year": "11BC"
   },
   {
+
     "name": "Morgan",
     "iconUrl": "images/morgan.jpg",
     "url": "//www.msorbaro.me",
@@ -92,6 +94,18 @@
       121.474042
     ],
     "year": "22"
+  }
+  {
+    "name": "Christina",
+    "iconUrl": "images/christina.jpg",
+    "url": "//christinalu.me",
+    "message": "i hope the vixen wins rupaul's drag race season 10",
+    "lat_long": [
+      37.322998,
+      -122.032182
+    ],
+    "year": "'20"
+
   }
 
 ]
