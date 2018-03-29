@@ -10,8 +10,7 @@
     ],
     "year": "'16"
   },
-
-  {
+    {
     "name": "Kevin Farmer",
     "iconUrl": "images/kfarmer.jpg",
     "url": "//kevinrfarmer.com",
@@ -24,61 +23,17 @@
   },
 
   {
-    "name": "Nate Neumann",
-    "iconUrl": "images/fujicrop.jpg",
-    "url": "//nneumann.me",
-    "message": "Error: self-description not found.",
-    "lat_long": [
-      33.0370,
-      -117.2920
-    ],
-    "year": "'20"
+  "name": "Imanol Avendano",
+  "iconUrl": "images/imanol.jpg",
+  "url": "//emanol.me",
+  "message": "Home is where the heart is",
+  "lat_long": [
+    44.9537,
+    93.0900
+  ],
+  "year": "'18"
   },
 
-  {
-    "name": "Amy Guan",
-    "iconUrl": "images/amy.jpg",
-    "url": "//amy52.me",
-    "message": "new badge who dis",
-    "lat_long": [
-      40.350030,
-      -74.661422
-    ],
-    "year": "'20"
-  },
-
-  {
-    "name": "Nathan Yu",
-    "iconUrl": "images/nathan_yu.jpg",
-    "url": "//nathanyu.me",
-    "message": "Join DXR if you're interested in VR/AR!! :D",
-    "lat_long": [
-      35.222567,
-      -97.439478
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Raul Rodriguez",
-    "iconUrl": "images/rodriguez_raul.jpg",
-    "url": "//rrod.me",
-    "message": "ill catch u guyz l4tr imma go mine some bitcoin lololololol",
-    "lat_long": [
-      40.416775,
-      -3.703790
-    ],
-    "year": "'19"
-},
-  {
-    "name": "Sam Schiff",
-    "iconUrl": "images/Sam.png",
-    "url": "//samschiff.me",
-    "message": "This is cool",
-    "lat_long": [
-      40.7128,
-      74.006],
-    "year": "'20"
-  },
   {
     "name": "Ijemma Onwuzulike",
     "iconUrl": "images/ijemma.png",
@@ -122,10 +77,18 @@
       3.379206
     ],
     "year": "19"
-  }
-
-  ,
-
+  },
+  {
+    "name": "Zack Johnson",
+    "iconUrl": "images/zack.jpg",
+    "url": "//zackjohnson.me",
+    "message": "Error 404: Spring Weather Not Found",
+    "lat_long": [
+      41.654173,
+      -71.542039
+    ],
+    "year": "'20"
+  },
   {
     "name": "Savannah Liu",
     "iconUrl": "images/savannah.jpg",
@@ -134,6 +97,28 @@
     "lat_long": [
       37.774929,
       -122.419416
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Helen He",
+    "iconUrl": "images/helen.jpg",
+    "url": "//helenhe.me",
+    "message": "Sign up for HackDartmouth!",
+    "lat_long": [
+      33.019843,
+      -96.698886
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Imanol Avendano",
+    "iconUrl": "images/imanol.jpg",
+    "url": "//emanol.me",
+    "message": "Home is where the heart is",
+    "lat_long": [
+      44.9537,
+      93.0900
     ],
     "year": "'18"
   }
