@@ -21,6 +21,19 @@
     ],
     "year": "'18"
   },
+  
+  {
+  "name": "Imanol Avendano",
+  "iconUrl": "images/imanol.jpg",
+  "url": "//emanol.me",
+  "message": "Home is where the heart is",
+  "lat_long": [
+    44.9537,
+    93.0900
+  ],
+  "year": "'18"
+  },
+  
   {
     "name": "Ijemma Onwuzulike",
     "iconUrl": "images/ijemma.png",
