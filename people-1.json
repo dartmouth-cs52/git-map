@@ -18,6 +18,17 @@
     ],
     "year": "11BC"
   },
+	{
+    "name": "Shivam",
+    "iconUrl": "images/shivam.jpg",
+    "url": "//shivamgoayl.me",
+    "message": "Lost",
+    "lat_long": [
+      -4.493111,
+      -153.841655
+    ],
+    "year": "11BC"
+  },
   {
     "name": "Tim",
     "iconUrl": "images/tim_round.jpg",
