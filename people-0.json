@@ -46,5 +46,13 @@
     "message": "food makes me happy",
     "lat_long": [42.395640, -71.177611],
     "year": "'19"
+  },
+  {
+    "name": "Teddy",
+    "iconUrl": "images/teddy.jpg",
+    "url": "//teddyni.com",
+    "message": "always down to chill to some Taylor Swift",
+    "lat_long": [41.732343, -71.311612],
+    "year": "'19'"
   }
 ]
