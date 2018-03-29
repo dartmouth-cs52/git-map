@@ -46,5 +46,13 @@
     "message": "sup",
     "lat_long": [40.7998, -73.650962],
     "year": "'18"
+  },
+  {
+    "name": "Yeonjae",
+    "iconUrl": "images/yeonjae.jpg",
+    "url": "//yeonjaepark.me",
+    "message": "food makes me happy",
+    "lat_long": [42.3956, 71.1776],
+    "year": "'19"
   }
 ]
