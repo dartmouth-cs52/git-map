@@ -15,19 +15,6 @@
     "lat_long": [37.338208, -121.886329],
     "year": "'19"
   },
-  {
-    "name": "Sia",
-    "iconUrl": "images/sia.jpg",
-    "url": "//siapeng.me",
-    "message": "Let's go eat Sushi!",
-    {
-        "name": "Annie",
-        "iconUrl": "images/annie.jpg",
-        "url": "//annieke.me",
-        "message": "graphic design is my passion",
-        "lat_long": [37.338208, -121.886329],
-        "year": "'19"
-    },
     {
         "name": "Sia",
         "iconUrl": "images/sia.jpg",
