@@ -136,7 +136,6 @@
     "lat_long": [40.712775,-74.005973],
     "year": "'19"
   },
-
   {
     "name": "Emma Kennelly",
     "iconUrl": "images/emma.jpg",
@@ -144,10 +143,10 @@
     "message": "here I am",
     "lat_long": [41.146763, -73.494844],
     "year": "'19"
-  }
+  },
   {
     "name": "Braden Pellowski",
-    "iconUrl": "images/bradenpellowski.jpg",
+    "iconUrl": "images/braden.jpg",
     "url": "//bradenpellowski.me",
     "message": "swag",
     "lat_long": [55.755826,37.617300],
