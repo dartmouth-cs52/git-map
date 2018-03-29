@@ -10,7 +10,8 @@
     ],
     "year": "'16"
   },
-    {
+
+  {
     "name": "Kevin Farmer",
     "iconUrl": "images/kfarmer.jpg",
     "url": "//kevinrfarmer.com",
@@ -20,5 +21,17 @@
       -72.923841
     ],
     "year": "'18"
+  },
+  
+  {
+    "name": "Nathan Yu",
+    "iconUrl": "images/nathan_yu.jpg",
+    "url": "//nathanyu.me",
+    "message": "Join DXR if you're interested in VR/AR!! :D",
+    "lat_long": [
+      35.222567,
+      -97.439478
+    ],
+    "year": "'19"
   }
 ]
