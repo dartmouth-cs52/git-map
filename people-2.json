@@ -20,5 +20,17 @@
       -72.923841
     ],
     "year": "'18"
+  },
+
+  {
+    "name": "Nate Neumann",
+    "iconUrl": "images/pusheenicorn.jpg",
+    "url": "//nneumann.me",
+    "message": "<Error: self-description not found.>",
+    "lat_long": [
+      33.0370,
+      -117.2920
+    ],
+    "year": "'20"
   }
 ]
