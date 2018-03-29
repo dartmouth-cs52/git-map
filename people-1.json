@@ -1,14 +1,11 @@
 [
   {
-    "name": "Tim",
-    "iconUrl": "images/tim_round.jpg",
-    "url": "//www.zingweb.com",
-    "message": "Hiking in the High Sierras!",
-    "lat_long": [
-      37.2320967,
-      -118.8578716
-    ],
-    "year": "11BC"
+    "name": "Annie",
+    "iconUrl": "images/annie.jpg",
+    "url": "//annieke.me",
+    "message": "graphic design is my passion",
+    "lat_long": [37.338208, -121.886329],
+    "year": "'19"
   },
   {
     "name": "Sia",
@@ -18,6 +15,17 @@
     "lat_long": [
       49.2827,
       -123.1207
+    ],
+    "year": "11BC"
+  },
+  {
+    "name": "Tim",
+    "iconUrl": "images/tim_round.jpg",
+    "url": "//www.zingweb.com",
+    "message": "Hiking in the High Sierras!",
+    "lat_long": [
+      37.2320967,
+      -118.8578716
     ],
     "year": "11BC"
   }
