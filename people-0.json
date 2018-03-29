@@ -48,9 +48,17 @@
     "year": "'19"
   },
   {
+    "name": "Teddy",
+    "iconUrl": "images/teddy.jpg",
+    "url": "//teddyni.com",
+    "message": "always down to chill to some Taylor Swift",
+    "lat_long": [41.732343, -71.311612],
+    "year": "'19'"
+  },
+  {
     "name": "Sam Ching",
     "iconUrl": "images/samching.jpg",
-    "url": "//samching.me",
+    "url": "//samcwl.me",
     "message": "Yay, Sunny Tiny Island of Singapore",
     "lat_long": [1.3521,103.8198],
     "year": "'19"
@@ -61,6 +69,14 @@
     "url": "//ayc19.me",
     "message": "Are you from tennessee? Because your the only ten i see!",
     "lat_long": [35.877855,-84.171134],
+    "year": "'19"
+  },
+  {
+    "name": "Azhar Hussain",
+    "iconUrl": "images/azharhussain.png",
+    "url": "//azharhussain.me",
+    "message": "Go Big Green",
+    "lat_long": [32.934190, -97.129119],
     "year": "'19"
   }
 ]
