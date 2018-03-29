@@ -127,5 +127,13 @@
     "message": "From a college town smaller and colder than Hanover",
     "lat_long": [42.827014,-75.544624],
     "year": "'18"
+  },
+  {
+    "name": "Isaac Gluck",
+    "iconUrl": "images/isaac.jpg",
+    "url": "//isaacgluck.me",
+    "message": "whoa",
+    "lat_long": [40.712775,-74.005973],
+    "year": "'19"
   }
 ]
