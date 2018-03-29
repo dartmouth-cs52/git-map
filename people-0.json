@@ -62,7 +62,7 @@
     "message": "Yay, Sunny Tiny Island of Singapore",
     "lat_long": [1.3521,103.8198],
     "year": "'19"
-  }
+  },
   {
     "name": "Azhar Hussain",
     "iconUrl": "images/azharhussain.png",
@@ -70,5 +70,13 @@
     "message": "Go Big Green",
     "lat_long": [32.934190, -97.129119],
     "year": "'19"
-  }
+  },
+  {
+    "name": "Isabel",
+    "iconUrl": "images/resized_isabel.jpg",
+    "url": "//isabelh.me",
+    "message": "sunny CA",
+    "lat_long": [37.8716, -122.2727],
+    "year": "'19"
+  },
 ]
