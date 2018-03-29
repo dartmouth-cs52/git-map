@@ -164,6 +164,8 @@ Find a lat long: http://www.latlong.net/
 
 🚀 Play around with it till you have a working badge visible on your local dev site:  http://localhost:9000/ and when you click on the badge it is able to load in the page you made into the modal.
 
+If you have [trouble with json](https://jsonformatter.curiousconcept.com/) - you can run it through a validator to make sure the syntax is ok.
+
 
 ### Rebase local branch
 When you're nearly ready to publish, rebase your local branch on top of the latest master one more time. Just like you have been above. Note: we are using rebasing here instead of just pulling, because now we are pros. 🏆  What this does is basically pull in all remote changes and then replay your commits on top of them. This gives you a cleaner version history.
