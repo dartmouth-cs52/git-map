@@ -22,6 +22,20 @@
     ],
     "year": "'18"
   },
+
+<<<<<<< HEAD
+  {
+    "name": "Nate Neumann",
+    "iconUrl": "images/fujicrop.jpg",
+    "url": "//nneumann.me",
+    "message": "Error: self-description not found.",
+    "lat_long": [
+      33.0370,
+      -117.2920
+    ],
+    "year": "'20"
+},
+
   {
   "name": "Amy Guan",
   "iconUrl": "images/amy.jpg",
@@ -33,6 +47,8 @@
   ],
   "year": "'20"
 },
+=======
+>>>>>>> new
   {
     "name": "Nathan Yu",
     "iconUrl": "images/nathan_yu.jpg",
@@ -44,7 +60,28 @@
     ],
     "year": "'19"
   },
-
+  {
+    "name": "Sam Schiff",
+    "iconUrl": "images/Sam.png",
+    "url": "//samschiff.me",
+    "message": "This is cool",
+    "lat_long": [
+      40.7128,
+      74.006],
+    "year": "'20"
+  },
+  
+  {
+    "name": "Ijemma Onwuzulike",
+    "iconUrl": "images/ijemma.png",
+    "url": "//ijemmao.me",
+    "message": "where the memes are spicy 🤙🏾",
+    "lat_long": [
+      37.9492705,
+      -121.7354938
+    ],
+    "year": "'19"
+  },
   {
     "name": "Sofia Stanescu-Bellu",
     "iconUrl": "images/sofia.jpg",
@@ -56,4 +93,20 @@
     ],
     "year": "'20"
   }
+<<<<<<< HEAD
+
+
+=======
+  {
+    "name": "Katherine Bernardez",
+    "iconUrl": "images/katherine_bernardez.jpg",
+    "url": "//katherinebernardez.me",
+    "message": "I love CS52!",
+    "lat_long": [
+      47.595226,
+      -122.242168
+    ],
+    "year": "'20"
+  }
+>>>>>>> new
 ]
