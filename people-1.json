@@ -115,5 +115,16 @@
     ],
     "year": "'20"
 
+  },
+  {
+    "name": "Brian",
+    "iconUrl": "images/brian.jpg",
+    "url": "//www.bkeare.me",
+    "message": "SOS! Please Help Me!",
+    "lat_long": [
+      -7.3110000,
+      -131.0457000
+    ],
+    "year": "2018"
   }
 ]
