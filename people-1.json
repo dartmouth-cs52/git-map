@@ -167,5 +167,16 @@
       "message": "Hello World",
       "lat_long": [47.6101, -122.201516],
       "year": "'19'"
+    },
+    {
+        "name": "Weiling",
+        "iconUrl": "images/weiling.jpg",
+        "url": "//www.zingweb.com",
+        "message": "I love steak!",
+        "lat_long": [
+          42.280826,
+          -83.743038
+        ],
+        "year": "19"
     }
 ]
