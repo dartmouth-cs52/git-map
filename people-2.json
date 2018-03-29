@@ -144,5 +144,16 @@
       -122.419416
     ],
     "year": "'18"
+  },
+  {
+    "name": "Helen He",
+    "iconUrl": "images/helen.jpg",
+    "url": "//helenhe.me",
+    "message": "Sign up for HackDartmouth!",
+    "lat_long": [
+      33.019843,
+      -96.698886
+    ],
+    "year": "'18"
   }
 ]
