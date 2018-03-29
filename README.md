@@ -168,7 +168,7 @@ If you have [trouble with json](https://jsonformatter.curiousconcept.com/) - you
 
 
 ### Rebase local branch
-When you're nearly ready to publish, rebase your local branch on top of the latest master one more time. Just like you have been above. Note: we are using rebasing here instead of just pulling, because now we are pros. 🏆  What this does is basically pull in all remote changes and then replay your commits on top of them. This gives you a cleaner version history.
+When you're nearly ready to publish, rebase your local branch on top of the latest master one more time. Just like you have been above. Note: we are using rebasing here instead of just pulling, because now we are pros. 🏆  What this does is basically pull in all remote changes and then replay your commits on top of them. This gives you a cleaner version history. Don't forget to `git add` and `git commit` your changes before pulling in new changes (it'll warn you though). 
 
 ```bash
 💻 git pull --rebase origin master
