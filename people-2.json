@@ -134,5 +134,16 @@
       93.0900
     ],
     "year": "'18"
+  },
+  {
+    "name": "Raul Rodriguez",
+    "iconUrl": "images/raul.jpg",
+    "url": "//rrod.me",
+    "message": "When the seagulls follow the trawler, it's because they think sardines will be thrown into the sea.",
+    "lat_long": [
+      40.4168,
+      3.7038
+    ],
+    "year": "'19"
   }
 ]
