@@ -22,6 +22,7 @@
     ],
     "year": "'18"
   },
+
   {
     "name": "Nate Neumann",
     "iconUrl": "images/fujicrop.jpg",
@@ -32,18 +33,20 @@
       -117.2920
     ],
     "year": "'20"
-},
+  },
+
   {
-  "name": "Amy Guan",
-  "iconUrl": "images/amy.jpg",
-  "url": "//amy52.me",
-  "message": "new badge who dis",
-  "lat_long": [
-    40.350030,
-    -74.661422
-  ],
-  "year": "'20"
-},
+    "name": "Amy Guan",
+    "iconUrl": "images/amy.jpg",
+    "url": "//amy52.me",
+    "message": "new badge who dis",
+    "lat_long": [
+      40.350030,
+      -74.661422
+    ],
+    "year": "'20"
+  },
+
   {
     "name": "Nathan Yu",
     "iconUrl": "images/nathan_yu.jpg",
@@ -108,5 +111,19 @@
       -122.242168
     ],
     "year": "'20"
+  }
+
+  ,
+
+  {
+    "name": "Savannah Liu",
+    "iconUrl": "images/savannah.jpg",
+    "url": "//savannahliu.me",
+    "message": ":)",
+    "lat_long": [
+      37.774929,
+      -122.419416
+    ],
+    "year": "'18"
   }
 ]
