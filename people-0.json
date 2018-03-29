@@ -136,4 +136,13 @@
     "lat_long": [40.712775,-74.005973],
     "year": "'19"
   }
+
+  {
+    "name": "Emma Kennelly",
+    "iconUrl": "images/emma.jpeg",
+    "url": "//emmakennelly.me",
+    "message": "here I am",
+    "lat_long": [41.146763, -73.494844],
+    "year": "'19"
+  }
 ]
