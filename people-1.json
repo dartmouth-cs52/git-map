@@ -134,5 +134,16 @@
         "message": "hi im cole",
         "lat_long": [41.823989, -71.412834],
         "year": "'19'"
+    },
+    {
+    "name": "Benji",
+    "iconUrl": "images/benji.jpg",
+    "url": "//benjihannam.me",
+    "message": "The cake is a lie.",
+    "lat_long": [
+      51.513522,
+      -0.209115
+    ],
+    "year": "'18"
     }
 ]
