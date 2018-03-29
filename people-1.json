@@ -1,13 +1,5 @@
 [
   {
-       "name": "Taggart",
-       "iconUrl": "images/taggart.jpg",
-       "url": "//taggartbonham.me",
-       "message": "These map things are pretty nifty, huh?",
-       "lat_long": [56.1305, 106.3468],
-       "year": "'20"
-  },
-  {
     "name": "Annie",
     "iconUrl": "images/annie.jpg",
     "url": "//annieke.me",
@@ -81,6 +73,17 @@
       -87.629798
     ],
     "year": "19"
+  },
+  {
+    "name": "Brian",
+    "iconUrl": "images/briant.png",
+    "url": "//briantomasco.me",
+    "message": "I live here",
+    "lat_long": [
+      41.630279,
+      -72.863342
+    ],
+    "year": "20"
   },
   {
     "name": "Andrew",
