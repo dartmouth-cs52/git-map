@@ -22,5 +22,13 @@
     "message": "graphic design is my passion",
     "lat_long": [37.338208, -121.886329],
     "year": "'19"
+  },
+  {
+    "name": "Luisa",
+    "iconUrl": "images/luisa.jpg",
+    "url": "//luisavasquez.com",
+    "message": "wishing for warmer weather",
+    "lat_long": [4, -74],
+    "year": "'18"
   }
 ]
