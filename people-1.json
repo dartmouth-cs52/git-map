@@ -96,7 +96,7 @@
   {
     "name": "Junfei",
     "iconUrl": "images/junfei.jpg",
-    "url": "//flashing3.me",
+    "url": "flashing3.me",
     "message": "Ball is life",
     "lat_long": [
       31.236830,
@@ -126,5 +126,16 @@
       -131.0457000
     ],
     "year": "2018"
+  },
+  {
+    "name": "Lessley",
+    "iconUrl": "images/LessleyHe.jpg",
+    "url": "//lessleyhernandez.me",
+    "message": "El Salvador is a country.",
+    "lat_long": [
+      13.808674,
+      -89.180122
+    ],
+    "year": "'20'"
   }
 ]
