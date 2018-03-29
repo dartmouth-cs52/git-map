@@ -57,7 +57,7 @@
     ],
     "year": "'19"
   },
-  
+
   {
     "name": "Ijemma Onwuzulike",
     "iconUrl": "images/ijemma.png",
@@ -79,5 +79,17 @@
       21.236615
     ],
     "year": "'20"
+  },
+  {
+    "name": "Lindsey Hodel",
+    "iconUrl": "images/lindsey.jpg",
+    "url": "//lindseyhodel.me",
+    "message": "Can't touch the vision",
+    "lat_long": [
+      21.320155,
+      -157.808681
+    ],
+    "year": "'19"
   }
+
 ]
