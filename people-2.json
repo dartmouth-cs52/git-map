@@ -122,10 +122,18 @@
       3.379206
     ],
     "year": "19"
-  }
-
-  ,
-
+  },
+  {
+    "name": "Zack Johnson",
+    "iconUrl": "images/zack.jpg",
+    "url": "//zackjohnson.me",
+    "message": "Error 404: Spring Weather Not Found",
+    "lat_long": [
+      41.654173,
+      -71.542039
+    ],
+    "year": "'20"
+  },
   {
     "name": "Savannah Liu",
     "iconUrl": "images/savannah.jpg",
