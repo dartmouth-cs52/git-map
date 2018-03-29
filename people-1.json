@@ -28,5 +28,16 @@
       -118.8578716
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Thomas",
+    "iconUrl": "images/thomas.jpg",
+    "url": "//www.thomasdkim.me",
+    "message": "If you know, you know",
+    "lat_long": [
+      33.888504,
+      -117.813257 
+    ],
+    "year": "19"
   }
 ]
