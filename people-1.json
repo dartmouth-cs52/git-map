@@ -30,7 +30,6 @@
     "year": "11BC"
   },
   {
-
     "name": "Annika",
     "iconUrl": "images/Ann.jpg",
     "url": "//www.annikakouhia.me",
@@ -173,5 +172,16 @@
       26.412500
     ],
     "year": "'19'"
+  },
+  {
+    "name": "Benji",
+    "iconUrl":"images/benji.jpg",
+    "url": "//www.benjihannam.me",
+    "message": "Making my way dowtown, moving fast, faces pass and i'm homebound",
+    "lat_long": [
+      51.513522,
+      -0.209115
+    ],
+    "year" : "2018"
   }
 ]
