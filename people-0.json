@@ -46,5 +46,13 @@
     "message": "food makes me happy",
     "lat_long": [42.395640, -71.177611],
     "year": "'19"
+  },
+  {
+    "name": "Sam Ching",
+    "iconUrl": "images/samching.jpg",
+    "url": "//samching.me",
+    "message": "Yay, Sunny Tiny Island of Singapore",
+    "lat_long": [1.3521,103.8198],
+    "year": "'19"
   }
 ]
