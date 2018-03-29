@@ -48,11 +48,51 @@
     "year": "'19"
   },
   {
+    "name": "Teddy",
+    "iconUrl": "images/teddy.jpg",
+    "url": "//teddyni.com",
+    "message": "always down to chill to some Taylor Swift",
+    "lat_long": [41.732343, -71.311612],
+    "year": "'19'"
+  },
+  {
     "name": "Sam Ching",
     "iconUrl": "images/samching.jpg",
-    "url": "//samching.me",
+    "url": "//samcwl.me",
     "message": "Yay, Sunny Tiny Island of Singapore",
     "lat_long": [1.3521,103.8198],
+    "year": "'19"
+  },
+  {
+    "name": "Alex Petros",
+    "iconUrl": "images/petros.jpg",
+    "url": "//apetros.me",
+    "message": "Selfie from the J Crew dressing room",
+    "lat_long": [25.693713, -80.162825],
+    "year": "'19'"
+  },
+  {
+    "name": "Azhar Hussain",
+    "iconUrl": "images/azharhussain.png",
+    "url": "//azharhussain.me",
+    "message": "Go Big Green",
+    "lat_long": [32.934190, -97.129119],
+    "year": "'19"
+  },
+  {
+    "name": "Kevin Xue",
+    "iconUrl": "images/kxue.jpg",
+    "url": "//kfxue.me",
+    "message": "not actually from Seattle",
+    "lat_long": [47.6062, 122.3321],
+    "year": "'18"
+  },
+  {
+    "name": "Ally Mahmoud",
+    "iconUrl": "images/ally1.jpg",
+    "url": "//zanzibar.net/",
+    "message": "Welcome to Zanzibar!",
+    "lat_long": [-6.16394,39.19793],
     "year": "'19"
   }
 ]
