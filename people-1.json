@@ -162,5 +162,16 @@
       -90.1994
     ],
     "year": "'18'"
+  },
+  {
+    "name": "Andy",
+    "iconUrl": "images/andy.png",
+    "url": "//bandohess.com",
+    "message": "Hello",
+    "lat_long": [
+      -78.007027,
+      26.412500
+    ],
+    "year": "'19'"
   }
 ]
