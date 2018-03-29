@@ -4,10 +4,7 @@
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
     "message": "Come visit me in Costa Rica!",
-    "lat_long": [
-      9.6660971,
-      -85.0621176
-    ],
+    "lat_long": [9.6660971, -85.0621176],
     "year": "'21"
   },
   {
@@ -15,10 +12,15 @@
     "iconUrl": "images/alma.jpg",
     "url": "//almawang.github.io",
     "message": "Add me on LinkedIn!",
-    "lat_long": [
-      -76.337187,
-      22.699087
-    ],
+    "lat_long": [-76.337187, 22.699087],
     "year": "'18'"
-   }
+  },
+  {
+    "name": "Annie",
+    "iconUrl": "images/annie.jpg",
+    "url": "//annieke.me",
+    "message": "graphic design is my passion",
+    "lat_long": [37.338208, -121.886329],
+    "year": "'19"
+  }
 ]
