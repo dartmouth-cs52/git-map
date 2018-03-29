@@ -56,5 +56,28 @@
       -97.439478
     ],
     "year": "'19"
+  },
+  
+  {
+    "name": "Ijemma Onwuzulike",
+    "iconUrl": "images/ijemma.png",
+    "url": "//ijemmao.me",
+    "message": "where the memes are spicy 🤙🏾",
+    "lat_long": [
+      37.9492705,
+      -121.7354938
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Sofia Stanescu-Bellu",
+    "iconUrl": "images/sofia.jpg",
+    "url": "//sofiasb.me",
+    "message": "Can't touch the vision",
+    "lat_long": [
+      45.760396,
+      21.236615
+    ],
+    "year": "'20"
   }
 ]
