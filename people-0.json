@@ -55,4 +55,12 @@
     "lat_long": [1.3521,103.8198],
     "year": "'19"
   }
+  {
+    "name": "Ally Mahmoud",
+    "iconUrl": "images/ally.jpg",
+    "url": "//zanzibar.net/",
+    "message": "Welcome to Zanzibar!",
+    "lat_long": [-6.16394,39.19793],
+    "year": "'19"
+  }
 ]
