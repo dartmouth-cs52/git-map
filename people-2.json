@@ -9,5 +9,16 @@
       -38.847656
     ],
     "year": "'16"
+  },
+    {
+    "name": "Kevin Farmer",
+    "iconUrl": "images/kfarmer.jpg",
+    "url": "//kevinrfarmer.com",
+    "message": "We need more snow",
+    "lat_long": [
+      44.675221,
+      -72.923841
+    ],
+    "year": "'18"
   }
 ]
