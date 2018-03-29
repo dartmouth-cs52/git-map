@@ -22,12 +22,12 @@
     "name": "Shivam",
     "iconUrl": "images/shivam.jpg",
     "url": "//shivamgoyal.me",
-    "message": "Lost",
+    "message": "Guess where am I?",
     "lat_long": [
-      -4.493111,
-      -153.841655
+      -40,
+      23
     ],
-    "year": "11BC"
+    "year": "'BE"
   },
   {
     "name": "Tim",
