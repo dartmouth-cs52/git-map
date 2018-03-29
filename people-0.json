@@ -70,5 +70,13 @@
     "message": "Go Big Green",
     "lat_long": [32.934190, -97.129119],
     "year": "'19"
+  },
+  {
+    "name": "Chae Kim",
+    "iconUrl": "images/chae.jpg",
+    "url": "//compsci.me",
+    "message": "Hi",
+    "lat_long": [37.522476, 126.973816],
+    "year": "'18"
   }
 ]
