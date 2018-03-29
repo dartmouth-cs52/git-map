@@ -173,5 +173,16 @@
       26.412500
     ],
     "year": "'19'"
+  },
+  {
+    "name": "Steven",
+    "iconUrl": "images/stevenkim.jpg",
+    "url": "//cs52skim.me",
+    "message": "Hello World",
+    "lat_long": [
+      47.6101,
+      -122.201516
+    ],
+    "year": "'19'"
   }
 ]
