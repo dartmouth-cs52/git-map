@@ -43,5 +43,17 @@
       -97.439478
     ],
     "year": "'19"
+  },
+
+  {
+    "name": "Sofia Stanescu-Bellu",
+    "iconUrl": "images/sofia.jpg",
+    "url": "//sofiasb.me",
+    "message": "Can't touch the vision",
+    "lat_long": [
+      45.760396,
+      21.236615
+    ],
+    "year": "'20"
   }
 ]
