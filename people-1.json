@@ -1,5 +1,13 @@
 [
   {
+       "name": "Taggart",
+       "iconUrl": "images/taggart.jpg",
+       "url": "//taggartbonham.me",
+       "message": "These map things are pretty nifty, huh?",
+       "lat_long": [56.1305, 106.3468],
+       "year": "'20"
+  },
+  {
     "name": "Annie",
     "iconUrl": "images/annie.jpg",
     "url": "//annieke.me",
