@@ -116,7 +116,6 @@
       -122.032182
     ],
     "year": "'20"
-
   },
   {
     "name": "Brian",
@@ -175,13 +174,13 @@
   },
   {
     "name": "Benji",
-    "iconUrl":"images/benji.jpg",
-    "url": "//www.benjihannam.me",
-    "message": "Making my way dowtown, moving fast, faces pass and i'm homebound",
+    "iconUrl": "images/benji.jpg",
+    "url": "//benjihannam.me",
+    "message": "The cake is a lie.",
     "lat_long": [
       51.513522,
       -0.209115
     ],
-    "year" : "2018"
+    "year": "'18"
   }
 ]
