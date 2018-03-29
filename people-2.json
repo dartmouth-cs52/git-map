@@ -158,6 +158,17 @@
     "year": "'19"
   },
   {
+    "name": "Michelle Yu",
+    "iconUrl": "images/michelle.jpg",
+    "url": "//michelleyu.me",
+    "message": "Hi!! :)",
+    "lat_long": [
+      42.704357,
+      -73.911643
+    ],
+    "year": "'19"
+  },
+  {
     "name": "Jasmine Mai",
     "iconUrl": "images/jasmine.jpg",
     "url": "//jwmai.me",
@@ -167,6 +178,5 @@
       139.691706
     ],
     "year": "'20"
-  },
-
+  }
 ]
