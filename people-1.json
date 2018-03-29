@@ -64,4 +64,16 @@
     "year": "22"
   }
 
+  {
+    "name": "Jake",
+    "iconUrl": "images/jstern.jpg",
+    "url": "jstern.me",
+    "message": "hello there",
+    "lat_long": [
+      51.507351,
+      -0.127758
+    ],
+    "year": "'20"
+  }
+
 ]
