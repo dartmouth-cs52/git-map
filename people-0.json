@@ -7,6 +7,7 @@
     "lat_long": [9.6660971, -85.0621176],
     "year": "'21"
   },
+
   {
     "name": "Alma",
     "iconUrl": "images/alma.jpg",
@@ -71,6 +72,14 @@
     "lat_long": [25.693713, -80.162825],
     "year": "'19'"
   },
+  {
+    "name": "Sara Topic",
+    "iconUrl": "images/saratopic.jpg",
+    "url": "//stopic13.me",
+    "message": " 'It's a love story, baby just say yes' ~ author unknown",
+    "lat_long": [43.6, 1.47],
+    "year": "18"
+  }
   {
     "name": "Azhar Hussain",
     "iconUrl": "images/azharhussain.png",
