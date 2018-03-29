@@ -1,4 +1,13 @@
 [
+  {
+    "name": "Abenezer",
+    "iconUrl": "images/abenezer.jpg",
+    "url": "//abenezerdara.me",
+    "message": "What a fun website!",
+    "lat_long": [8.980603, 38.757761],
+    "year": "'20"
+  },
+
     {
       "name": "Kyu",
       "iconUrl": "images/kyu.jpg",
