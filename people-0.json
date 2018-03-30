@@ -7,7 +7,14 @@
     "lat_long": [9.6660971, -85.0621176],
     "year": "'21"
   },
-
+  {
+    "name": "Alex",
+    "iconUrl": "images/alex.jpg",
+    "url": "//alexanderdanilowicz.com",
+    "message": "California is the greatest place in the world!",
+    "lat_long": [32.696665, -117.176287],
+    "year": "'19'"
+  },
   {
     "name": "Alma",
     "iconUrl": "images/alma.jpg",
@@ -62,6 +69,14 @@
     "url": "//samcwl.me",
     "message": "Yay, Sunny Tiny Island of Singapore",
     "lat_long": [1.3521,103.8198],
+    "year": "'19"
+  },
+  {
+    "name": "Alex Chan",
+    "iconUrl": "images/Alex_Chan.png",
+    "url": "//ayc19.me",
+    "message": "Are you from tennessee? Because your the only ten i see!",
+    "lat_long": [35.877855,-84.171134],
     "year": "'19"
   },
   {
@@ -135,8 +150,7 @@
     "message": "whoa",
     "lat_long": [40.712775,-74.005973],
     "year": "'19"
-  }
-
+  },
   {
     "name": "Emma Kennelly",
     "iconUrl": "images/emma.jpg",
@@ -144,5 +158,13 @@
     "message": "here I am",
     "lat_long": [41.146763, -73.494844],
     "year": "'19"
+  },
+  {
+    "name": "Braden Pellowski",
+    "iconUrl": "images/braden.jpg",
+    "url": "//bradenpellowski.me",
+    "message": "swag",
+    "lat_long": [55.755826,37.617300],
+    "year": "'18"
   }
 ]

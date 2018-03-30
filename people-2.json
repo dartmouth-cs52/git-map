@@ -57,6 +57,17 @@
     "year": "'20"
   },
   {
+    "name": "Lindsey Hodel",
+    "iconUrl": "images/lindsey.jpg",
+    "url": "//lindseyhodel.me",
+    "message": "Can't touch the vision",
+    "lat_long": [
+      21.320155,
+      -157.808681
+    ],
+    "year": "'19"
+  },
+  {
     "name": "Katherine Bernardez",
     "iconUrl": "images/katherine_bernardez.jpg",
     "url": "//katherinebernardez.me",
@@ -134,5 +145,38 @@
       93.0900
     ],
     "year": "'18"
+  },
+  {
+    "name": "Raul Rodriguez",
+    "iconUrl": "images/raul.jpg",
+    "url": "//rrod.me",
+    "message": "When the seagulls follow the trawler, it's because they think sardines will be thrown into the sea.",
+    "lat_long": [
+      40.4168,
+      3.7038
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Michelle Yu",
+    "iconUrl": "images/michelle.jpg",
+    "url": "//michelleyu.me",
+    "message": "Hi!! :)",
+    "lat_long": [
+      42.704357,
+      -73.911643
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Jasmine Mai",
+    "iconUrl": "images/jasmine.jpg",
+    "url": "//jwmai.me",
+    "message": ":D :D :D",
+    "lat_long": [
+      35.689487,
+      139.691706
+    ],
+    "year": "'20"
   }
 ]
