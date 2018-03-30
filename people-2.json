@@ -198,5 +198,16 @@
       -97.015008
     ],
     "year": "'18"
+  },
+  {
+    "name": "Bobby Crawford",
+    "iconUrl": "images/bobby.jpg",
+    "url": "//bcrawford.me",
+    "message": "I'm just here so I don't get fined",
+    "lat_long": [
+      43.012527,
+      -83.687456
+    ],
+    "year": "'19"
   }
 ]
