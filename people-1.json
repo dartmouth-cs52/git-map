@@ -256,6 +256,17 @@
       -0.127758
     ],
     "year": "'20"
+  },
+  {
+    "name": "Scott",
+    "iconUrl": "images/scott2.jpg",
+    "url": "//smagnuson.me",
+    "message": "hello!",
+    "lat_long": [
+      37.562992,
+      -122.325525
+    ],
+    "year": "'19"
   }
 
 ]
