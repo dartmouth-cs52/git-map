@@ -159,5 +159,13 @@
     "message": "swag",
     "lat_long": [55.755826,37.617300],
     "year": "'18"
+  },
+  {
+    "name": "Mahnoor Maqsood",
+    "iconUrl": "images/mahnoor.jpg",
+    "url": "",
+    "message": "Heloooooo!",
+    "lat_long": [25.070043, 67.284787],
+    "year": "'18'"
   }
 ]
