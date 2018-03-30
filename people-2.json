@@ -79,6 +79,17 @@
     "year": "'20"
   },
   {
+    "name": "Stephen Liao",
+    "iconUrl": "images/stephen_icon.jpg",
+    "url": "//stephenliao.me",
+    "message": "Man's not hot!",
+    "lat_long": [
+      39.1031,
+      -84.5120
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Jolene Bernagene",
     "iconUrl": "images/Bernagene.jpg",
     "url": "//joleneb.me",
@@ -88,9 +99,7 @@
       -73.944158
     ],
     "year": "'19"
-  }
-
-  ,
+  },
   {
     "name": "Moyosore Okeremi",
     "iconUrl": "images/moyo.jpg",
