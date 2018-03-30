@@ -7,23 +7,6 @@
     "lat_long": [8.980603, 38.757761],
     "year": "'20"
   },
-
-    {
-      "name": "Kyu",
-      "iconUrl": "images/kyu.jpg",
-      "url": "//kkim.me",
-      "message": "What a fun website!",
-      "lat_long": [37.566535, 126.977969],
-      "year": "'18"
-    },
-    {
-      "name": "Annie",
-      "iconUrl": "images/annie.jpg",
-      "url": "//annieke.me",
-      "message": "graphic design is my passion",
-      "lat_long": [37.338208, -121.886329],
-      "year": "'19"
-    },
     {
         "name": "Sia",
         "iconUrl": "images/sia.jpg",
@@ -32,6 +15,14 @@
         "lat_long": [49.2827, -123.1207],
         "year": "11BC"
     },
+{
+    "name": "Shivam",
+    "iconUrl": "images/shivam.jpg",
+    "url": "//shivamgoyal.me",
+    "message": "Guess where am I?",
+    "lat_long": [-40.8655,23.4648],
+    "year": "'BE"
+  },
     {
         "name": "Tim",
         "iconUrl": "images/tim_round.jpg",
@@ -171,12 +162,21 @@
     {
         "name": "Weiling",
         "iconUrl": "images/weiling.jpg",
-        "url": "//www.zingweb.com",
+        "url": "//weilingx46.me",
         "message": "I love steak!",
         "lat_long": [
           42.280826,
           -83.743038
         ],
         "year": "19"
-    }
+    },
+  {
+    "name": "Alex",
+    "iconUrl": "images/alexb.png",
+    "url": "//alexgbailey.me",
+    "message": "Shruti was here",
+    "lat_long": [42.370930, -71.182832],
+    "year": "'18"
+  }
+
 ]

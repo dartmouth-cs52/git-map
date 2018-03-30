@@ -178,5 +178,16 @@
       139.691706
     ],
     "year": "'20"
+  },
+  {
+    "name": "Shashwat Chaturvedi",
+    "iconUrl": "images/shash.png",
+    "url": "//cshashwat.me",
+    "message": "Welcome!",
+    "lat_long": [
+      32.954569,
+      -97.015008
+    ],
+    "year": "'18"
   }
 ]
