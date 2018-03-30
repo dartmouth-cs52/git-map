@@ -166,13 +166,13 @@
     "message": "swag",
     "lat_long": [55.755826,37.617300],
     "year": "'18"
-  }
+  },
   {
     "name": "Kevin Hu",
-    "iconUrl": "images/kevhu.png",
+    "iconUrl": "images/samching.jpg",
     "url": "//recordatlas.me",
-    "message": "Hello, I am Kevin Star",
-    "lat_long": [37.774929,-122.419416],
+    "message": "Hello",
+    "lat_long": [1.3521,103.8198],
     "year": "'20"
   }
 ]
