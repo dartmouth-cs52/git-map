@@ -182,5 +182,13 @@
     "message": "Hello, I am Kevin Star",
     "lat_long": [37.774929,-122.419416],
     "year": "'20"
+  },
+  {
+    "name": "Brittany Critchfield",
+    "iconUrl": "images/brittany.jpg",
+    "url": "//brittanyc.me",
+    "message": "hi there",
+    "lat_long": [40.760779,-111.891047],
+    "year": "'20"
   }
 ]
