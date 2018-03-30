@@ -7,7 +7,14 @@
     "lat_long": [9.6660971, -85.0621176],
     "year": "'21"
   },
-
+  {
+    "name": "Alex",
+    "iconUrl": "images/alex.jpg",
+    "url": "//alexanderdanilowicz.com",
+    "message": "California is the greatest place in the world!",
+    "lat_long": [32.696665, -117.176287],
+    "year": "'19'"
+  },
   {
     "name": "Alma",
     "iconUrl": "images/alma.jpg",
