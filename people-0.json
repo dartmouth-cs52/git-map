@@ -169,10 +169,10 @@
   }
   {
     "name": "Kevin Hu",
-    "iconUrl": "images/samching.jpg",
+    "iconUrl": "images/kevhu.png",
     "url": "//recordatlas.me",
-    "message": "Hello",
-    "lat_long": [1.3521,103.8198],
+    "message": "Hello, I am Kevin Star",
+    "lat_long": [37.774929,-122.419416],
     "year": "'20"
   }
 ]
