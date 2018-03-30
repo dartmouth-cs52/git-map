@@ -169,6 +169,14 @@
           -83.743038
         ],
         "year": "19"
-    }
+    },
+  {
+    "name": "Alex",
+    "iconUrl": "images/alexb.png",
+    "url": "//alexgbailey.me",
+    "message": "Shruti was here",
+    "lat_long": [42.370930, -71.182832],
+    "year": "'18"
+  }
 
 ]
