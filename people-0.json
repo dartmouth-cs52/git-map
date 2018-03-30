@@ -167,4 +167,12 @@
     "lat_long": [55.755826,37.617300],
     "year": "'18"
   }
+  {
+    "name": "Kevin Hu",
+    "iconUrl": "images/samching.jpg",
+    "url": "//recordatlas.me",
+    "message": "Hello",
+    "lat_long": [1.3521,103.8198],
+    "year": "'20"
+  }
 ]
