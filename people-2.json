@@ -200,25 +200,14 @@
     "year": "'18"
   },
   {
-    "name": "Justin Luo",
-    "iconUrl": "images/jluo.jpg",
-    "url": "//justinluo.me",
-    "message": "where am i",
+    "name": "Bobby Crawford",
+    "iconUrl": "images/bobby.jpg",
+    "url": "//bcrawford.me",
+    "message": "I'm just here so I don't get fined",
     "lat_long": [
-      43.217238,
-      -88.109612
+      43.012527,
+      -83.687456
     ],
-    "year": "'20"
-  },
-  {
-    "name": "Milan Chuttani",
-    "iconUrl": "images/nemo.jpg",
-    "url": "//mc18.me",
-    "message": "Dad! Is that you?",
-    "lat_long": [
-      -33.857741,
-      151.208045
-    ],
-    "year": "'18"
+    "year": "'19"
   }
 ]
