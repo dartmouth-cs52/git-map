@@ -15,6 +15,14 @@
         "lat_long": [49.2827, -123.1207],
         "year": "11BC"
     },
+    {
+        "name": "Elisabeth",
+        "iconUrl": "images/elisabeth.jpg",
+        "url": "//epills.me",
+        "message": "home sweet home",
+        "lat_long": [43.702245, -72.289553],
+        "year": "'18"
+    },
 {
     "name": "Shivam",
     "iconUrl": "images/shivam.jpg",
