@@ -209,5 +209,16 @@
       -83.687456
     ],
     "year": "'19"
+  },
+  {
+    "name": "Chris Bertasi",
+    "iconUrl": "images/bertasi.jpg",
+    "url": "//chrisbertasi.me",
+    "message": "I'm not superstitious, but I am a little stitious.",
+    "lat_long": [
+      34.191878,
+      -84.072947
+    ],
+    "year": "'19"
   }
 ]
