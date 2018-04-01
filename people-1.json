@@ -1,4 +1,12 @@
 [
+   {
+      "name": "Kyu",
+      "iconUrl": "images/kyu.jpg",
+      "url": "//kkim.me",
+      "message": "What a fun website!",
+      "lat_long": [37.566535, 126.977969],
+      "year": "'18"
+    },
   {
     "name": "Abenezer",
     "iconUrl": "images/abenezer.jpg",
