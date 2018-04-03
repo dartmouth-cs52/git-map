@@ -79,6 +79,17 @@
     "year": "'20"
   },
   {
+    "name": "Stephen Liao",
+    "iconUrl": "images/stephen_icon.jpg",
+    "url": "//stephenliao.me",
+    "message": "Man's not hot!",
+    "lat_long": [
+      39.1031,
+      -84.5120
+    ],
+    "year": "'19"
+  },
+  {
     "name": "Jolene Bernagene",
     "iconUrl": "images/Bernagene.jpg",
     "url": "//joleneb.me",
@@ -88,9 +99,7 @@
       -73.944158
     ],
     "year": "'19"
-  }
-
-  ,
+  },
   {
     "name": "Moyosore Okeremi",
     "iconUrl": "images/moyo.jpg",
@@ -189,5 +198,27 @@
       -97.015008
     ],
     "year": "'18"
+  },
+  {
+    "name": "Bobby Crawford",
+    "iconUrl": "images/bobby.jpg",
+    "url": "//bcrawford.me",
+    "message": "I'm just here so I don't get fined",
+    "lat_long": [
+      43.012527,
+      -83.687456
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Chris Bertasi",
+    "iconUrl": "images/bertasi.jpg",
+    "url": "//chrisbertasi.me",
+    "message": "I'm not superstitious, but I am a little stitious.",
+    "lat_long": [
+      34.191878,
+      -84.072947
+    ],
+    "year": "'19"
   }
 ]

@@ -24,6 +24,14 @@
     "year": "'18'"
   },
   {
+    "name": "Andualem",
+    "iconUrl": "images/andualem.png",
+    "url": "//andualem.me",
+    "message": "Hello World!",
+    "lat_long": [9.145000, 40.489673],
+    "year": "'19'"
+  },
+  {
     "name": "Luisa",
     "iconUrl": "images/luisa.jpg",
     "url": "//luisavasquez.com",
@@ -124,7 +132,7 @@
     "iconUrl": "images/kxue.jpg",
     "url": "//kfxue.me",
     "message": "not actually from Seattle",
-    "lat_long": [47.6062, 122.3321],
+    "lat_long": [47.6062, -122.3321],
     "year": "'18"
   },
   {
@@ -168,9 +176,41 @@
     "year": "'18"
   },
   {
+    "name": "Yifei Yan",
+    "iconUrl": "images/yy.png",
+    "url": "//yifeiyan96.me",
+    "message": "A blend of rice and pasta",
+    "lat_long": [40.851775,14.268124],
+    "year": "'20"
+  },
+  {
+    "name": "Kevin Hu",
+    "iconUrl": "images/kevhu.png",
+    "url": "//recordatlas.me",
+    "message": "Hello, I am Kevin Star",
+    "lat_long": [37.774929,-122.419416],
+    "year": "'20"
+  },
+  {
+    "name": "Brittany Critchfield",
+    "iconUrl": "images/brittany.jpg",
+    "url": "//brittanyc.me",
+    "message": "hi there",
+    "lat_long": [40.760779,-111.891047],
+    "year": "'20"
+  },
+  {
+    "name": "Isabel",
+    "iconUrl": "images/resized_isabel.jpg",
+    "url": "//isabelh.me",
+    "message": "did I break it?",
+    "lat_long": [37.871593, -122.272747],
+    "year": "'19"
+  },
+  {
     "name": "Mahnoor Maqsood",
     "iconUrl": "images/mahnoor.jpg",
-    "url": "",
+    "url": "https://giphy.com/",
     "message": "Heloooooo!",
     "lat_long": [25.070043, 67.284787],
     "year": "'18'"
