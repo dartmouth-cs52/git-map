@@ -206,5 +206,13 @@
     "message": "did I break it?",
     "lat_long": [37.871593, -122.272747],
     "year": "'19"
+  },
+  {
+    "name": "Mahnoor Maqsood",
+    "iconUrl": "images/mahnoor.jpg",
+    "url": "https://giphy.com/",
+    "message": "Heloooooo!",
+    "lat_long": [25.070043, 67.284787],
+    "year": "'18'"
   }
 ]
