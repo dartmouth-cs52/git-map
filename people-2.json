@@ -231,5 +231,16 @@
       -74.661422
     ],
     "year": "'20"
+  },
+  {
+  "name": "Justin Luo",
+  "iconUrl": "images/jluo.jpg",
+  "url": "//justinluo.me",
+  "message": "where am i",
+  "lat_long": [
+    43.217238,
+    -88.109612
+  ],
+  "year": "'20"
   }
 ]
