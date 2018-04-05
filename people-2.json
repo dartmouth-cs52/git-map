@@ -220,5 +220,16 @@
       -84.072947
     ],
     "year": "'19"
+  },
+  {
+    "name": "Amy Guan",
+    "iconUrl": "images/amy.jpg",
+    "url": "//amy52.me",
+    "message": "new badge who dis",
+    "lat_long": [
+      40.350030,
+      -74.661422
+    ],
+    "year": "'20"
   }
 ]
