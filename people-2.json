@@ -10,8 +10,7 @@
     ],
     "year": "'16"
   },
-
-  {
+    {
     "name": "Kevin Farmer",
     "iconUrl": "images/kfarmer.jpg",
     "url": "//kevinrfarmer.com",
@@ -24,61 +23,17 @@
   },
 
   {
-    "name": "Nate Neumann",
-    "iconUrl": "images/fujicrop.jpg",
-    "url": "//nneumann.me",
-    "message": "Error: self-description not found.",
-    "lat_long": [
-      33.0370,
-      -117.2920
-    ],
-    "year": "'20"
+  "name": "Imanol Avendano",
+  "iconUrl": "images/imanol.jpg",
+  "url": "//emanol.me",
+  "message": "Home is where the heart is",
+  "lat_long": [
+    44.9537,
+    93.0900
+  ],
+  "year": "'18"
   },
 
-  {
-    "name": "Amy Guan",
-    "iconUrl": "images/amy.jpg",
-    "url": "//amy52.me",
-    "message": "new badge who dis",
-    "lat_long": [
-      40.350030,
-      -74.661422
-    ],
-    "year": "'20"
-  },
-
-  {
-    "name": "Nathan Yu",
-    "iconUrl": "images/nathan_yu.jpg",
-    "url": "//nathanyu.me",
-    "message": "Join DXR if you're interested in VR/AR!! :D",
-    "lat_long": [
-      35.222567,
-      -97.439478
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Raul Rodriguez",
-    "iconUrl": "images/rodriguez_raul.jpg",
-    "url": "//rrod.me",
-    "message": "ill catch u guyz l4tr imma go mine some bitcoin lololololol",
-    "lat_long": [
-      40.416775,
-      -3.703790
-    ],
-    "year": "'19"
-},
-  {
-    "name": "Sam Schiff",
-    "iconUrl": "images/Sam.png",
-    "url": "//samschiff.me",
-    "message": "This is cool",
-    "lat_long": [
-      40.7128,
-      74.006],
-    "year": "'20"
-  },
   {
     "name": "Ijemma Onwuzulike",
     "iconUrl": "images/ijemma.png",
@@ -102,6 +57,17 @@
     "year": "'20"
   },
   {
+    "name": "Lindsey Hodel",
+    "iconUrl": "images/lindsey.jpg",
+    "url": "//lindseyhodel.me",
+    "message": "Can't touch the vision",
+    "lat_long": [
+      21.320155,
+      -157.808681
+    ],
+    "year": "'19"
+  },
+  {
     "name": "Katherine Bernardez",
     "iconUrl": "images/katherine_bernardez.jpg",
     "url": "//katherinebernardez.me",
@@ -111,18 +77,125 @@
       -122.242168
     ],
     "year": "'20"
-  }
-
-  ,
-
+  },
+  {
+    "name": "Stephen Liao",
+    "iconUrl": "images/stephen_icon.jpg",
+    "url": "//stephenliao.me",
+    "message": "Man's not hot!",
+    "lat_long": [
+      39.1031,
+      -84.5120
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Jolene Bernagene",
+    "iconUrl": "images/Bernagene.jpg",
+    "url": "//joleneb.me",
+    "message": "Hello!! :) ",
+    "lat_long": [
+      40.678178,
+      -73.944158
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Moyosore Okeremi",
+    "iconUrl": "images/moyo.jpg",
+    "url": "//moyook.me",
+    "message": "Can't touch this",
+    "lat_long": [
+      6.524379,
+      3.379206
+    ],
+    "year": "19"
+  },
+  {
+    "name": "Zack Johnson",
+    "iconUrl": "images/zack.jpg",
+    "url": "//zackjohnson.me",
+    "message": "Error 404: Spring Weather Not Found",
+    "lat_long": [
+      41.654173,
+      -71.542039
+    ],
+    "year": "'20"
+  },
   {
     "name": "Savannah Liu",
-    "iconUrl": "images/savannah.jpg",
+    "iconUrl": "images/savannah_l.jpg",
     "url": "//savannahliu.me",
-    "message": ":)",
+    "message": "hi!",
     "lat_long": [
-      37.774929,
-      -122.419416
+      51.048615,
+      -114.070846
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Helen He",
+    "iconUrl": "images/helen.jpg",
+    "url": "//helenhe.me",
+    "message": "Sign up for HackDartmouth!",
+    "lat_long": [
+      33.019843,
+      -96.698886
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Imanol Avendano",
+    "iconUrl": "images/imanol.jpg",
+    "url": "//emanol.me",
+    "message": "Home is where the heart is",
+    "lat_long": [
+      44.9537,
+      93.0900
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Raul Rodriguez",
+    "iconUrl": "images/raul.jpg",
+    "url": "//rrod.me",
+    "message": "When the seagulls follow the trawler, it's because they think sardines will be thrown into the sea.",
+    "lat_long": [
+      40.4168,
+      3.7038
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Michelle Yu",
+    "iconUrl": "images/michelle.jpg",
+    "url": "//michelleyu.me",
+    "message": "Hi!! :)",
+    "lat_long": [
+      42.704357,
+      -73.911643
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Jasmine Mai",
+    "iconUrl": "images/jasmine.jpg",
+    "url": "//jwmai.me",
+    "message": ":D :D :D",
+    "lat_long": [
+      35.689487,
+      139.691706
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Shashwat Chaturvedi",
+    "iconUrl": "images/shash.png",
+    "url": "//cshashwat.me",
+    "message": "Welcome!",
+    "lat_long": [
+      32.954569,
+      -97.015008
     ],
     "year": "'18"
   },
@@ -136,6 +209,50 @@
       -74.006
     ],
     "year": "20"
+  },
+  {
+    "name": "Bobby Crawford",
+    "iconUrl": "images/bobby.jpg",
+    "url": "//bcrawford.me",
+    "message": "I'm just here so I don't get fined",
+    "lat_long": [
+      43.012527,
+      -83.687456
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Chris Bertasi",
+    "iconUrl": "images/bertasi.jpg",
+    "url": "//chrisbertasi.me",
+    "message": "I'm not superstitious, but I am a little stitious.",
+    "lat_long": [
+      34.191878,
+      -84.072947
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Amy Guan",
+    "iconUrl": "images/amy.jpg",
+    "url": "//amy52.me",
+    "message": "new badge who dis",
+    "lat_long": [
+      40.350030,
+      -74.661422
+    ],
+    "year": "'20"
+  },
+  {
+  "name": "Justin Luo",
+  "iconUrl": "images/jluo.jpg",
+  "url": "//justinluo.me",
+  "message": "where am i",
+  "lat_long": [
+    43.217238,
+    -88.109612
+  ],
+  "year": "'20"
   }
 
 ]
