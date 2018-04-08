@@ -125,5 +125,17 @@
       -122.419416
     ],
     "year": "'18"
+  },
+  {
+    "name": "Sam Schiff",
+    "iconUrl": "images/samschiff.jpg",
+    "url": "samschiff.me",
+    "message": "Go Jets!",
+    "lat_long": [
+      40.7128,
+      -74.006
+    ],
+    "year": "20"
   }
+
 ]
