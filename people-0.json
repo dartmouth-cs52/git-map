@@ -4,7 +4,10 @@
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
     "message": "Come visit me in Costa Rica!",
-    "lat_long": [9.6660971, -85.0621176],
+    "lat_long": [
+      9.6660971,
+      -85.0621176
+    ],
     "year": "'21"
   },
   {
@@ -12,207 +15,65 @@
     "iconUrl": "images/alex.jpg",
     "url": "//alexanderdanilowicz.com",
     "message": "California is the greatest place in the world!",
-    "lat_long": [32.696665, -117.176287],
+    "lat_long": [
+      32.696665,
+      -117.176287
+    ],
     "year": "'19'"
-  },
-  {
-    "name": "Alma",
-    "iconUrl": "images/alma.jpg",
-    "url": "//almawang.github.io",
-    "message": "Add me on LinkedIn!",
-    "lat_long": [-76.337187, 22.699087],
-    "year": "'18'"
-  },
-  {
-    "name": "Andualem",
-    "iconUrl": "images/andualem.png",
-    "url": "//andualem.me",
-    "message": "Hello World!",
-    "lat_long": [9.145000, 40.489673],
-    "year": "'19'"
-  },
-  {
-    "name": "Luisa",
-    "iconUrl": "images/luisa.jpg",
-    "url": "//luisavasquez.com",
-    "message": "wishing for warmer weather",
-    "lat_long": [4, -74],
-    "year": "'18"
-  },
-  {
-    "name": "Jon",
-    "iconUrl": "images/jon.jpg",
-    "url": "//jondgonzalez.com",
-    "message": "bird up",
-    "lat_long": [40.705695, -73.827203],
-    "year": "'18"
   },
   {
     "name": "Barry",
     "iconUrl": "images/barry.jpg",
     "url": "//barryyang.me",
     "message": "sup",
-    "lat_long": [40.7998, -73.650962],
+    "lat_long": [
+      40.7998,
+      -73.650962
+    ],
     "year": "'18"
-  },
-  {
-    "name": "Yeonjae",
-    "iconUrl": "images/yeonjae.jpg",
-    "url": "//yeonjaepark.com",
-    "message": "food makes me happy",
-    "lat_long": [42.395640, -71.177611],
-    "year": "'19"
-  },
-  {
-    "name": "Teddy",
-    "iconUrl": "images/teddy.jpg",
-    "url": "//teddyni.com",
-    "message": "always down to chill to some Taylor Swift",
-    "lat_long": [41.732343, -71.311612],
-    "year": "'19'"
-  },
-  {
-    "name": "Sam Ching",
-    "iconUrl": "images/samching.jpg",
-    "url": "//samcwl.me",
-    "message": "Yay, Sunny Tiny Island of Singapore",
-    "lat_long": [1.3521,103.8198],
-    "year": "'19"
   },
   {
     "name": "Alex Chan",
     "iconUrl": "images/Alex_Chan.png",
     "url": "//ayc19.me",
     "message": "Are you from tennessee? Because your the only ten i see!",
-    "lat_long": [35.877855,-84.171134],
+    "lat_long": [
+      35.877855,
+      -84.171134
+    ],
     "year": "'19"
-  },
-  {
-    "name": "Alex Petros",
-    "iconUrl": "images/petros.jpg",
-    "url": "//apetros.me",
-    "message": "Selfie from the J Crew dressing room",
-    "lat_long": [25.693713, -80.162825],
-    "year": "'19"
-  },
-  {
-    "name": "Sara Topic",
-    "iconUrl": "images/saratopic.jpg",
-    "url": "//stopic13.me",
-    "message": " 'It's a love story, baby just say yes' ~ author unknown",
-    "lat_long": [43.6, 1.47],
-    "year": "18"
   },
   {
     "name": "Azhar Hussain",
     "iconUrl": "images/azharhussain.png",
     "url": "//azharhussain.me",
     "message": "Howdy",
-    "lat_long": [32.934190, -97.129119],
+    "lat_long": [
+      32.934190,
+      -97.129119
+    ],
     "year": "'19"
-  },
-  {
-    "name": "Chae Kim",
-    "iconUrl": "images/chae.jpg",
-    "url": "//compsci.me",
-    "message": "Hi",
-    "lat_long": [37.522476, 126.973816],
-    "year": "'18"
-},
-{
-    "name": "Robert Livaudais",
-    "iconUrl": "images/rlivaudais.png",
-    "url": "//rlivaudais.me",
-    "message": "yolo",
-    "lat_long": [29.951066, -90.071532],
-    "year": "'19"
-  },
-  {
-    "name": "Kevin Xue",
-    "iconUrl": "images/kxue.jpg",
-    "url": "//kfxue.me",
-    "message": "not actually from Seattle",
-    "lat_long": [47.6062, -122.3321],
-    "year": "'18"
-  },
-  {
-    "name": "Ally Mahmoud",
-    "iconUrl": "images/ally1.jpg",
-    "url": "//zanzibar.net/",
-    "message": "Welcome to Zanzibar!",
-    "lat_long": [-6.16394,39.19793],
-    "year": "'19"
-  },
-  {
-    "name": "Ted Bausch",
-    "iconUrl": "images/ted_b.jpg",
-    "url": "//tedbausch.me",
-    "message": "From a college town smaller and colder than Hanover",
-    "lat_long": [42.827014,-75.544624],
-    "year": "'18"
   },
   {
     "name": "Isaac Gluck",
     "iconUrl": "images/isaac.jpg",
     "url": "//isaacgluck.me",
     "message": "whoa",
-    "lat_long": [40.712775,-74.005973],
+    "lat_long": [
+      40.712775,
+      -74.005973
+    ],
     "year": "'19"
-  },
-  {
-    "name": "Emma Kennelly",
-    "iconUrl": "images/emma.jpg",
-    "url": "//emmakennelly.me",
-    "message": "here I am",
-    "lat_long": [41.146763, -73.494844],
-    "year": "'19"
-  },
-  {
-    "name": "Braden Pellowski",
-    "iconUrl": "images/braden.jpg",
-    "url": "//bradenpellowski.me",
-    "message": "swag",
-    "lat_long": [55.755826,37.617300],
-    "year": "'18"
-  },
-  {
-    "name": "Yifei Yan",
-    "iconUrl": "images/yy.png",
-    "url": "//yifeiyan96.me",
-    "message": "A blend of rice and pasta",
-    "lat_long": [40.851775,14.268124],
-    "year": "'20"
   },
   {
     "name": "Kevin Hu",
     "iconUrl": "images/kevhu.png",
     "url": "//recordatlas.me",
     "message": "Hello, I am Kevin Star",
-    "lat_long": [37.774929,-122.419416],
+    "lat_long": [
+      37.774929,
+      -122.419416
+    ],
     "year": "'20"
-  },
-  {
-    "name": "Brittany Critchfield",
-    "iconUrl": "images/brittany.jpg",
-    "url": "//brittanyc.me",
-    "message": "hi there",
-    "lat_long": [40.760779,-111.891047],
-    "year": "'20"
-  },
-  {
-    "name": "Isabel",
-    "iconUrl": "images/resized_isabel.jpg",
-    "url": "//isabelh.me",
-    "message": "did I break it?",
-    "lat_long": [37.871593, -122.272747],
-    "year": "'19"
-  },
-  {
-    "name": "Mahnoor Maqsood",
-    "iconUrl": "images/mahnoor.jpg",
-    "url": "https://giphy.com/",
-    "message": "Heloooooo!",
-    "lat_long": [25.070043, 67.284787],
-    "year": "'18'"
   }
 ]

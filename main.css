@@ -34,3 +34,21 @@ a, u {
 .info h4 {
     color: #777;
 }
+
+
+
+.error {
+    padding: 6px 10px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    text-align: left;
+}
+
+.error h1 {
+    color: #777;
+    font-size: 2em;
+}
+

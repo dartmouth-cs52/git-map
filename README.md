@@ -26,7 +26,7 @@ Here's what we're going to do!
 ### Clone The Repo
 
 1. 🚀 Clone the repo:
-`git clone git@github.com:dartmouth-cs52-18S/git-map.git`
+`git clone git@github.com:dartmouth-cs52-19S/git-map.git`
 1. 🚀 change directory to this new workspace:
 `cd git-map`
 
@@ -154,7 +154,7 @@ Now lets add a picture of yourself and a lat long for a place that you like or a
 
 🚀 Open up one of the `people-#.json` files in atom (it doesn't matter which one).
 
-🚀 Add a new json object for yourself. You can start by copy pasting a previous object -- this is the 15 or so lines of text inside the curly braces.
+🚀 Add a new JSON object for yourself. You can start by copy pasting a previous object -- this is the 15 or so lines of text inside the curly braces.
 
 Add an image of yourself into `iconURL`.   It would probably be a good idea to resize your image to be 200x200 pixels. If you don't have a favorite tool for this try [resizeimage](http://resizeimage.net/)
 
