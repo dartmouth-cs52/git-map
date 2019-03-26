@@ -1,46 +1,24 @@
 [
   {
-    "name": "Sofia Stanescu-Bellu",
-    "iconUrl": "images/sofia.jpg",
-    "url": "//sofiasb.me",
-    "message": "Can't touch the vision",
+    "name": "Alex",
+    "iconUrl": "images/alex.jpg",
+    "url": "//alexanderdanilowicz.com",
+    "message": "California is the greatest place in the world!",
     "lat_long": [
-      45.760396,
-      21.236615
+      32.696665,
+      -117.176287
     ],
-    "year": "'20"
+    "year": "'19'"
   },
   {
-    "name": "Katherine Bernardez",
-    "iconUrl": "images/katherine_bernardez.jpg",
-    "url": "//katherinebernardez.me",
-    "message": "I love CS52!",
+    "name": "Barry",
+    "iconUrl": "images/barry.jpg",
+    "url": "//barryyang.me",
+    "message": "sup",
     "lat_long": [
-      47.595226,
-      -122.242168
+      40.7998,
+      -73.650962
     ],
-    "year": "'20"
-  },
-  {
-    "name": "Michelle Yu",
-    "iconUrl": "images/michelle.jpg",
-    "url": "//michelleyu.me",
-    "message": "Hi!! :)",
-    "lat_long": [
-      42.704357,
-      -73.911643
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Jasmine Mai",
-    "iconUrl": "images/jasmine.jpg",
-    "url": "//jwmai.me",
-    "message": ":D :D :D",
-    "lat_long": [
-      35.689487,
-      139.691706
-    ],
-    "year": "'20"
+    "year": "'18"
   }
 ]

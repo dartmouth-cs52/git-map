@@ -11,28 +11,6 @@
     "year": "'21"
   },
   {
-    "name": "Alex",
-    "iconUrl": "images/alex.jpg",
-    "url": "//alexanderdanilowicz.com",
-    "message": "California is the greatest place in the world!",
-    "lat_long": [
-      32.696665,
-      -117.176287
-    ],
-    "year": "'19'"
-  },
-  {
-    "name": "Barry",
-    "iconUrl": "images/barry.jpg",
-    "url": "//barryyang.me",
-    "message": "sup",
-    "lat_long": [
-      40.7998,
-      -73.650962
-    ],
-    "year": "'18"
-  },
-  {
     "name": "Alex Chan",
     "iconUrl": "images/Alex_Chan.png",
     "url": "//ayc19.me",

@@ -81,8 +81,7 @@ var loadJSONFiles = function (index, accumulator, callback) {
         var newlist = parseJSON(xobj.responseText);
         loadJSONFiles(index - 1, accumulator.concat(newlist), callback);
       } else {
-        var newlist = parseJSON(xobj.responseText);
-        callback(accumulator.concat(newlist));
+        callback(accumulator);
       }
     }
   };
@@ -91,7 +90,7 @@ var loadJSONFiles = function (index, accumulator, callback) {
 
 var years = {};
 // load and process members
-loadJSONFiles(5, [], function (response) {
+loadJSONFiles(6, [], function (response) {
   var members = response;
   Object.keys(members).forEach(function (member) {
     addMarker(members[member]);

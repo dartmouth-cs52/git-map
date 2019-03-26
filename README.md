@@ -164,7 +164,15 @@ Find a lat long: http://www.latlong.net/
 
 🚀 Play around with it till you have a working badge visible on your local dev site:  http://localhost:9000/ and when you click on the badge it is able to load in the page you made into the modal.
 
+### Errors
+
+If you get an error on the webpage or nothing displaying, then most likely something in the code is broken. This can be that the JSON is malformed, an extra comma or merge conflict markers.
+
 If you have [trouble with json](https://jsonformatter.curiousconcept.com/) - you can run it through a validator to make sure the syntax is ok.
+
+If nothing displays on the webpage, the first thing to do is open the [chrome debug console](https://developers.google.com/web/tools/chrome-devtools/console/) and look for error messages. 
+
+![console errors](images/docs/console-errors.jpg)
 
 
 ### Rebase local branch
