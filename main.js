@@ -77,11 +77,12 @@ var loadJSONFiles = function (index, accumulator, callback) {
   xobj.open('GET', 'people-' + index + '.json');
   xobj.onreadystatechange = function () {
     if (xobj.readyState == 4 && xobj.status == "200") {
+      var newlist = parseJSON(xobj.responseText);
+      console.log("loading: " + index);
       if (index > 0) {
-        var newlist = parseJSON(xobj.responseText);
         loadJSONFiles(index - 1, accumulator.concat(newlist), callback);
       } else {
-        callback(accumulator);
+        callback(accumulator.concat(newlist));
       }
     }
   };
@@ -90,7 +91,7 @@ var loadJSONFiles = function (index, accumulator, callback) {
 
 var years = {};
 // load and process members
-loadJSONFiles(6, [], function (response) {
+loadJSONFiles(5, [], function (response) {
   var members = response;
   Object.keys(members).forEach(function (member) {
     addMarker(members[member]);
