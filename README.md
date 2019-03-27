@@ -140,7 +140,7 @@ var h = 'Hi!';
 
 where the line between  `<<<HEAD` and `====` is the line/lines of code that are relevant in your file, and between  `====` and `>>>> cb1abc6` are from the remote repository (the repository that you see on github.com). The crazy characters refer to the commit id hash that the change comes from.
 
-Since we've been using Atom so far there is a nice plugin to help visualize this a little better. *Atom -> Preferences -> Install -> search* for merge-conflicts
+Since we've been using VSCode so far there is a nice plugin to help visualize this a little better. *Atom -> Preferences -> Install -> search* for merge-conflicts
 ![merge-conflict](images/docs/merge-conflicts.gif)
 
 Once you have your conflict file the way you want it — ie. fixed and without any more of the conflict markers...
