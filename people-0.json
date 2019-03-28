@@ -152,5 +152,16 @@
       114.109497
     ],
     "year": "'20"
+  },
+  {
+    "name": "Craig Calhoun",
+    "iconUrl": "images/craig_calhoun.jpg",
+    "url": "//clkcalhoun.me",
+    "message": "Nice to meet you!",
+    "lat_long": [
+      44.508679,
+      -72.953777
+    ],
+    "year": "'18"
   }
 ]
