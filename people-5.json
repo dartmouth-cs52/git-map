@@ -31,5 +31,16 @@
       120.585289
     ],
     "year": "'20"
+  },
+  {
+    "name": "John Schlachtenhaufen",
+    "iconUrl": "images/john_schlachtenhaufen.jpg",
+    "url": "//jschlach.me",
+    "message": "Hi everyone",
+    "lat_long": [
+      42.258634,
+      -87.840625
+    ],
+    "year": "'20"
   }
 ]
