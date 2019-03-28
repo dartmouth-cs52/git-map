@@ -30,7 +30,7 @@
     "lat_long": [
       19.0760,
        72.8777
-      ],
+      ]
   },
   {
     "name": "Syed Tanveer",
@@ -53,5 +53,18 @@
       -121.768005
     ],
     "year": "'19"
+  },
+
+  {
+    "name": "Maddie Hess",
+    "iconUrl": "images/maddiehess.jpg",
+    "url": "//maddiehess.me",
+    "message": "beep boop computer soup!",
+    "lat_long": [
+      37.840687,
+      -122.528469
+    ],
+    "year": "'19"
   }
+
 ]
