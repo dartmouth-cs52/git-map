@@ -51,6 +51,8 @@ Serving HTTP on 0.0.0.0 port 9000 ...
 127.0.0.1 - - [09/Jun/2016 18:25:18] "GET / HTTP/1.1" 200 -
 ```
 
+*Note: in python3 do `python -m http.server 9000`
+
 Let's check out what we have made in Chrome: [http://localhost:9000](http://localhost:9000)
 
 As you edit this, keep checking and make sure you aren't pushing a broken site.
