@@ -20,5 +20,21 @@
       -122.242168
     ],
     "year": "'20"
+  },
+
+  {
+    "name": "Max Zhuang",
+    "iconUrl": "images/max.png",
+    "url": "//maxzhuang.me",
+    "message": "yeah aight",
+    "lat_long": [
+      37.681873,
+      -121.768005
+    ],
+    "year": "'19"
   }
+
+  
+
+
 ]
