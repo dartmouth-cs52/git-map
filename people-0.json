@@ -66,6 +66,17 @@
     "year": "'19"
   },
   {
+    "name": "Trevor Glasgow",
+    "iconUrl": "images/Trevor.jpg",
+    "url": "http://trevor-dartmouth.me",
+    "message": "Hi ;)",
+    "lat_long": [
+      41.877,
+      -67.6298
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Azhar Hussain",
     "iconUrl": "images/azharhussain.png",
     "url": "//azharhussain.me",
