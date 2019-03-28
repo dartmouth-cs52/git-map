@@ -1,5 +1,5 @@
 /* SETUP */
-let map = L.map('map', {
+var map = L.map('map', {
   tms: false
 }).setView([42.755942, -72.8092041], 3);
 
