@@ -33,6 +33,17 @@
     "year": "'20"
   },
   {
+    "name": "Gillian Yue",
+    "iconUrl": "images/gillian.jpg",
+    "url": "//gyue.me",
+    "message": "SUP guys",
+    "lat_long": [
+      10.375722,
+      -61.233559
+    ],
+    "year": "'22"
+  },
+  {
     "name": "Anna Matusewicz",
     "iconUrl": "images/anna_matusewicz.jpeg",
     "url": "//annamatusewicz.me",

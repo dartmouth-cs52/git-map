@@ -1,5 +1,16 @@
 [
   {
+    "name": "Danah",
+    "iconUrl": "images/danah.jpg",
+    "url": "//danahhan.me",
+    "message": "Liam Jolley smells",
+    "lat_long": [
+      4.620229,
+      -64.532853
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Mihovil Mandic",
     "iconUrl": "images/miho.jpg",
     "url": "//mihovilm-cs52.me",
@@ -53,6 +64,17 @@
       -84.171134
     ],
     "year": "'19"
+  },
+  {
+    "name": "Trevor Glasgow",
+    "iconUrl": "images/Trevor.jpg",
+    "url": "http://trevor-dartmouth.me",
+    "message": "Hi ;)",
+    "lat_long": [
+      41.877,
+      -67.6298
+    ],
+    "year": "'20"
   },
   {
     "name": "Azhar Hussain",
