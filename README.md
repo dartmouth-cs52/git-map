@@ -234,6 +234,8 @@ Note: you have to delete it in both places, as just deleting it remotely won't d
 
 Once your changes are merged into the remote `master` branch on github you'll be able to see your changes at: http://map.cs52.me
 
+If you want more practice try: [https://learngitbranching.js.org](https://learngitbranching.js.org/)
+
 <br>
 <br>
 <hr>
