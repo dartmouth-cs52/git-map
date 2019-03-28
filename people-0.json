@@ -152,5 +152,16 @@
       114.109497
     ],
     "year": "'20"
+  },
+  }
+    "name": "DhungJoo Kim",
+    "iconUrl": "images/dhungjoo.png",
+    "url": "//dirtymouth.me",
+    "message": "Hi, I'm DhungJoo!",
+    "lat_long": [
+      35.9078,
+      127.7669
+    ],
+    "year": "'19"
   }
 ]
