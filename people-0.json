@@ -88,6 +88,19 @@
     "year": "'20"
   },
   {
+
+    "name": "Nour Benmohamed",
+    "iconUrl": "images/nour.jpg",
+    "url": "//nourbenmohamed.me",
+    "message": "wut",
+    "lat_long": [
+      33.8869,
+      9.5375
+    ],
+    "year": "'21"
+  },
+  {
+
     "name": "Sami Burack",
     "iconUrl": "images/sami.jpg",
     "url": "//sburack.me",
@@ -97,6 +110,7 @@
       -73.320386
     ],
     "year": "'20"
+
   }
   {
     "name": "Charlotte Chui",
