@@ -31,5 +31,16 @@
       -73.49
     ],
     "year": "'21"
+  },
+  {
+    "name": "Regina",
+    "iconUrl": "images/regina-icon.jpg",
+    "url": "//reginayan.me",
+    "message": "just doin' good to be here",
+    "lat_long": [
+      38.974819,
+      -94.683601
+    ],
+    "year": "'19"
   }
 ]
