@@ -20,5 +20,16 @@
       -38.847656
     ],
     "year": "'16"
+  },
+  {
+    "name": "Shep",
+    "iconUrl": "images/sunset200.png",
+    "url": "//shepp.me",
+    "message": "woohoo",
+    "lat_long": [
+      40.665155, 
+      -73.634338
+    ],
+    "year": "'19"
   }
 ]
