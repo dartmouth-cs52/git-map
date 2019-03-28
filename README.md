@@ -235,12 +235,16 @@ Note: you have to delete it in both places, as just deleting it remotely won't d
 Once your changes are merged into the remote `master` branch on github you'll be able to see your changes at: http://map.cs52.me
 
 <br>
+<br>
 <hr>
+<br>
+<br>
 <br>
 
 ## Additional Git Tips and Resources:
 
-[Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace)
+* [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace)
+* [https://learngitbranching.js.org](https://learngitbranching.js.org/)
 
 #### Sample Git Config
 To edit `code ~/.gitconfig`
@@ -256,14 +260,8 @@ To edit `code ~/.gitconfig`
     br="branch"
 [branch]
     autosetuprebase = always    # set rebase to be default for new branches
-[push]
-    default = simple
 ```
 
-Setting up `git push` to use `simple` matching is very important. Otherwise it
-is easy, while you're force-pushing a feature branch, to also accidentally force
-push your master to the prod repo. See [here](http://stackoverflow.com/a/13148313)
-for a good explanation.
 
 ### Optional Cleaning up of local branch history
 You might want to consider cleaning up your local branch history. It's a good
