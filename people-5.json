@@ -33,6 +33,50 @@
     "year": "'20"
   },
   {
+    "name": "Shoshana Geller",
+    "iconUrl": "images/shosh.jpg",
+    "url": "//sgeller.me",
+    "message": "Hey",
+    "lat_long": [
+      40.784267,
+      74.696828
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Justin Baltazar",
+    "iconUrl": "images/justin.jpg",
+    "url": "//wondercat.me",
+    "message": "Hi!!!",
+    "lat_long": [
+      41.853444,
+      -87.610270
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "John Sullivan",
+    "iconUrl": "images/John_Sullivan.jpg",
+    "url": "//sulljohn.me",
+    "message": "Hello everyone!",
+    "lat_long": [
+      40.927877,
+      -73.751798
+    ],
+    "year": "TH"
+  },
+  {
+    "name": "Stephen Crowe",
+    "iconUrl": "images/stephen.jpg",
+    "url": "//stephen.me",
+    "message": "Sup",
+    "lat_long": [
+      37.2358,
+      -121.9624
+    ],
+    "year": "'20"
+  },
+  {
     "name": "John Schlachtenhaufen",
     "iconUrl": "images/john_schlachtenhaufen.jpg",
     "url": "//jschlach.me",
@@ -40,7 +84,7 @@
     "lat_long": [
       42.258634,
       -87.840625
-    ],
-    "year": "'20"
+     ],
+    "year": "??",
   }
 ]
