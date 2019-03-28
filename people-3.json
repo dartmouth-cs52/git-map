@@ -20,5 +20,58 @@
       -38.847656
     ],
     "year": "'16"
+  },
+  {
+    "name": "Richard Jiang Yang",
+    "iconUrl": "images/RJPicture.png",
+    "url": "//rjyang.me",
+    "message": "hey",
+    "lat_long": [
+      64.287526,
+      -46.082338
+    ]
+  },
+  {
+    "name": "Shep",
+    "iconUrl": "images/sunset200.png",
+    "url": "//shepp.me",
+    "message": "woohoo",
+    "lat_long": [
+      40.665155, 
+      -73.634338
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Zoe Yu",
+    "iconUrl": "images/catluvr.jpg",
+    "url": "//zoeyuuu.me",
+    "message": "i'm so sorry",
+    "lat_long": [
+      43.7044,
+      -72.2887
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Ryoya Wakamatsu",
+    "iconUrl": "images/ryoyaw.jpg",
+    "url": "//ryoyaw.me",
+    "message": "What a time to be alive",
+    "lat_long": [
+      -23.689805,
+      137.900391
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Bailey Burke",
+    "iconUrl": "images/bailey.jpg",
+    "url": "//baileyburke.me",
+    "message": "woot woot",
+    "lat_long": [
+      41.261478,
+      -73.593262
+    ]
   }
 ]
