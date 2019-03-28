@@ -22,6 +22,16 @@
     "year": "'16"
   },
   {
+    "name": "Richard Jiang Yang",
+    "iconUrl": "images/RJPicture.png",
+    "url": "//rjyang.me",
+    "message": "hey",
+    "lat_long": [
+      64.287526,
+      -46.082338
+    ]
+  },
+  {
     "name": "Shep",
     "iconUrl": "images/sunset200.png",
     "url": "//shepp.me",
