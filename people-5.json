@@ -66,14 +66,25 @@
     "year": "TH"
   },
   {
-    "name": "Stephen Crowe",
-    "iconUrl": "images/stephen.jpg",
-    "url": "//stephen.me",
-    "message": "Sup",
+    "name": "Marshall Peng",
+    "iconUrl": "images/marshall.jpg",
+    "url": "//marshallpeng.me",
+    "message": "Git Short Assignment - Marshall Peng",
     "lat_long": [
-      37.2358,
-      -121.9624
+      43.221600,
+      -88.014832
     ],
     "year": "'20"
+  },
+  {
+    "name": "John Schlachtenhaufen",
+    "iconUrl": "images/john_schlachtenhaufen.jpg",
+    "url": "//jschlach.me",
+    "message": "Hi everyone",
+    "lat_long": [
+      42.258634,
+      -87.840625
+     ],
+    "year": "??",
   }
 ]
