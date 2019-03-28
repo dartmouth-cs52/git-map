@@ -51,6 +51,16 @@
       43.7044,
       -72.2887
     ],
+  },
+  {
+    "name": "Ryoya Wakamatsu",
+    "iconUrl": "images/ryoyaw.jpg",
+    "url": "//ryoyaw.me",
+    "message": "What a time to be alive",
+    "lat_long": [
+      35.3140049,
+      139.776306
+    ],
     "year": "'19"
   }
 ]
