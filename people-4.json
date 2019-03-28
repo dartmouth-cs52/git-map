@@ -20,5 +20,16 @@
       -122.242168
     ],
     "year": "'20"
+  },
+  {
+    "name": "Syed Tanveer",
+    "iconUrl": "images/syed-icon.jpg",
+    "url": "//impossiblewebsite.me",
+    "message": "Hello",
+    "lat_long": [
+      38.780510,
+      -77.170199
+    ],
+    "year": "'21"
   }
 ]
