@@ -11,6 +11,17 @@
     "year": "'21"
   },
   {
+    "name": "Alexis Harris",
+    "iconUrl": "images/alexisImage.jpg",
+    "url": "http://alexish52.me",
+    "message": "Hi I'm Alexis!!",
+    "lat_long": [
+      43.8, 
+      -110.7
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
@@ -62,6 +73,17 @@
     "lat_long": [
       37.774929,
       -122.419416
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Sami Burack",
+    "iconUrl": "images/sami.jpg",
+    "url": "//sburack.me",
+    "message": "hi its sami!",
+    "lat_long": [
+      42.287587,
+      -73.320386
     ],
     "year": "'20"
   }
