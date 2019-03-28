@@ -140,10 +140,9 @@ var h = 'Hi!';
 >>>>>> cb1abc6bd98cfc84317f8aa95a7662815417802d
 ```
 
-where the line between  `<<<HEAD` and `====` is the line/lines of code that are relevant in your file, and between  `====` and `>>>> cb1abc6` are from the remote repository (the repository that you see on github.com). The crazy characters refer to the commit id hash that the change comes from.
-
-Since we've been using Atom so far there is a nice plugin to help visualize this a little better. *Atom -> Preferences -> Install -> search* for merge-conflicts
 ![merge-conflict](images/docs/merge-conflicts.gif)
+
+where the line between  `<<<HEAD` and `====` is the line/lines of code that are relevant in your file, and between  `====` and `>>>> cb1abc6` are from the remote repository (the repository that you see on github.com). The crazy characters refer to the commit id hash that the change comes from.
 
 Once you have your conflict file the way you want it — ie. fixed and without any more of the conflict markers...
 
@@ -154,7 +153,7 @@ Once you have your conflict file the way you want it — ie. fixed and without a
 
 Now lets add a picture of yourself and a lat long for a place that you like or are from.
 
-🚀 Open up one of the `people-#.json` files in atom (it doesn't matter which one).
+🚀 Open up one of the `people-#.json` files in VSCode (it doesn't matter which one).
 
 🚀 Add a new JSON object for yourself. You can start by copy pasting a previous object -- this is the 15 or so lines of text inside the curly braces.
 
@@ -240,7 +239,7 @@ Once your changes are merged into the remote `master` branch on github you'll be
 [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace)
 
 #### Sample Git Config
-To edit `atom ~/.gitconfig`
+To edit `code ~/.gitconfig`
 
 ```bash
 [user]
