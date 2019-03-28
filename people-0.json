@@ -64,5 +64,16 @@
       -122.419416
     ],
     "year": "'20"
+  },
+  {
+    "name": "Sami Burack",
+    "iconUrl": "images/sami.jpg",
+    "url": "//sburack.me",
+    "message": "hi its sami!",
+    "lat_long": [
+      42.287587,
+      -73.320386
+    ],
+    "year": "'20"
   }
 ]
