@@ -64,6 +64,17 @@
       -122.528469
     ],
     "year": "'19"
+  },
+  {
+    "name": "Cat Zhao",
+    "iconUrl": "images/cat-zhao.jpg",
+    "url": "//catcatherinezhao.me",
+    "message": "hi",
+    "lat_long": [
+      37.338207,
+      -121.886330
+    ],
+    "year": "'20"
   }
 
 ]
