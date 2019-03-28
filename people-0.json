@@ -163,5 +163,16 @@
       127.7669
     ],
     "year": "'19"
+  },
+  {
+    "name": "Ashley",
+    "iconUrl": "images/ashfranicon.jpg",
+    "url": "//cs52ashley.me",
+    "message": "Yup, it's me.",
+    "lat_long": [
+      39.952583,
+      -75.165222
+    ],
+    "year": "'21"
   }
 ]
