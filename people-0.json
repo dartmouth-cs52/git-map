@@ -143,6 +143,17 @@
     "year": "'20"
   },
   {
+    "name": "Frances Cohen",
+    "iconUrl": "images/frances.jpg",
+    "url": "//francescohen.me",
+    "message": "Hi, I'm Frances!",
+    "lat_long": [
+      47.497913,
+      19.040236
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Katie Goldstein",
     "iconUrl": "images/katiegoldstein.png",
     "url": "//katgold.me",
@@ -152,7 +163,7 @@
       -3.703790
     ],
     "year": "'20"
-  }
+  },
   {
     "name": "Charlotte Chui",
     "iconUrl": "images/CharlotteC.png",
