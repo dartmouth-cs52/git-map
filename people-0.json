@@ -22,6 +22,17 @@
     "year": "'23"
   },
   {
+    "name": "Will Chisholm",
+    "iconUrl": "https://dartmouthsports.com/images/2018/8/23/Will_Chisholm20_2018_JR.jpg?width=300",
+    "url": "http://willchis.me",
+    "message": "why can't we just keep all of our code in big google doc",
+    "lat_long": [
+      37.461327,
+      -122.197746
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Alex Chan",
     "iconUrl": "images/Alex_Chan.png",
     "url": "http://ayc19.me",
