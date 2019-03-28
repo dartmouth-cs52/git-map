@@ -42,5 +42,16 @@
       -94.683601
     ],
     "year": "'19"
+  },
+  {
+    "name": "Yakoob",
+    "iconUrl": "images/yakoob.jpg",
+    "url": "//yakoob.me",
+    "message": "Hey!!",
+    "lat_long": [
+      23.6849937,
+      90.3563309
+    ],
+    "year": "'21"
   }
 ]
