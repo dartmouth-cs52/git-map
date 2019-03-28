@@ -20,5 +20,16 @@
       139.691706
     ],
     "year": "'20"
+  },
+  {
+    "name": "Tianxing (Roger) Dai",
+    "iconUrl": "images/roger.jpg",
+    "url": "//rogerdai.me",
+    "message": "How you doing",
+    "lat_long": [
+      31.298973,
+      120.585289
+    ],
+    "year": "'20"
   }
 ]
