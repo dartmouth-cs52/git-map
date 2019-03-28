@@ -31,5 +31,16 @@
       120.585289
     ],
     "year": "'20"
+  },
+  {
+    "name": "Shoshana Geller",
+    "iconUrl": "images/shosh.jpg",
+    "url": "//sgeller.me",
+    "message": "Hey",
+    "lat_long": [
+      40.784267,
+      74.696828
+    ],
+    "year": "'20"
   }
 ]
