@@ -142,6 +142,8 @@ var h = 'Hi!';
 
 where the line between  `<<<HEAD` and `====` is the line/lines of code that are relevant in your file, and between  `====` and `>>>> cb1abc6` are from the remote repository (the repository that you see on github.com). The crazy characters refer to the commit id hash that the change comes from.
 
+What you want to do is get rid of all the crazy stuff and make sure the lines you have left are logical code, in this case you probably want to decide between the two versions. In some cases you need to be aware of what changed around, be sure to read the code for logic and syntax and check that it works locally after you fix it.
+
 VSCode has a nice builtin tool to [help you resolve merge conflicts](https://code.visualstudio.com/docs/editor/versioncontrol#_merge-conflicts) shown here:
 
 ![merge-conflict](images/docs/merge-conflicts.gif)
