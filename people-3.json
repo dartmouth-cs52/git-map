@@ -63,5 +63,15 @@
       137.900391
     ],
     "year": "'19"
+  },
+  {
+    "name": "Bailey Burke",
+    "iconUrl": "images/bailey.jpg",
+    "url": "//baileyburke.me",
+    "message": "woot woot",
+    "lat_long": [
+      41.261478,
+      -73.593262
+    ]
   }
 ]
