@@ -31,5 +31,16 @@
       -76.517029
     ],
     "year": "'20'"
+  },
+  {
+    "name": "Louis",
+    "iconUrl": "images/louis.jpg",
+    "url": "//www.louismurerwa.me",
+    "message": "Zimbawbwee!!",
+    "lat_long": [
+      -19.453140,
+      29.8121
+    ],
+    "year": "'21'"
   }
 ]
