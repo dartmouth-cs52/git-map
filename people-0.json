@@ -143,6 +143,17 @@
     "year": "'20"
   },
   {
+    "name": "Katie Goldstein",
+    "iconUrl": "images/katiegoldstein.png",
+    "url": "//katgold.me",
+    "message": "Hello, I'm Katie G!",
+    "lat_long": [
+      40.416775,
+      -3.703790
+    ],
+    "year": "'20"
+  }
+  {
     "name": "Charlotte Chui",
     "iconUrl": "images/CharlotteC.png",
     "url": "//charlottec.me",
@@ -176,3 +187,4 @@
     "year": "'21"
   }
 ]
+
