@@ -42,5 +42,16 @@
       29.8121
     ],
     "year": "'21'"
+  },
+  {
+    "name": "Ricky",
+    "iconUrl": "images/ricky.jpg",
+    "url": "//www.taboada.me",
+    "message": "Hello, my name is Ricky.",
+    "lat_long": [
+      23.1136,
+      -82.3666
+    ],
+    "year": "19"
   }
 ]
