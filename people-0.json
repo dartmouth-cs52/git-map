@@ -34,7 +34,7 @@
   },
   {
     "name": "Will Chisholm",
-    "iconUrl": "https://dartmouthsports.com/images/2018/8/23/Will_Chisholm20_2018_JR.jpg?width=300",
+    "iconUrl": "images/willchis.jpg",
     "url": "http://willchis.me",
     "message": "why can't we just keep all of our code in big google doc",
     "lat_long": [
@@ -97,6 +97,17 @@
       -71.156670
     ],
     "year": "'20"
+  },
+  {
+    "name": "Nour Benmohamed",
+    "iconUrl": "images/nour.jpg",
+    "url": "//nourbenmohamed.me",
+    "message": "wut",
+    "lat_long": [
+      33.8869,
+      9.5375
+    ],
+    "year": "'21"
   },
   {
     "name": "Sami Burack",

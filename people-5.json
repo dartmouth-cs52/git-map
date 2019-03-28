@@ -33,6 +33,17 @@
     "year": "'20"
   },
   {
+    "name": "Anna Matusewicz",
+    "iconUrl": "images/anna_matusewicz.jpeg",
+    "url": "//annamatusewicz.me",
+    "message": "Cool, cool cool cool",
+    "lat_long": [
+      47.574159,
+      -122.382228
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Shoshana Geller",
     "iconUrl": "images/shosh.jpg",
     "url": "//sgeller.me",
