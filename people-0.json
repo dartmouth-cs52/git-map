@@ -1,5 +1,16 @@
 [
   {
+    "name": "Danah",
+    "iconUrl": "images/danah.jpg",
+    "url": "//danahhan.me",
+    "message": "Liam Jolley smells",
+    "lat_long": [
+      4.620229,
+      -64.532853
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Mihovil Mandic",
     "iconUrl": "images/miho.jpg",
     "url": "//mihovilm-cs52.me",
@@ -55,6 +66,17 @@
     "year": "'19"
   },
   {
+    "name": "Trevor Glasgow",
+    "iconUrl": "images/Trevor.jpg",
+    "url": "http://trevor-dartmouth.me",
+    "message": "Hi ;)",
+    "lat_long": [
+      41.877,
+      -67.6298
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Azhar Hussain",
     "iconUrl": "images/azharhussain.png",
     "url": "//azharhussain.me",
@@ -88,7 +110,17 @@
     "year": "'20"
   },
   {
-
+    "name": "Liam Jolley",
+    "iconUrl": "images/liamjolley.jpg",
+    "url": "//liamjolley.me",
+    "message": "Yeah, I'm from outside of Boston. What's it to ya?",
+    "lat_long": [
+      42.416248,
+      -71.156670
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Nour Benmohamed",
     "iconUrl": "images/nour.jpg",
     "url": "//nourbenmohamed.me",
@@ -100,7 +132,6 @@
     "year": "'21"
   },
   {
-
     "name": "Sami Burack",
     "iconUrl": "images/sami.jpg",
     "url": "//sburack.me",
@@ -110,8 +141,7 @@
       -73.320386
     ],
     "year": "'20"
-
-  }
+  },
   {
     "name": "Charlotte Chui",
     "iconUrl": "images/CharlotteC.png",

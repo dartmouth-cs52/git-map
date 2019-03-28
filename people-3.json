@@ -22,6 +22,16 @@
     "year": "'16"
   },
   {
+    "name": "Richard Jiang Yang",
+    "iconUrl": "images/RJPicture.png",
+    "url": "//rjyang.me",
+    "message": "hey",
+    "lat_long": [
+      64.287526,
+      -46.082338
+    ]
+  },
+  {
     "name": "Shep",
     "iconUrl": "images/sunset200.png",
     "url": "//shepp.me",
@@ -29,6 +39,17 @@
     "lat_long": [
       40.665155, 
       -73.634338
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Zoe Yu",
+    "iconUrl": "images/catluvr.jpg",
+    "url": "//zoeyuuu.me",
+    "message": "i'm so sorry",
+    "lat_long": [
+      43.7044,
+      -72.2887
     ],
     "year": "'19"
   }
