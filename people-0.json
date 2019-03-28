@@ -1,5 +1,16 @@
 [
   {
+    "name": "Mihovil Mandic",
+    "iconUrl": "images/miho.jpg",
+    "url": "//mihovilm-cs52.me",
+    "message": "Hey I'm Miho!!! FIND ME IN CROATIAAAA!!",
+    "lat_long": [
+      45.8,
+      15.8
+    ],
+    "year": "'21"
+  },
+  {
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
