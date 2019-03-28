@@ -1,12 +1,12 @@
 [
   {
-    "name": "Sofia Stanescu-Bellu",
-    "iconUrl": "images/sofia.jpg",
-    "url": "//sofiasb.me",
-    "message": "Can't touch the vision",
+    "name": "Adam Riegler",
+    "iconUrl": "images/adamjr.jpg",
+    "url": "//adamjriegler.me",
+    "message": "One day I will be an astronaut",
     "lat_long": [
-      45.760396,
-      21.236615
+      41.140442,
+      -73.353180
     ],
     "year": "'20"
   },
@@ -20,5 +20,38 @@
       -122.242168
     ],
     "year": "'20"
+  },
+  {
+
+    "name": "Abhimanyu Kapur",
+    "iconUrl": "images/abhi.jpg",
+    "url": "//abhikapur.me",
+    "message": "Stop trying to make git fetch happen",
+    "lat_long": [
+      19.0760,
+       72.8777
+      ],
+  },
+  {
+    "name": "Syed Tanveer",
+    "iconUrl": "images/syed-icon.jpg",
+    "url": "//impossiblewebsite.me",
+    "message": "Hello",
+    "lat_long": [
+      38.780510,
+      -77.170199
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Max Zhuang",
+    "iconUrl": "images/max.png",
+    "url": "//maxzhuang.me",
+    "message": "yeah aight",
+    "lat_long": [
+      37.681873,
+      -121.768005
+    ],
+    "year": "'19"
   }
 ]
