@@ -11,6 +11,17 @@
     "year": "'21"
   },
   {
+    "name": "Alexis Harris",
+    "iconUrl": "images/alexisImage.jpg",
+    "url": "http://alexish52.me",
+    "message": "Hi I'm Alexis!!",
+    "lat_long": [
+      43.8, 
+      -110.7
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
