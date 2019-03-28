@@ -88,5 +88,16 @@
       -122.143021
     ],
     "year": "21"
+  },
+  {
+    "name": "Olivia Zhao",
+    "iconUrl": "images/olivia.jpg",
+    "url": "//oliviazhao.me",
+    "message": "yayy",
+    "lat_long": [
+      39.904202, 
+      116.407394
+    ],
+    "year": "'20"
   }
 ]
