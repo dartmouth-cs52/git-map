@@ -4,10 +4,7 @@
     "iconUrl": "images/tim_round.jpg",
     "url": "//www.zingweb.com",
     "message": "Hiking in the High Sierras!",
-    "lat_long": [
-      37.2320967,
-      -118.8578716
-    ],
+    "lat_long": [37.2320967, -118.8578716],
     "year": "11BC"
   },
   {
@@ -15,10 +12,7 @@
     "iconUrl": "images/thomas.jpg",
     "url": "//www.thomas-cs52.me",
     "message": "If you know, you know",
-    "lat_long": [
-      33.888504,
-      -117.813257
-    ],
+    "lat_long": [33.888504, -117.813257],
     "year": "19"
   },
   {
@@ -26,10 +20,7 @@
     "iconUrl": "images/morgan.jpg",
     "url": "//www.msorbaro.me",
     "message": "Hi Im Morgan!",
-    "lat_long": [
-      24.2661,
-      -76.517029
-    ],
+    "lat_long": [24.2661, -76.517029],
     "year": "'20'"
   },
   {
@@ -37,10 +28,23 @@
     "iconUrl": "images/louis.jpg",
     "url": "//www.louismurerwa.me",
     "message": "Zimbawbwee!!",
-    "lat_long": [
-      -19.453140,
-      29.8121
-    ],
+    "lat_long": [-19.45314, 29.8121],
     "year": "'21'"
+  },
+  {
+    "name": "Ricky",
+    "iconUrl": "images/ricky.jpg",
+    "url": "//www.taboada.me",
+    "message": "Hello, my name is Ricky.",
+    "lat_long": [23.1136, -82.3666],
+    "year": "19"
+  },
+  {
+    "name": "Ben",
+    "iconUrl": "images/beneisner.jpg",
+    "url": "//www.beneisner.me",
+    "message": "Yoooo",
+    "lat_long": [41.6032, -72.685097],
+    "year": "19"
   }
 ]

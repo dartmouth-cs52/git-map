@@ -31,5 +31,16 @@
       120.585289
     ],
     "year": "'20"
+  },
+  {
+    "name": "John Sullivan",
+    "iconUrl": "images/John_Sullivan.jpg",
+    "url": "//sulljohn.me",
+    "message": "Hello everyone!",
+    "lat_long": [
+      40.9279,
+      173.7518
+    ],
+    "year": "TH"
   }
 ]
