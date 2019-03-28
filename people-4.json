@@ -29,7 +29,13 @@
     "message": "Stop trying to make git fetch happen",
     "lat_long": [
       19.0760,
+<<<<<<< HEAD
+       72.8777
+      ],
+      "year": "'21"
+=======
        72.8777]
+>>>>>>> origin/master
   },
   {
     "name": "Syed Tanveer",
