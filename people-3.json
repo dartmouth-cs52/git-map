@@ -41,5 +41,16 @@
       -73.634338
     ],
     "year": "'19"
+  },
+  {
+    "name": "Zoe Yu",
+    "iconUrl": "images/catluvr.jpg",
+    "url": "//zoeyuuu.me",
+    "message": "i'm so sorry",
+    "lat_long": [
+      43.7044,
+      -72.2887
+    ],
+    "year": "'19"
   }
 ]
