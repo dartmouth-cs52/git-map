@@ -20,5 +20,16 @@
       -73.650962
     ],
     "year": "'18"
+  },
+  {
+    "name": "Faustino",
+    "iconUrl": "images/faustino.jpg",
+    "url": "//faustino-cortina.me",
+    "message": "hi!",
+    "lat_long": [
+      41.14,
+      -73.49
+    ],
+    "year": "'21"
   }
 ]
