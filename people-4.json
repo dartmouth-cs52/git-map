@@ -30,7 +30,8 @@
     "lat_long": [
       19.0760,
        72.8777
-  },
+    ]
+  } ,
   {
     "name": "Syed Tanveer",
     "iconUrl": "images/syed-icon.jpg",
@@ -52,5 +53,17 @@
       -121.768005
     ],
     "year": "'19"
+  }
+  ,
+  {
+    "name": "Danielle Fang",
+    "iconUrl": "images/dfang.jpg",
+    "url": "//daniellefang.me",
+    "message": "Best City in America, contructive critism not considered!",
+    "lat_long": [
+      45.512230,
+      -122.658722
+    ],
+    "year": "'20"
   }
 ]
