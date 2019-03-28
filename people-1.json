@@ -62,5 +62,13 @@
     "message": "Hey",
     "lat_long": [41.6032, -73.0877],
     "year": "20"
+  },
+  {
+    "name": "Avery",
+    "iconUrl":"images/averyvanacore.jpg",
+    "url":"//averyvanacore.me",
+    "message": "Hello all I'm Avery!",
+    "lat_long":[41.078708,-73.469287],
+    "year":"20"
   }
 ]
