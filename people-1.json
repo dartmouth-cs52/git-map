@@ -40,6 +40,14 @@
     "year": "19"
   },
   {
+    "name": "Zac",
+    "iconUrl": "images/zacgottschall.jpg",
+    "url": "//zacgottschall.me",
+    "message": "hey hey hey",
+    "lat_long": [-24.287027, -9.140625],
+    "year": "20"
+  },
+  {
     "name": "Ben",
     "iconUrl": "images/beneisner.jpg",
     "url": "//www.beneisner.me",
