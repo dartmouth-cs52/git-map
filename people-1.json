@@ -56,6 +56,14 @@
     "year": "19"
   },
   {
+    "name": "Billy",
+    "iconUrl": "images/billy.jpg",
+    "url": "//www.billymcgrath.me",
+    "message": "Hey",
+    "lat_long": [41.6032, -73.0877],
+    "year": "20"
+  },
+  {
     "name": "Avery",
     "iconUrl":"images/averyvanacore.jpg",
     "url":"//averyvanacore.me",
