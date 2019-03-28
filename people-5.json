@@ -31,5 +31,16 @@
       120.585289
     ],
     "year": "'20"
+  },
+  {
+    "name": "Justin Baltazar",
+    "iconUrl": "images/justin.jpg",
+    "url": "//wondercat.me",
+    "message": "Hi!!!",
+    "lat_long": [
+      41.853444,
+      -87.610270
+    ],
+    "year": "'21"
   }
 ]
