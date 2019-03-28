@@ -32,4 +32,15 @@
     ],
     "year": "'20"
   }
+  {
+    "name": "Stephen Crowe",
+    "iconUrl": "images/stephen.jpg",
+    "url": "//stephen.me",
+    "message": "Sup",
+    "lat_long": [
+      37.2358,
+      -121.9624
+    ],
+    "year": "'20"
+  }
 ]
