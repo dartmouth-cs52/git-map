@@ -86,5 +86,16 @@
       -73.320386
     ],
     "year": "'20"
+  },
+  {
+    "name": "Frances Cohen",
+    "iconUrl": "images/frances.jpg",
+    "url": "//francescohen.me",
+    "message": "Hi, I'm Frances!",
+    "lat_long": [
+      47.497913,
+      19.040236
+    ],
+    "year": "'20"
   }
 ]
