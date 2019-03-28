@@ -65,4 +65,15 @@
     ],
     "year": "'20"
   }
+  {
+    "name": "Charlotte Chui",
+    "iconUrl": "images/CharlotteC.png",
+    "url": "//charlottec.me",
+    "message": "I want dim sum",
+    "lat_long": [
+      22.396427,
+      114.109497
+    ],
+    "year": "'20"
+  }
 ]
