@@ -88,7 +88,17 @@
     "year": "'20"
   },
   {
-
+    "name": "Liam Jolley",
+    "iconUrl": "images/liamjolley.jpg",
+    "url": "//liamjolley.me",
+    "message": "Yeah, I'm from outside of Boston. What's it to ya?",
+    "lat_long": [
+      42.416248,
+      -71.156670
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Nour Benmohamed",
     "iconUrl": "images/nour.jpg",
     "url": "//nourbenmohamed.me",
@@ -100,7 +110,6 @@
     "year": "'21"
   },
   {
-
     "name": "Sami Burack",
     "iconUrl": "images/sami.jpg",
     "url": "//sburack.me",
@@ -110,7 +119,6 @@
       -73.320386
     ],
     "year": "'20"
-
   }
   {
     "name": "Charlotte Chui",
