@@ -66,6 +66,7 @@
     "year": "'19"
   },
   {
+<<<<<<< HEAD
     "name": "Cat Zhao",
     "iconUrl": "images/cat-zhao.jpg",
     "url": "//catcatherinezhao.me",
@@ -75,6 +76,16 @@
       -121.886330
     ],
     "year": "'20"
+=======
+    "name": "Evalyn Li",
+    "iconUrl": "images/evalynli.jpg",
+    "url": "//evalynli.me",
+    "message": "CS52 is kinda confusing :(",
+    "lat_long": [
+      37.441883,
+      -122.143021
+    ],
+    "year": "21"
+>>>>>>> edited people-4.json and added image
   }
-
 ]
