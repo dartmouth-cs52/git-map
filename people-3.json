@@ -20,5 +20,16 @@
       -38.847656
     ],
     "year": "'16"
+  },
+  {
+    "name": "Richard Jiang Yang",
+    "iconUrl": "images/RJPicture.png",
+    "url": "//rjyang.me",
+    "message": "hey",
+    "lat_long": [
+      64.287526,
+      -46.082338
+    ],
+    "year": "'19"
   }
 ]
