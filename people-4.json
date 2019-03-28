@@ -21,7 +21,27 @@
     ],
     "year": "'20"
   },
+  {
 
+    "name": "Abhimanyu Kapur",
+    "iconUrl": "images/abhi.jpg",
+    "url": "//abhikapur.me",
+    "message": "Stop trying to make git fetch happen",
+    "lat_long": [
+      19.0760,
+       72.8777]
+  },
+  {
+    "name": "Syed Tanveer",
+    "iconUrl": "images/syed-icon.jpg",
+    "url": "//impossiblewebsite.me",
+    "message": "Hello",
+    "lat_long": [
+      38.780510,
+      -77.170199
+    ],
+    "year": "'21"
+  },
   {
     "name": "Max Zhuang",
     "iconUrl": "images/max.png",
@@ -32,9 +52,18 @@
       -121.768005
     ],
     "year": "'19"
+  },
+
+  {
+    "name": "Maddie Hess",
+    "iconUrl": "images/maddiehess.jpg",
+    "url": "//maddiehess.me",
+    "message": "beep boop computer soup!",
+    "lat_long": [
+      37.840687,
+      -122.528469
+    ],
+    "year": "'19"
   }
-
-  
-
 
 ]
