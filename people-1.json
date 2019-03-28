@@ -54,5 +54,13 @@
     "message": "Yoooo",
     "lat_long": [41.6032, -72.685097],
     "year": "19"
+  },
+  {
+    "name": "Billy",
+    "iconUrl": "images/billy.jpg",
+    "url": "//www.billymcgrath.me",
+    "message": "Hey",
+    "lat_long": [41.6032, -73.0877],
+    "year": "20"
   }
 ]
