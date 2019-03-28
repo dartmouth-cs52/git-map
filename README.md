@@ -140,9 +140,11 @@ var h = 'Hi!';
 >>>>>> cb1abc6bd98cfc84317f8aa95a7662815417802d
 ```
 
-![merge-conflict](images/docs/merge-conflicts.gif)
-
 where the line between  `<<<HEAD` and `====` is the line/lines of code that are relevant in your file, and between  `====` and `>>>> cb1abc6` are from the remote repository (the repository that you see on github.com). The crazy characters refer to the commit id hash that the change comes from.
+
+VSCode has a nice builtin tool to [help you resolve merge conflicts](https://code.visualstudio.com/docs/editor/versioncontrol#_merge-conflicts) shown here:
+
+![merge-conflict](images/docs/merge-conflicts.gif)
 
 Once you have your conflict file the way you want it — ie. fixed and without any more of the conflict markers...
 
