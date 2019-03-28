@@ -31,5 +31,38 @@
       -73.49
     ],
     "year": "'21"
+  },
+  {
+    "name": "Andrea",
+    "iconUrl": "images/andrea.jpg",
+    "url": "//dreakj.com",
+    "message": "Remember the Alamo",
+    "lat_long": [
+      32.494560,
+      -94.742340
+    ],
+    "year": "'20'"
+  },
+  {
+    "name": "Regina",
+    "iconUrl": "images/regina-icon.jpg",
+    "url": "//reginayan.me",
+    "message": "just doin' good to be here!",
+    "lat_long": [
+      38.974819,
+      -94.683601
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Yakoob",
+    "iconUrl": "images/yakoob.jpg",
+    "url": "//yakoob.me",
+    "message": "Hey!!",
+    "lat_long": [
+      23.6849937,
+      90.3563309
+    ],
+    "year": "'21"
   }
 ]
