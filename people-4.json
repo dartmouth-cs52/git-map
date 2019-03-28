@@ -22,6 +22,16 @@
     "year": "'20"
   },
   {
+
+    "name": "Abhimanyu Kapur",
+    "iconUrl": "images/abhi.jpg",
+    "url": "//abhikapur.me",
+    "message": "Stop trying to make git fetch happen",
+    "lat_long": [
+      19.0760,
+       72.8777
+  },
+  {
     "name": "Syed Tanveer",
     "iconUrl": "images/syed-icon.jpg",
     "url": "//impossiblewebsite.me",
