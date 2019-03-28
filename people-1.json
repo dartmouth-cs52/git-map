@@ -32,11 +32,35 @@
     "year": "'21'"
   },
   {
+    "name": "Ricky",
+    "iconUrl": "images/ricky.jpg",
+    "url": "//www.taboada.me",
+    "message": "Hello, my name is Ricky.",
+    "lat_long": [23.1136, -82.3666],
+    "year": "19"
+  },
+  {
+    "name": "Zac",
+    "iconUrl": "images/zacgottschall.jpg",
+    "url": "//zacgottschall.me",
+    "message": "hey hey hey",
+    "lat_long": [-24.287027, -9.140625],
+    "year": "20"
+  },
+  {
     "name": "Ben",
     "iconUrl": "images/beneisner.jpg",
     "url": "//www.beneisner.me",
     "message": "Yoooo",
     "lat_long": [41.6032, -72.685097],
     "year": "19"
+  },
+  {
+    "name": "Avery",
+    "iconUrl":"images/averyvanacore.jpg",
+    "url":"//averyvanacore.me",
+    "message": "Hello all I'm Avery!",
+    "lat_long":[41.078708,-73.469287],
+    "year":"20"
   }
 ]
