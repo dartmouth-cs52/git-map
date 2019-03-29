@@ -141,5 +141,16 @@
       -88.148003
     ],
     "year": "'20"
+  },
+  {
+    "name": "Norette Ingabire",
+    "iconUrl": "images/norette.jpg",
+    "url": "//noretteingabire.me",
+    "message": "Burundi forever!!",
+    "lat_long": [
+      -3.382270,
+      29.363581
+    ],
+    "year": "'20"
   }
 ]
