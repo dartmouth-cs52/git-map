@@ -33,6 +33,28 @@
     "year": "'20"
   },
   {
+    "name": "Gillian Yue",
+    "iconUrl": "images/gillian.jpg",
+    "url": "//gyue.me",
+    "message": "SUP guys",
+    "lat_long": [
+      10.375722,
+      -61.233559
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Anna Matusewicz",
+    "iconUrl": "images/anna_matusewicz.jpeg",
+    "url": "//annamatusewicz.me",
+    "message": "Cool, cool cool cool",
+    "lat_long": [
+      47.574159,
+      -122.382228
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Shoshana Geller",
     "iconUrl": "images/shosh.jpg",
     "url": "//sgeller.me",
@@ -66,13 +88,13 @@
     "year": "TH"
   },
   {
-    "name": "Stephen Crowe",
-    "iconUrl": "images/stephen.jpg",
-    "url": "//stephen.me",
-    "message": "Sup",
+    "name": "Marshall Peng",
+    "iconUrl": "images/marshall.jpg",
+    "url": "//marshallpeng.me",
+    "message": "Git Short Assignment - Marshall Peng",
     "lat_long": [
-      37.2358,
-      -121.9624
+      43.221600,
+      -88.014832
     ],
     "year": "'20"
   },
@@ -85,6 +107,6 @@
       42.258634,
       -87.840625
      ],
-    "year": "??",
+    "year": "11"
   }
 ]

@@ -33,6 +33,17 @@
     "year": "'21"
   },
   {
+    "name": "Andrea",
+    "iconUrl": "images/andrea.jpg",
+    "url": "//dreakj.com",
+    "message": "Remember the Alamo",
+    "lat_long": [
+      32.494560,
+      -94.742340
+    ],
+    "year": "'20'"
+  },
+  {
     "name": "Regina",
     "iconUrl": "images/regina-icon.jpg",
     "url": "//reginayan.me",
