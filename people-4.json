@@ -132,5 +132,16 @@
       -122.658722
     ],
     "year": "'20"
+  },
+  {
+    "name": "Aditya Srivastava",
+    "iconUrl": "images/aditya.jpg",
+    "url": "//adisriv.me",
+    "message": "It Ain't How Quick You Get Bugs…It's How Quick You Can Debug and Keep Moving Forward.",
+    "lat_long": [
+      30.438255,
+      -84.280731
+    ],
+    "year": "'20"
   }
 ]
