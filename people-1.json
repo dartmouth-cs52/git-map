@@ -79,5 +79,14 @@
 
       "lat_long": [33.873351, -118.389724],
       "year": "21"
-  }
+  },
+  {
+    "name": "Soren",
+    "iconUrl": "images/soren.jpg",
+    "url": "//www.sorenthompson.me",
+    "message": "Alex, you're the man",
+
+    "lat_long": [58.301945, -134.419724],
+    "year": "20"
+}
 ]
