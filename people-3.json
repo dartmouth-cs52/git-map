@@ -86,6 +86,17 @@
     "year": "'21"
   },
   {
+    "name": "Taylor Olson",
+    "iconUrl": "images/taylorOlson.jpg",
+    "url": "//olstaylor.me",
+    "message": "noice",
+    "lat_long": [
+      47.613701,
+      -122.190933
+    ],
+    "year": "'21"
+  },
+  {
     "name": "Angela Li",
     "iconUrl": "images/angi.png",
     "url": "//angelali.tech",
