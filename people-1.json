@@ -96,5 +96,29 @@
     "message": "Hi Everyone!",
     "lat_long": [35.1682, -106.3664],
     "year": "20"
+  },
+  {
+    "name": "Burj Khalifa",
+    "iconUrl":"images/burjkhalifa.jpg",
+    "url":"http://www.skyscrapercenter.com/building/burj-khalifa/3",
+    "message": "Tallest building in the world! Stands at 2,717 ft.",
+    "lat_long":[25.19315,55.2789],
+    "year":"10"
+  },
+  {
+    "name": "Shanghai Tower",
+    "iconUrl":"images/shanghaitower.jpg",
+    "url":"http://www.skyscrapercenter.com/building/shanghai-tower/56",
+    "message": "Second tallest building in the world! Stands at 2,073 ft.",
+    "lat_long":[31.235575,121.501308],
+    "year":"15"
+  },
+  {
+    "name": "Abraj Al-Bait Clock Tower",
+    "iconUrl":"images/abrajal-bait.jpg",
+    "url":"http://www.skyscrapercenter.com/building/makkah-royal-clock-tower/84",
+    "message": "Third tallest building in the world! Stands at 1,971 ft.",
+    "lat_long":[21.389082,39.857910],
+    "year":"12"
   }
 ]
