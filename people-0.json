@@ -229,6 +229,17 @@
       -71.224716
     ],
     "year": "'20"
+  },
+  {
+    "name": "Jeremy Washam",
+    "iconUrl": "images/jeremy.jpg",
+    "url": "//jeremywasham.me",
+    "message": "Ciao!",
+    "lat_long": [
+      64.963051,
+      -19.020836
+    ],
+    "year": "'19"
   }
 ]
 
