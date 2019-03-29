@@ -86,6 +86,17 @@
     "year": "'21"
   },
   {
+    "name": "Varsha Iyer",
+    "iconUrl": "images/varsha.jpg",
+    "url": "//varshaiyer.me",
+    "message": "funky fresh",
+    "lat_long": [
+      42.296928,
+      -71.291862
+    ],
+    "year": "'21"
+  },
+  {
     "name": "Taylor Olson",
     "iconUrl": "images/taylorOlson.jpg",
     "url": "//olstaylor.me",
