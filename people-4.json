@@ -33,7 +33,6 @@
     "year": "'21"
   },
   {
-
     "name": "Abhimanyu Kapur",
     "iconUrl": "images/abhi.jpg",
     "url": "//abhikapur.me",
@@ -108,6 +107,18 @@
     "lat_long": [
       39.904202, 
       116.407394
+    ],
+    "year": "'20"
+  }
+  ,
+  {
+    "name": "Danielle Fang",
+    "iconUrl": "images/dfang.jpg",
+    "url": "//daniellefang.me",
+    "message": "Best City in America, contructive critism not considered!",
+    "lat_long": [
+      45.512230,
+      -122.658722
     ],
     "year": "'20"
   }
