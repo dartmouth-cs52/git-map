@@ -110,6 +110,7 @@
     "year": "'20"
   },
   {
+<<<<<<< HEAD
     "name": "Liam Jolley",
     "iconUrl": "images/liamjolley.jpg",
     "url": "//liamjolley.me",
@@ -240,6 +241,17 @@
       -19.020836
     ],
     "year": "'19"
+=======
+    "name": "Amber Liu", 
+    "iconUrl": "images/amberliu.png",
+    "url": "//amberemilyliu.me",
+    "message": "Hello, it me",
+    "lat_long": [
+      32.907871,
+      -105.930191
+    ],
+    "year": "'20"
+>>>>>>> Adding my profile and picture to the map-- located at White Sands National Park.
   }
 ]
 
