@@ -130,5 +130,16 @@
       67
      ],
     "year": "21"
-  }
+    },
+    {
+    "name": "Rohan Bose",
+    "iconUrl": "images/rohan.jpg",
+    "url": "//rohanbose.me",
+    "message": "",
+    "lat_long": [
+      42.3318,
+      -71.1212
+    ],
+    "year": "'20"
+    }
 ]
