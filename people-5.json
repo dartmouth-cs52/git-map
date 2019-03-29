@@ -108,5 +108,16 @@
       -87.840625
      ],
     "year": "11"
+  },
+  {
+    "name": "Prosper Onungwa",
+    "iconUrl": "images/prosper.jpg",
+    "url": "//prospere.me",
+    "message": "haha",
+    "lat_long": [
+      9.59396,
+      8.105306
+     ],
+    "year": "20"
   }
 ]
