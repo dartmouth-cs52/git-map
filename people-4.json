@@ -22,7 +22,17 @@
     "year": "'20"
   },
   {
-
+    "name": "Grace Dorgan",
+    "iconUrl": "images/grace.jpg",
+    "url": "//gracedorgan.me",
+    "message": "hacker girl in a big world",
+    "lat_long": [
+      39.749668,
+      -105.216019
+    ],
+    "year": "'21"
+  },
+  {
     "name": "Abhimanyu Kapur",
     "iconUrl": "images/abhi.jpg",
     "url": "//abhikapur.me",
@@ -30,8 +40,9 @@
     "lat_long": [
       19.0760,
        72.8777
-    ]
-  } ,
+      ],
+      "year": "'21"
+  },
   {
     "name": "Syed Tanveer",
     "iconUrl": "images/syed-icon.jpg",
@@ -53,6 +64,51 @@
       -121.768005
     ],
     "year": "'19"
+  },
+
+  {
+    "name": "Maddie Hess",
+    "iconUrl": "images/maddiehess.jpg",
+    "url": "//maddiehess.me",
+    "message": "beep boop computer soup!",
+    "lat_long": [
+      37.840687,
+      -122.528469
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Cat Zhao",
+    "iconUrl": "images/cat-zhao.jpg",
+    "url": "//catcatherinezhao.me",
+    "message": "hi",
+    "lat_long": [
+      37.338207,
+      -121.886330
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Evalyn Li",
+    "iconUrl": "images/evalynli.jpg",
+    "url": "//evalynli.me",
+    "message": "CS52 is kinda confusing :(",
+    "lat_long": [
+      37.441883,
+      -122.143021
+    ],
+    "year": "21"
+  },
+  {
+    "name": "Olivia Zhao",
+    "iconUrl": "images/olivia.jpg",
+    "url": "//oliviazhao.me",
+    "message": "yayy",
+    "lat_long": [
+      39.904202, 
+      116.407394
+    ],
+    "year": "'20"
   }
   ,
   {

@@ -20,5 +20,102 @@
       -38.847656
     ],
     "year": "'16"
+  },
+  {
+    "name": "Richard Jiang Yang",
+    "iconUrl": "images/RJPicture.png",
+    "url": "//rjyang.me",
+    "message": "hey",
+    "lat_long": [
+      64.287526,
+      -46.082338
+    ]
+  },
+  {
+    "name": "Shep",
+    "iconUrl": "images/sunset200.png",
+    "url": "//shepp.me",
+    "message": "woohoo",
+    "lat_long": [
+      40.665155,
+      -73.634338
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Zoe Yu",
+    "iconUrl": "images/catluvr.jpg",
+    "url": "//zoeyuuu.me",
+    "message": "i'm so sorry",
+    "lat_long": [
+      43.7044,
+      -72.2887
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Ryoya Wakamatsu",
+    "iconUrl": "images/ryoyaw.jpg",
+    "url": "//ryoyaw.me",
+    "message": "What a time to be alive",
+    "lat_long": [
+      -23.689805,
+      137.900391
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Bailey Burke",
+    "iconUrl": "images/bailey.jpg",
+    "url": "//baileyburke.me",
+    "message": "woot woot",
+    "lat_long": [
+      41.261478,
+      -73.593262
+    ]
+  },
+  {
+    "name": "Thomas Monfre",
+    "iconUrl": "images/thomasmonfre.jpg",
+    "url": "//thomasmonfre-cs52.me",
+    "message": "i thought full stack meant pancakes",
+    "lat_long": [
+      44.513317,
+      -88.013298
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Varsha Iyer",
+    "iconUrl": "images/varsha.jpg",
+    "url": "//varshaiyer.me",
+    "message": "funky fresh",
+    "lat_long": [
+      42.296928,
+      -71.291862
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Taylor Olson",
+    "iconUrl": "images/taylorOlson.jpg",
+    "url": "//olstaylor.me",
+    "message": "noice",
+    "lat_long": [
+      47.613701,
+      -122.190933
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Angela Li",
+    "iconUrl": "images/angi.png",
+    "url": "//angelali.tech",
+    "message": "hello!",
+    "lat_long": [
+      39.768402,
+      -86.158066
+    ],
+    "year": "'20"
   }
 ]
