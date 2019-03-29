@@ -75,5 +75,16 @@
       -76.511574
     ],
     "year": "'17'"
-   }
+   },
+   {
+    "name": "Shreyas Agnihotri",
+    "iconUrl": "images/shreyas.jpg",
+    "url": "//shreyas-cs52.me",
+    "message": "mayo.....",
+    "lat_long": [
+      61.0137, 
+      99.1967
+    ],
+    "year": "'21"
+  }
 ]
