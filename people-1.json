@@ -54,5 +54,30 @@
     "message": "Yoooo",
     "lat_long": [41.6032, -72.685097],
     "year": "19"
+  },
+  {
+    "name": "Billy",
+    "iconUrl": "images/billy.jpg",
+    "url": "//www.billymcgrath.me",
+    "message": "Hey",
+    "lat_long": [41.6032, -73.0877],
+    "year": "20"
+  },
+  {
+    "name": "Avery",
+    "iconUrl":"images/averyvanacore.jpg",
+    "url":"//averyvanacore.me",
+    "message": "Hello all I'm Avery!",
+    "lat_long":[41.078708,-73.469287],
+    "year":"20"
+  },
+  {
+      "name": "Julian",
+      "iconUrl": "images/juliangrunauer.jpg",
+      "url": "//www.juliangrunauer22.me",
+      "message": "I agree with Alex",
+
+      "lat_long": [33.873351, -118.389724],
+      "year": "21"
   }
 ]
