@@ -11,17 +11,6 @@
     "year": "'20"
   },
   {
-    "name": "Grace Dorgan",
-    "iconUrl": "images/grace.jpg",
-    "url": "//gracedorgan.me",
-    "message": "hacker girl in a big world",
-    "lat_long": [
-      39.749668,
-      -105.216019
-    ],
-    "year": "'21"
-  },
-  {
     "name": "Katherine Bernardez",
     "iconUrl": "images/katherine_bernardez.jpg",
     "url": "//katherinebernardez.me",
@@ -31,6 +20,17 @@
       -122.242168
     ],
     "year": "'20"
+  },
+  {
+    "name": "Grace Dorgan",
+    "iconUrl": "images/grace.jpg",
+    "url": "//gracedorgan.me",
+    "message": "hacker girl in a big world",
+    "lat_long": [
+      39.749668,
+      -105.216019
+    ],
+    "year": "'21"
   },
   {
 
