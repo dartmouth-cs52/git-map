@@ -119,5 +119,16 @@
       8.105306
      ],
     "year": "20"
+  },
+  {
+    "name": "Teddy Wahle",
+    "iconUrl": "images/teddy_wahle.jpg",
+    "url": "//twahle.me",
+    "message": "Beep boop. Increase intake.",
+    "lat_long": [
+      125,
+      67
+     ],
+    "year": "21"
   }
 ]
