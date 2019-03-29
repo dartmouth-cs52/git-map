@@ -218,6 +218,17 @@
       -75.165222
     ],
     "year": "'21"
+  },
+  {
+    "name": "Steven Karson",
+    "iconUrl": "images/stevenkarson.jpg",
+    "url": "//stevenkarson.me",
+    "message": "Hi, I'm Steve!",
+    "lat_long": [
+      42.448170,
+      -71.224716
+    ],
+    "year": "'20"
   }
 ]
 
