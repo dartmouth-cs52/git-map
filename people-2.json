@@ -97,6 +97,17 @@
       -81.6944
     ],
     "year": "'20"
+  },
+  {
+    "name": "Jason Ceto",
+    "iconUrl": "images/Jason.jpg",
+    "url": "//jason52.me",
+    "message": "Hello!",
+    "lat_long": [
+      33.8648, 
+      -84.4643
+    ],
+    "year": "'20"
   }
 
 ]
