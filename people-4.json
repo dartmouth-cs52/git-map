@@ -68,6 +68,18 @@
   },
 
   {
+    "name": "Joe Connolly",
+    "iconUrl": "images/joeconnolly.png",
+    "url": "//timtregubov1.me",
+    "message": "Ford Explorers are cool",
+    "lat_long": [
+      42.65,
+      -73.75
+    ],
+    "year": "'19"
+  },
+
+  {
     "name": "Maddie Hess",
     "iconUrl": "images/maddiehess.jpg",
     "url": "//maddiehess.me",
@@ -106,7 +118,7 @@
     "url": "//oliviazhao.me",
     "message": "yayy",
     "lat_long": [
-      39.904202, 
+      39.904202,
       116.407394
     ],
     "year": "'20"
