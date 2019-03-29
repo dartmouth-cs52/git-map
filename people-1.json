@@ -88,5 +88,13 @@
 
     "lat_long": [58.301945, -134.419724],
     "year": "20"
-}
+  },
+  {
+    "name": "Madison",
+    "iconUrl": "images/madison.jpg",
+    "url": "//madisonhazard.me",
+    "message": "Hi Everyone!",
+    "lat_long": [58.301945, -134.419724],
+    "year": "20"
+  }
 ]
