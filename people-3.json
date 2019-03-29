@@ -43,17 +43,6 @@
     "year": "'19"
   },
   {
-    "name": "Angela Li",
-    "iconUrl": "images/angi.png",
-    "url": "//angelali.tech",
-    "message": "hello!",
-    "lat_long": [
-      39.768402,
-      -86.158066
-    ],
-    "year": "'20"
-  },
-  {
     "name": "Zoe Yu",
     "iconUrl": "images/catluvr.jpg",
     "url": "//zoeyuuu.me",
@@ -95,5 +84,16 @@
       -88.013298
     ],
     "year": "'21"
-  }
+  },
+  {
+    "name": "Angela Li",
+    "iconUrl": "images/angi.png",
+    "url": "//angelali.tech",
+    "message": "hello!",
+    "lat_long": [
+      39.768402,
+      -86.158066
+    ],
+    "year": "'20"
+  },
 ]
