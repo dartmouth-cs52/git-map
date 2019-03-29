@@ -133,13 +133,14 @@
   },
   {
     "name": "Sami Burack",
-    "iconUrl": "images/sami.jpg",
+    "iconUrl": "images/sami.JPG",
     "url": "//sburack.me",
     "message": "hi its sami!",
     "lat_long": [
       42.287587,
       -73.320386
-    ]
+    ], 
+    "year": "'20"
   },
   {
     "name": "Charlotte Chui",
