@@ -64,5 +64,16 @@
       90.3563309
     ],
     "year": "'21"
-  }
+  },
+  {
+    "name": "Abigail",
+    "iconUrl": "images/abigail.jpg",
+    "url": "//aychen.me",
+    "message": "Hello, world!",
+    "lat_long": [
+      37.237419,
+      -76.511574
+    ],
+    "year": "'17'"
+   }
 ]
