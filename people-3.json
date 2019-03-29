@@ -37,7 +37,7 @@
     "url": "//shepp.me",
     "message": "woohoo",
     "lat_long": [
-      40.665155, 
+      40.665155,
       -73.634338
     ],
     "year": "'19"
@@ -95,6 +95,27 @@
       -71.291862
     ],
     "year": "'21"
+  },
+  {
+    "name": "Taylor Olson",
+    "iconUrl": "images/taylorOlson.jpg",
+    "url": "//olstaylor.me",
+    "message": "noice",
+    "lat_long": [
+      47.613701,
+      -122.190933
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Angela Li",
+    "iconUrl": "images/angi.png",
+    "url": "//angelali.tech",
+    "message": "hello!",
+    "lat_long": [
+      39.768402,
+      -86.158066
+    ],
+    "year": "'20"
   }
-
 ]
