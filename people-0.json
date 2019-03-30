@@ -262,6 +262,17 @@
       -72.673363
     ],
     "year": "'22"
+  },
+  {
+    "name": "Michael Robelo",
+    "iconUrl": "images/Michael_Robelo.png",
+    "url": "michaelrobelo.me",
+    "message": "Hi, I'm Michael",
+    "lat_long": [
+      12.865416,
+      -85.207230
+    ],
+    "year": "'20"
   }
 ]
 
