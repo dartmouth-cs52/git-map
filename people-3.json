@@ -154,6 +154,17 @@
     "year": "'20"
   },
   {
+    "name": "Robert he",
+    "iconUrl": "images/roberthe.jpg",
+    "url": "//robbiehe.me",
+    "message": "I love Curry",
+    "lat_long": [
+      -79.667498,
+       43.805900
+    ],
+    "year": "'19"
+  },
+  {
     "name": "Dartmouth CS52",
     "iconUrl": "images/cs52.png",
     "url": "//cs52.me",
