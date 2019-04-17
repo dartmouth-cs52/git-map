@@ -27,7 +27,7 @@
     "url": "http://alexish52.me",
     "message": "Hi I'm Alexis!!",
     "lat_long": [
-      43.8, 
+      43.8,
       -110.7
     ],
     "year": "'20"
@@ -139,7 +139,7 @@
     "lat_long": [
       42.287587,
       -73.320386
-    ], 
+    ],
     "year": "'20"
   },
   {
@@ -273,6 +273,16 @@
       -85.207230
     ],
     "year": "'20"
+  },
+  {
+    "name": "Rafi Khaled",
+    "iconUrl": "images/rafi.jpg",
+    "url": "http://rafi-k.me",
+    "message": "Newbie",
+    "lat_long": [
+      40.812320,
+      -73.345800
+    ],
+    "year": "'20"
   }
 ]
-
