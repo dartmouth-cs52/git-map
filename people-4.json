@@ -20,5 +20,15 @@
       -121.9624
     ],
     "year": "'20"
+  },
+  {
+    "name": "Ziray Hao",
+    "iconUrl": "images/ziray.png",
+    "url":"//zirayhao.com",
+    "message": "404",
+    "lat_long": [
+      41.651201, -72.686035
+    ],
+    "year": "'22"
   }
 ]
