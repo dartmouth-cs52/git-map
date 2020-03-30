@@ -9,5 +9,16 @@
       -85.0621176
     ],
     "year": "'23"
+  },
+  {
+    "name": "Alexis Harris",
+    "iconUrl": "images/alexisImage.jpg",
+    "url": "http://alexish52.me",
+    "message": "Hi I'm Alexis!!",
+    "lat_long": [
+      40.7,
+      -74.0
+    ],
+    "year": "'20"
   }
 ]
