@@ -1,16 +1,5 @@
 [
   {
-    "name": "Michelle Yu",
-    "iconUrl": "images/michelle.jpg",
-    "url": "//michelleyu.me",
-    "message": "Hi!! :)",
-    "lat_long": [
-      42.704357,
-      -73.911643
-    ],
-    "year": "'19"
-  },
-  {
     "name": "Jasmine Mai",
     "iconUrl": "images/jasmine.jpg",
     "url": "//jwmai.me",
@@ -22,28 +11,6 @@
     "year": "'20"
   },
   {
-    "name": "Tianxing (Roger) Dai",
-    "iconUrl": "images/roger.jpg",
-    "url": "//rogerdai.me",
-    "message": "How you doing",
-    "lat_long": [
-      31.298973,
-      120.585289
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Gillian Yue",
-    "iconUrl": "images/gillian.jpg",
-    "url": "//gyue.me",
-    "message": "SUP guys",
-    "lat_long": [
-      10.375722,
-      -61.233559
-    ],
-    "year": "'22"
-  },
-  {
     "name": "Anna Matusewicz",
     "iconUrl": "images/anna_matusewicz.jpeg",
     "url": "//annamatusewicz.me",
@@ -51,105 +18,6 @@
     "lat_long": [
       47.574159,
       -122.382228
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Shoshana Geller",
-    "iconUrl": "images/shosh.jpg",
-    "url": "//sgeller.me",
-    "message": "Hey",
-    "lat_long": [
-      40.784267,
-      74.696828
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Justin Baltazar",
-    "iconUrl": "images/justin.jpg",
-    "url": "//wondercat.me",
-    "message": "Hi!!!",
-    "lat_long": [
-      41.853444,
-      -87.610270
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "John Sullivan",
-    "iconUrl": "images/John_Sullivan.jpg",
-    "url": "//sulljohn.me",
-    "message": "Hello everyone!",
-    "lat_long": [
-      40.927877,
-      -73.751798
-    ],
-    "year": "TH"
-  },
-  {
-    "name": "Marshall Peng",
-    "iconUrl": "images/marshall.jpg",
-    "url": "//marshallpeng.me",
-    "message": "Git Short Assignment - Marshall Peng",
-    "lat_long": [
-      43.221600,
-      -88.014832
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "John Schlachtenhaufen",
-    "iconUrl": "images/john_schlachtenhaufen.jpg",
-    "url": "//jschlach.me",
-    "message": "Hi everyone",
-    "lat_long": [
-      42.258634,
-      -87.840625
-     ],
-    "year": "11"
-  },
-  {
-    "name": "Prosper Onungwa",
-    "iconUrl": "images/prosper.jpg",
-    "url": "//prospere.me",
-    "message": "haha",
-    "lat_long": [
-      9.59396,
-      8.105306
-     ],
-    "year": "20"
-  },
-  {
-    "name": "Teddy Wahle",
-    "iconUrl": "images/teddy_wahle.jpg",
-    "url": "//twahle.me",
-    "message": "Beep boop. Increase intake.",
-    "lat_long": [
-      67,
-      67
-     ],
-    "year": "21"
-    },
-    {
-    "name": "Rohan Bose",
-    "iconUrl": "images/rohan.jpg",
-    "url": "//rohanbose.me",
-    "message": "Mitochondria is the powerhouse of the cell",
-    "lat_long": [
-      42.3318,
-      -71.1212
-    ],
-    "year": "'20"
-    },
-	{
-    "name": "Stephen Crowe",
-    "iconUrl": "images/stephen.jpg",
-    "url": "//crowestephen.me",
-    "message": "Sup",
-    "lat_long": [
-      37.2358,
-      -121.9624
     ],
     "year": "'20"
   }

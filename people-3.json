@@ -1,16 +1,5 @@
 [
   {
-    "name": "Ijemma Onwuzulike",
-    "iconUrl": "images/ijemma.png",
-    "url": "//ijemmao.me",
-    "message": "where the memes are spicy 🤙🏾",
-    "lat_long": [
-      37.9492705,
-      -121.7354938
-    ],
-    "year": "'19"
-  },
-  {
     "name": "Emma Langfitt",
     "iconUrl": "images/emma.png",
     "url": "//emmaginary.me",
@@ -22,72 +11,6 @@
     "year": "'20"
   },
   {
-    "name": "Pusheenicorn",
-    "iconUrl": "images/pusheenicorn.jpg",
-    "url": "//pusheenicorn.me",
-    "message": "Just rolling around here",
-    "lat_long": [
-      27.907058,
-      -38.847656
-    ],
-    "year": "'16"
-  },
-  {
-    "name": "Richard Jiang Yang",
-    "iconUrl": "images/RJPicture.png",
-    "url": "//rjyang.me",
-    "message": "hey",
-    "lat_long": [
-      64.287526,
-      -46.082338
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Shep",
-    "iconUrl": "images/sunset200.png",
-    "url": "//shepp.me",
-    "message": "woohoo",
-    "lat_long": [
-      40.665155,
-      -73.634338
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Zoe Yu",
-    "iconUrl": "images/catluvr.jpg",
-    "url": "//zoeyuuu.me",
-    "message": "i'm so sorry",
-    "lat_long": [
-      43.7044,
-      -72.2887
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Ryoya Wakamatsu",
-    "iconUrl": "images/ryoyaw.jpg",
-    "url": "//ryoyaw.me",
-    "message": "What a time to be alive",
-    "lat_long": [
-      -23.689805,
-      137.900391
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Bailey Burke",
-    "iconUrl": "images/bailey.jpg",
-    "url": "//baileyburke.me",
-    "message": "woot woot",
-    "lat_long": [
-      41.261478,
-      -73.593262
-    ],
-    "year": "'19"
-  },
-  {
     "name": "Thomas Monfre",
     "iconUrl": "images/thomasmonfre.jpg",
     "url": "//thomasmonfre-cs52.me",
@@ -95,17 +18,6 @@
     "lat_long": [
       44.513317,
       -88.013298
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Varsha Iyer",
-    "iconUrl": "images/varsha.jpg",
-    "url": "//varshaiyer.me",
-    "message": "funky fresh",
-    "lat_long": [
-      42.296928,
-      -71.291862
     ],
     "year": "'21"
   },
@@ -141,38 +53,5 @@
       -88.148003
     ],
     "year": "'20"
-  },
-  {
-    "name": "Norette Ingabire",
-    "iconUrl": "images/norette.jpg",
-    "url": "//noretteingabire.me",
-    "message": "Burundi forever!!",
-    "lat_long": [
-      -3.382270,
-      29.363581
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Robert he",
-    "iconUrl": "images/roberthe.jpg",
-    "url": "//robbiehe.me",
-    "message": "I love Curry",
-    "lat_long": [
-      -79.667498,
-       43.805900
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Dartmouth CS52",
-    "iconUrl": "images/cs52.png",
-    "url": "//cs52.me",
-    "message": "Full-Stack Web Dev Fun",
-    "lat_long": [
-      43.708999,
-      -72.284250
-    ],
-    "year": "'19S"
   }
 ]

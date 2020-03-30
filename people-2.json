@@ -1,36 +1,14 @@
 [
   {
-    "name": "Alex",
-    "iconUrl": "images/alex.jpg",
-    "url": "//alexanderdanilowicz.com",
-    "message": "California is the greatest place in the world!",
+    "name": "Dartmouth CS52",
+    "iconUrl": "images/cs52.png",
+    "url": "//cs52.me",
+    "message": "Full-Stack Web Dev Fun",
     "lat_long": [
-      32.696665,
-      -117.176287
+      43.708999,
+      -72.284250
     ],
-    "year": "'19'"
-  },
-  {
-    "name": "Barry",
-    "iconUrl": "images/barry.jpg",
-    "url": "//barryyang.me",
-    "message": "sup",
-    "lat_long": [
-      40.7998,
-      -73.650962
-    ],
-    "year": "'18"
-  },
-  {
-    "name": "Faustino",
-    "iconUrl": "images/faustino.jpg",
-    "url": "//faustino-cortina.me",
-    "message": "hi!",
-    "lat_long": [
-      41.14,
-      -73.49
-    ],
-    "year": "'21"
+    "year": "'19S"
   },
   {
     "name": "Andrea",
@@ -42,72 +20,5 @@
       -94.742340
     ],
     "year": "'20'"
-  },
-  {
-    "name": "Regina",
-    "iconUrl": "images/regina-icon.jpg",
-    "url": "//reginayan.me",
-    "message": "just doin' good to be here!",
-    "lat_long": [
-      38.974819,
-      -94.683601
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Yakoob",
-    "iconUrl": "images/yakoob.jpg",
-    "url": "//yakoob.me",
-    "message": "Hey!!",
-    "lat_long": [
-      23.6849937,
-      90.3563309
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Abigail",
-    "iconUrl": "images/abigail.jpg",
-    "url": "//aychen.me",
-    "message": "Hello, world!",
-    "lat_long": [
-      37.237419,
-      -76.511574
-    ],
-    "year": "'17'"
-   },
-   {
-    "name": "Shreyas Agnihotri",
-    "iconUrl": "images/shreyas.jpg",
-    "url": "//shreyas-cs52.me",
-    "message": "mayo.....",
-    "lat_long": [
-      61.0137, 
-      99.1967
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Lila McKenna",
-    "iconUrl": "images/lila.jpg",
-    "url": "//lilamckenna.me",
-    "message": "the Land (not the mistake on the lake)",
-    "lat_long": [
-      41.4993, 
-      -81.6944
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Jason Ceto",
-    "iconUrl": "images/Jason.jpg",
-    "url": "//jason52.me",
-    "message": "Hello!",
-    "lat_long": [
-      33.8648, 
-      -84.4643
-    ],
-    "year": "'20"
   }
-
 ]

@@ -1,146 +1,23 @@
 [
   {
-    "name": "Adam Riegler",
-    "iconUrl": "images/adamjr.jpg",
-    "url": "//adamjriegler.me",
-    "message": "One day I will be an astronaut",
+    "name": "Shoshana Geller",
+    "iconUrl": "images/shosh.jpg",
+    "url": "//sgeller.me",
+    "message": "Hey",
     "lat_long": [
-      41.140442,
-      -73.353180
+      40.784267,
+      74.696828
     ],
     "year": "'20"
   },
-  {
-    "name": "Katherine Bernardez",
-    "iconUrl": "images/katherine_bernardez.jpg",
-    "url": "//katherinebernardez.me",
-    "message": "I love CS52!",
+	{
+    "name": "Stephen Crowe",
+    "iconUrl": "images/stephen.jpg",
+    "url": "//crowestephen.me",
+    "message": "Sup",
     "lat_long": [
-      47.595226,
-      -122.242168
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Grace Dorgan",
-    "iconUrl": "images/grace.jpg",
-    "url": "//gracedorgan.me",
-    "message": "hacker girl in a big world",
-    "lat_long": [
-      39.749668,
-      -105.216019
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Abhimanyu Kapur",
-    "iconUrl": "images/abhi.jpg",
-    "url": "//abhikapur.me",
-    "message": "Stop trying to make git fetch happen",
-    "lat_long": [
-      19.0760,
-       72.8777
-      ],
-      "year": "'21"
-  },
-  {
-    "name": "Syed Tanveer",
-    "iconUrl": "images/syed-icon.jpg",
-    "url": "//impossiblewebsite.me",
-    "message": "Hello",
-    "lat_long": [
-      38.780510,
-      -77.170199
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Max Zhuang",
-    "iconUrl": "images/max.png",
-    "url": "//maxzhuang.me",
-    "message": "yeah aight",
-    "lat_long": [
-      37.681873,
-      -121.768005
-    ],
-    "year": "'19"
-  },
-
-  {
-    "name": "Joe Connolly",
-    "iconUrl": "images/joe_connolly.jpg",
-    "url": "//timtregubov1.me",
-    "message": "Ford Explorers are cool",
-    "lat_long": [
-      42.65,
-      -73.75
-    ],
-    "year": "'19"
-  },
-
-  {
-    "name": "Maddie Hess",
-    "iconUrl": "images/maddiehess.jpg",
-    "url": "//maddiehess.me",
-    "message": "beep boop computer soup!",
-    "lat_long": [
-      37.840687,
-      -122.528469
-    ],
-    "year": "'19"
-  },
-  {
-    "name": "Cat Zhao",
-    "iconUrl": "images/cat-zhao.jpg",
-    "url": "//catcatherinezhao.me",
-    "message": "hi",
-    "lat_long": [
-      37.338207,
-      -121.886330
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Evalyn Li",
-    "iconUrl": "images/evalynli.jpg",
-    "url": "//evalynli.me",
-    "message": "CS52 is kinda confusing :(",
-    "lat_long": [
-      37.441883,
-      -122.143021
-    ],
-    "year": "21"
-  },
-  {
-    "name": "Olivia Zhao",
-    "iconUrl": "images/olivia.jpg",
-    "url": "//oliviazhao.me",
-    "message": "yayy",
-    "lat_long": [
-      39.904202,
-      116.407394
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Danielle Fang",
-    "iconUrl": "images/dfang.jpg",
-    "url": "//daniellefang.me",
-    "message": "Best City in America, contructive critism not considered!",
-    "lat_long": [
-      45.512230,
-      -122.658722
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Aditya Srivastava",
-    "iconUrl": "images/aditya.jpg",
-    "url": "//adisriv.me",
-    "message": "It Ain't How Quick You Get Bugs…It's How Quick You Can Debug and Keep Moving Forward.",
-    "lat_long": [
-      30.438255,
-      -84.280731
+      37.2358,
+      -121.9624
     ],
     "year": "'20"
   }
