@@ -6,5 +6,13 @@
     "message": "Camper Van life in Iceland",
     "lat_long": [63.9682201, -16.7972804],
     "year": "11BC"
+  },
+  {
+    "name": "Trevor Glasgow",
+    "iconUrl": "images/trevor.jpg",
+    "url": "//trevor-cs52.surge.sh",
+    "message": "Click for Git related comics!",
+    "lat_long": [42.1080556, -87.7358333],
+    "year": "'20"
   }
 ]
