@@ -20,5 +20,16 @@
       -122.382228
     ],
     "year": "'20"
+  },
+  {
+    "name": "Kristie",
+    "iconUrl": "images/kchow.jpg",
+    "url": "//kristiechow.com",
+    "message": "Tropical kid in the middle of the woods",
+    "lat_long": [
+      43.5225,
+      72.1535
+    ],
+    "year": "'20"
   }
 ]
