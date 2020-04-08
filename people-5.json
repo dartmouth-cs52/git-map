@@ -31,5 +31,16 @@
       -72.1535
     ],
     "year": "'20"
+  }, 
+  {
+    "name": "Tyler Vergho",
+    "iconUrl": "images/tyler.jpg",
+    "url": "//tvergho.me",
+    "message": "Hey!",
+    "lat_long": [
+      37.322998,
+      -122.032181
+    ],
+    "year": "'23"
   }
 ]
