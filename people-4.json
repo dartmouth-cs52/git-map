@@ -1,34 +1,43 @@
-[
-  {
-    "name": "Shoshana Geller",
-    "iconUrl": "images/shosh.jpg",
-    "url": "//sgeller.me",
-    "message": "Hey",
-    "lat_long": [
-      40.784267,
-      74.696828
-    ],
-    "year": "'20"
-  },
-	{
-    "name": "Stephen Crowe",
-    "iconUrl": "images/stephen.jpg",
-    "url": "//crowestephen.me",
-    "message": "Sup",
-    "lat_long": [
-      37.2358,
-      -121.9624
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Ziray Hao",
-    "iconUrl": "images/ziray.png",
-    "url":"//zirayhao.com",
-    "message": "404",
-    "lat_long": [
-      41.651201, -72.686035
-    ],
-    "year": "'22"
-  }
+[{
+        "name": "Shoshana Geller",
+        "iconUrl": "images/shosh.jpg",
+        "url": "//sgeller.me",
+        "message": "Hey",
+        "lat_long": [
+            40.784267,
+            74.696828
+        ],
+        "year": "'20"
+    },
+    {
+        "name": "Stephen Crowe",
+        "iconUrl": "images/stephen.jpg",
+        "url": "//crowestephen.me",
+        "message": "Sup",
+        "lat_long": [
+            37.2358, -121.9624
+        ],
+        "year": "'20"
+    },
+    {
+        "name": "Ziray Hao",
+        "iconUrl": "images/ziray.png",
+        "url": "//zirayhao.com",
+        "message": "404",
+        "lat_long": [
+            41.651201, -72.686035
+        ],
+        "year": "'22"
+    },
+    {
+        "name": "Joseph Notis",
+        "iconUrl": "images/josephnotis.jpg",
+        "url": "//josephnotis.me",
+        "message": "Hi!",
+        "lat_long": [
+            41.141700, -73.764110
+        ],
+        "year": "21"
+    }
+
 ]
