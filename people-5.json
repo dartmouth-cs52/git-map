@@ -31,5 +31,16 @@
       -72.1535
     ],
     "year": "'20"
+  },
+  {
+    "name": "Jialing Wu",
+    "iconUrl": "images/jialing.jpg",
+    "url": "//jialingrunrunrun.me",
+    "message": "Nice to meet you here!",
+    "lat_long": [
+      31.198738, 
+      121.297482
+    ],
+    "year": "'25"
   }
 ]
