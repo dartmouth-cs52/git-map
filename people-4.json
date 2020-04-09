@@ -10,6 +10,17 @@
         "year": "'20"
     },
     {
+        "name": "Stela Tong",
+        "iconUrl": "images/stela.jpg",
+        "url": "//stelatong.me",
+        "message": "Hi",
+        "lat_long": [
+            30.753923,
+            120.758545
+        ],
+        "year": "'22"
+    },
+    {
         "name": "Stephen Crowe",
         "iconUrl": "images/stephen.jpg",
         "url": "//crowestephen.me",
