@@ -75,5 +75,16 @@
       -97.7431
     ],
     "year": "'22"
+  },
+  {
+    "name": "Dylan Spector",
+    "iconUrl": "images/dylan.JPG",
+    "url": "//dylanrspector.me",
+    "message": "Add me on myspace",
+    "lat_long": [
+      41.878113, 
+      -87.629799
+    ],
+    "year": "'22"
   }
 ]
