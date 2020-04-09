@@ -86,5 +86,16 @@
       -82.063890
     ],
     "year": "'22"
+  },
+  {
+    "name": "Bryan Shin",
+    "iconUrl":"images/bryan_shin.jpg",
+    "url": "//bryanshin.me",
+    "message": "wazzup",
+    "lat_long": [
+      47.905079,
+      -122.293060
+    ],
+    "year": "'20"
   }
 ]
