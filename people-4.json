@@ -67,6 +67,15 @@
             41.2043, -73.6437
         ],
         "year": "22"
+    },
+    {
+        "name": "Will Baxley",
+        "iconUrl": "images/willbaxley.jpg",
+        "url": "//willbaxley.me",
+        "message": "Hello!",
+        "lat_long": [
+            38.8841721, -77.1119314
+        ],
+        "year": "21"
     }
-
 ]
