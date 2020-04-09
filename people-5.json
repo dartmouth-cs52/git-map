@@ -86,5 +86,16 @@
       -87.629799
     ],
     "year": "'22"
+  },
+  {
+    "name": "Aditya Choudhari",
+    "iconUrl": "images/aditya.JPG",
+    "url": "//adityachoudhari.me",
+    "message": "Hi from Atlanta!",
+    "lat_long": [
+      34.091190, 
+      -84.355800
+    ],
+    "year": "'22"
   }
 ]
