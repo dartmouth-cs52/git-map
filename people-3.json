@@ -53,5 +53,15 @@
       -88.148003
     ],
     "year": "'20"
+  },
+  {
+    "name": "Juliette Pouchol",
+    "iconUrl":"images/juliettepouchol.png",
+    "message": "Thoughts on Nietzsche's BoT?",
+    "lat_long": [
+      41.307220,
+      -73.589410
+    ],
+    "year": "'20"
   }
 ]
