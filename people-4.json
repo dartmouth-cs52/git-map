@@ -57,6 +57,17 @@
             41.141700, -73.764110
         ],
         "year": "21"
-    }
+    },
+    {
+        "name": "Elizabeth Wilson",
+        "iconUrl": "images/edie.jpg",
+        "url": "//elizabethd.me",
+        "message": "Hello world!",
+        "lat_long": [
+            44.6488,
+            63.5752
+        ],
+        "year": "'22"
+    },
 
 ]
