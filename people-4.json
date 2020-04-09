@@ -57,6 +57,16 @@
             41.141700, -73.764110
         ],
         "year": "21"
+    },
+    {
+        "name": "Georgina Davis",
+        "iconUrl": "images/georginadavis.jpg",
+        "url": "//georginadavis.me",
+        "message": "Hi everyone!",
+        "lat_long": [
+            41.2043, -73.6437
+        ],
+        "year": "22"
     }
 
 ]
