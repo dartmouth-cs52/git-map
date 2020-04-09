@@ -53,6 +53,17 @@
       -74
     ],
     "year": "'22"
+  },
+  {
+    "name": "Anjali Chikkula",
+    "iconUrl": "images/anjali.jpg",
+    "url": "//bbqfood.me",
+    "message": "can't hang, making banana bread",
+    "lat_long":[
+      29.56, 
+      -95.62
+    ],
+    "year": "'20"
   }
 
 ]
