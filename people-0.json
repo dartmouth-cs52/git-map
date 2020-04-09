@@ -20,5 +20,16 @@
       -74.0
     ],
     "year": "'20"
+  },
+  {
+    "name": "Kevin Ge",
+    "iconUrl": "images/kevinge2.png",
+    "url": "http://kevingeis.me",
+    "message": "Hey I'm Kevin",
+    "lat_long": [
+      40.5,
+      -73.9
+    ],
+    "year": "'20"
   }
 ]
