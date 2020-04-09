@@ -31,5 +31,16 @@
       -73.9
     ],
     "year": "'20"
+  },
+  {
+    "name": "Mike Zhou",
+    "iconUrl": "images/mikezhou.jpg",
+    "url": "//mikezhou.me",
+    "message": "s'all good bois",
+    "lat_long": [
+      41.3,
+      -105.6
+    ],
+    "year": "'21"
   }
 ]
