@@ -54,5 +54,16 @@
       -73.541730
     ],
     "year": "'22"
+  },
+  {
+    "name": "Noah White",
+    "iconUrl": "images/noahwhite.jpg",
+    "url": "//noahrwhite.me",
+    "message": "Hey what's up hello",
+    "lat_long": [
+      46.647560,
+      -122.541730
+    ],
+    "year": "'21"
   }
 ]
