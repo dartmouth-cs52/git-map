@@ -42,5 +42,17 @@
       -77.409550
     ],
     "year": "'21"
+  },
+  
+  {
+    "name": "David Kantor",
+    "iconUrl": "images/davidkantor.jpg",
+    "url": "//davidkantor.me",
+    "message": "Hey everyone!",
+    "lat_long": [
+      40.647560,
+      -73.541730
+    ],
+    "year": "'22"
   }
 ]
