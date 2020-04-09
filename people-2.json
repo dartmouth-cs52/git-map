@@ -20,5 +20,50 @@
       -94.742340
     ],
     "year": "'20'"
+  },
+  {
+    "name": "Carlos Yepes",
+    "iconUrl": "images/carlos_bro.png",
+    "url": "//dartmouth-cs52-20s.github.io/lab1-landingpage-Emzyx/",
+    "message": "Wide Dog is a debatable character",
+    "lat_long": [
+      40.089910,
+      -74.216270
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Kyle Bensink",
+    "iconUrl": "images/bensink.jpg",
+    "url": "//dartmouth-cs52-20s.github.io/lab1-landingpage-bensinkk/",
+    "message": "I'm just here so I won't get fined",
+    "lat_long": [
+      42.982530,
+      -77.409550
+    ],
+    "year": "'21"
+  },
+  
+  {
+    "name": "David Kantor",
+    "iconUrl": "images/davidkantor.jpg",
+    "url": "//davidkantor.me",
+    "message": "Hey everyone!",
+    "lat_long": [
+      40.647560,
+      -73.541730
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Noah White",
+    "iconUrl": "images/noahwhite.jpg",
+    "url": "//noahrwhite.me",
+    "message": "Hey what's up hello",
+    "lat_long": [
+      46.647560,
+      -122.541730
+    ],
+    "year": "'21"
   }
 ]

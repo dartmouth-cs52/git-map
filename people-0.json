@@ -31,5 +31,28 @@
       -73.9
     ],
     "year": "'20"
+  },
+  {
+    "name": "Mike Zhou",
+    "iconUrl": "images/mikezhou.jpg",
+    "url": "//mikezhou.me",
+    "message": "s'all good bois",
+    "lat_long": [
+      41.3,
+      -105.6
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Donia Tung",
+    "iconUrl": "images/donia.jpg",
+    "url": "http://doniacs52.me",
+    "message": "small girl, big city",
+    "lat_long":[
+      40.76, 
+      -74
+    ],
+    "year": "'22"
   }
+
 ]
