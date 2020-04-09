@@ -31,5 +31,71 @@
       -72.1535
     ],
     "year": "'20"
+  },
+  {
+    "name": "Jialing Wu",
+    "iconUrl": "images/jialing.jpg",
+    "url": "//jialingrunrunrun.me",
+    "message": "Nice to meet you here!",
+    "lat_long": [
+      31.198738, 
+      121.297482
+    ],
+    "year": "'25"
+  }, 
+  {
+    "name": "Tyler Vergho",
+    "iconUrl": "images/tyler.jpg",
+    "url": "//tvergho.me",
+    "message": "Hey!",
+    "lat_long": [
+      37.322998,
+      -122.032181
+    ],
+    "year": "'23"
+  },
+  {
+    "name": "Anne Bailey",
+    "iconUrl": "images/anne.jpg",
+    "url": "//annegbailey.me",
+    "message": "Hi!",
+    "lat_long": [
+      42.2459, 
+      -71.2829
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Rohith Mandavilli",
+    "iconUrl": "images/rohith.png",
+    "url": "//rohithmandavilli.me",
+    "message": "Saturday is for the boys",
+    "lat_long": [
+      30.2672, 
+      -97.7431
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Dylan Spector",
+    "iconUrl": "images/dylan.JPG",
+    "url": "//dylanrspector.me",
+    "message": "Add me on myspace",
+    "lat_long": [
+      41.878113, 
+      -87.629799
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Aditya Choudhari",
+    "iconUrl": "images/aditya.JPG",
+    "url": "//adityachoudhari.me",
+    "message": "Hi from Atlanta!",
+    "lat_long": [
+      34.091190, 
+      -84.355800
+    ],
+    "year": "'22"
   }
 ]
