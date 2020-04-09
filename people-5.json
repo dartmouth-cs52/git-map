@@ -53,5 +53,16 @@
       -122.032181
     ],
     "year": "'23"
+  },
+  {
+    "name": "Anne Bailey",
+    "iconUrl": "images/anne.jpg",
+    "url": "//annegbailey.me",
+    "message": "Hi!",
+    "lat_long": [
+      42.2459, 
+      -71.2829
+    ],
+    "year": "'22"
   }
 ]
