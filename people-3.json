@@ -55,6 +55,17 @@
     "year": "'20"
   },
   {
+    "name": "Mustafa Nasir-Moin",
+    "iconUrl": "images/mustafa.png",
+    "url": "http://mustafanasirmoin.me",
+    "message": "Hello!",
+    "lat_long": [
+      41.434559,
+      -74.038078
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Juliette Pouchol",
     "iconUrl":"images/juliettepouchol.png",
     "url": "//poucholcs52.me",
