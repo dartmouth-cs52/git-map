@@ -20,6 +20,14 @@
         "year": "'20"
     },
     {
+        "name": "Selim",
+        "iconUrl": "images/selim.jpg",
+        "url": "//www.selimhassairi.com",
+        "message": "Visit Tunisia!",
+        "lat_long": [36.8891, 10.322],
+        "year": "1999"
+      },
+    {
         "name": "Ziray Hao",
         "iconUrl": "images/ziray.png",
         "url": "//zirayhao.com",
