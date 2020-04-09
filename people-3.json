@@ -66,6 +66,17 @@
     "year": "'20"
   },
   {
+    "name": "Ryan Blankemeier",
+    "iconUrl":"images/ryanblankemeier.png",
+    "url": "//yankee-victor.xyz",
+    "message": "How do you feel about the Bay of Pigs?",
+    "lat_long": [
+      41.878113,
+      -87.629799
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Connor Davis",
     "iconUrl":"images/con.jpg",
     "url": "//kickstat.app",
