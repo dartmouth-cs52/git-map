@@ -77,5 +77,15 @@
             38.8841721, -77.1119314
         ],
         "year": "21"
+    },
+    {
+        "name": "Srishti Bagchi",
+        "iconUrl": "images/srishti.jpg",
+        "url": "//srishtibagchi.me",
+        "message": "^_^",
+        "lat_long": [
+            41.060111, -73.780163
+        ],
+        "year": "21"
     }
 ]
