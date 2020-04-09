@@ -64,5 +64,16 @@
       -73.589410
     ],
     "year": "'20"
+  },
+  {
+    "name": "Connor Davis",
+    "iconUrl":"images/con.jpg",
+    "url": "//kickstat.app",
+    "message": "Yo",
+    "lat_long": [
+      29.146440,
+      -82.063890
+    ],
+    "year": "'22"
   }
 ]
