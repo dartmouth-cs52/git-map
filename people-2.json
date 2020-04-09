@@ -31,5 +31,16 @@
       -74.216270
     ],
     "year": "'22"
+  },
+  {
+    "name": "Kyle Bensink",
+    "iconUrl": "images/bensink.jpg",
+    "url": "//dartmouth-cs52-20s.github.io/lab1-landingpage-bensinkk/",
+    "message": "I'm just here so I won't get fined",
+    "lat_long": [
+      42.982530,
+      -77.409550
+    ],
+    "year": "'21"
   }
 ]
