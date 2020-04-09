@@ -64,6 +64,16 @@
       -95.62
     ],
     "year": "'20"
+  },
+  {
+    "name": "Yaorui Zhang",
+    "iconUrl": "images/yaorui.jpg",
+    "url": "//yaorui.me",
+    "message": "Hope everyone is in good health",
+    "lat_long":[
+      43.64, 
+      -72.31
+    ],
+    "year": "'GR 21"
   }
-
 ]
