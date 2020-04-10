@@ -76,5 +76,17 @@
       -121.886330
     ],
     "year": "'22"
+  },
+
+  {
+    "name": "Sara Kay",
+    "iconUrl": "images/sara&flare.jpg",
+    "url": "//skay22.me",
+    "message": "Enjoying Animal Crossing in my gremlin cave at home uwu",
+    "lat_long": [
+      21.306944,
+      -157.858337
+    ],
+    "year": "'22"
   }
 ]
