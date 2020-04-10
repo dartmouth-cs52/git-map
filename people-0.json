@@ -119,5 +119,16 @@
       29.409700
     ],
     "year":"'21"
+  },
+  {
+    "name": "Gia Kim",
+    "iconUrl": "images/gia.jpg",
+    "url": "//gia-kim.me",
+    "message": "*cries in HTML*",
+    "lat_long": [
+      21.606980,
+      -157.906200
+    ],
+    "year": "'22"
   }
 ]
