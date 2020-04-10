@@ -77,5 +77,16 @@
             38.8841721, -77.1119314
         ],
         "year": "21"
-    }
+    },
+    {
+        "name": "Grant Dumanian",
+        "iconUrl": "https://lh3.googleusercontent.com/proxy/AT3U6aWWPfborS_SoFXksOxyGTkyhyffyK5mJXKa2Qp00BusIzPlYYJCXnZ9tUu2l9HhHtG8pQM10M1bE0FMGFa1Kw",
+        "url": "//gdumanian.me/",
+        "message": "what do you call a fake noodle?",
+        "lat_long": [
+          37.774929,
+          -122.419418
+        ],
+        "year": "'22"
+      }
 ]
