@@ -8,6 +8,14 @@
     "year": "11BC"
   },
   {
+    "name": "Dylan Whang",
+    "iconUrl": "images/dylanw.jpg",
+    "url": "//dylanwhang.me",
+    "message": "According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway.",
+    "lat_long": [40.796303, -73.949143],
+    "year": "21"
+  },
+  {
     "name": "Trevor Glasgow",
     "iconUrl": "images/trevor.jpg",
     "url": "//trevor-cs52.surge.sh",
