@@ -130,5 +130,16 @@
             -84.474090
         ],
         "year": "'22"
+    },
+    {
+        "name": "Sunbir Chawla",
+        "iconUrl": "images/sunbir_pic.jpg",
+        "url": "//sunbir.me/",
+        "message": "Testing",
+        "lat_long": [
+            30.714769,
+            76.775278
+        ],
+        "year": "'21"
     }
 ]
