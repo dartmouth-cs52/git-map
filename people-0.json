@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
@@ -22,6 +21,17 @@
     "year": "'20"
   },
   {
+    "name": "Ian Hou",
+    "iconUrl": "images/ian.jpg",
+    "url": "http://http://iankwanhou.me/",
+    "message": "One day, the proles will rise again.",
+    "lat_long": [
+      42.3,
+      -71.2
+    ],
+    "year": "'22"
+  }
+ {
     "name": "Kevin Ge",
     "iconUrl": "images/kevinge2.png",
     "url": "http://kevingeis.me",
