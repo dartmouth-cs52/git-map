@@ -46,5 +46,13 @@
     "message": "I have pictures of cats on my website :)",
     "lat_long": [0.347596, 32.582520],
     "year": "'21"
+  },
+  {
+    "name": "Isaiah Martin",
+    "iconUrl": "images/isaiah.jpg",
+    "url": "//cs52-isaiahmartin.me",
+    "message": "I like to make websites!",
+    "lat_long": [37.668819, -122.080795],
+    "year": "21"
   }
 ]
