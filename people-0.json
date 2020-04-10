@@ -130,5 +130,16 @@
       -157.906200
     ],
     "year": "'22"
+  },
+  {
+    "name": "Meriem Fouad",
+    "iconUrl": "images/meriem.jpg",
+    "url": "//meriemfouad.me",
+    "message": "*My body is stuck in Hanover but my heart is in Morocco*",
+    "lat_long": [
+      34.021992,
+      -6.837620
+    ],
+    "year": "'21"
   }
 ]
