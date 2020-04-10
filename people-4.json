@@ -38,6 +38,17 @@
         "lat_long": [36.8891, 10.322],
         "year": "1999"
       },
+      {
+        "name": "Musab Shakeel",
+        "iconUrl": "images/musab.jpg",
+        "url": "mshakeel.me",
+        "message": "Hey, I am Musab!",
+        "lat_long": [
+          24.860735,
+          67.001137
+        ],
+        "year": "'21"
+      },
     {
         "name": "Ziray Hao",
         "iconUrl": "images/ziray.png",
