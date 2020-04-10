@@ -141,7 +141,16 @@
       -71.491720
     ],
     "year": "'22"
+  },
+  {
+    "name": "Hershel Wathore",
+    "iconUrl":"images/hershel.jpg",
+    "url": "//hershelwathore.me",
+    "message": "yo",
+    "lat_long": [
+      35.784580,
+      -78.854668
+    ],
+    "year": "'21"
   }
-
-
 ]
