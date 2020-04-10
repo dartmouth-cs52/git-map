@@ -108,5 +108,17 @@
       -122.293060
     ],
     "year": "'20"
+  },
+  {
+    "name": "Sam Morton",
+    "iconUrl":"images/sammorton.jpg",
+    "url": "//sammorton.me",
+    "message": "Hi",
+    "lat_long": [
+      43.479622,
+      -110.762352
+    ],
+    "year": "'21"
   }
+
 ]
