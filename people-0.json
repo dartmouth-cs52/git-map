@@ -86,5 +86,16 @@
       -72.31
     ],
     "year": "'GR 21"
+  },
+  {
+    "name": "Jose Chanchavac",
+    "iconUrl": "images/caution.jpg",
+    "url": "//dartmouth-cs52-20s.github.io/lab1-landingpage-chanchavac2022/",
+    "message": "Oof",
+    "lat_long":[
+      33.978950, 
+      -118.219050
+    ],
+    "year": "'22"
   }
 ]
