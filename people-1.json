@@ -30,5 +30,13 @@
     "message": "Why have abs when you can have kebabs",
     "lat_long": [19.113299, 72.881722],
     "year": "'21"
+  },
+  {
+    "name": "Abubakar Kasule",
+    "iconUrl": "images/abubakar.png",
+    "url": "//abubakarkasule.me",
+    "message": "I have pictures of cats on my website :)",
+    "lat_long": [0.347596, 32.582520],
+    "year": "'21"
   }
 ]
