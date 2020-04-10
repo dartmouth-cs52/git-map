@@ -55,6 +55,17 @@
     "year": "'20"
   },
   {
+    "name": "Mustafa Nasir-Moin",
+    "iconUrl": "images/mustafa.png",
+    "url": "http://mustafanasirmoin.me",
+    "message": "Hello!",
+    "lat_long": [
+      41.434559,
+      -74.038078
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Juliette Pouchol",
     "iconUrl":"images/juliettepouchol.png",
     "url": "//poucholcs52.me",
@@ -78,7 +89,7 @@
   },
   {
     "name": "Connor Davis",
-    "iconUrl":"images/con.jpg",
+    "iconUrl":"images/connor.jpg",
     "url": "//kickstat.app",
     "message": "Yo",
     "lat_long": [
@@ -97,5 +108,17 @@
       -122.293060
     ],
     "year": "'20"
+  },
+  {
+    "name": "Sam Morton",
+    "iconUrl":"images/sammorton.jpg",
+    "url": "//sammorton.me",
+    "message": "Hi",
+    "lat_long": [
+      43.479622,
+      -110.762352
+    ],
+    "year": "'21"
   }
+
 ]
