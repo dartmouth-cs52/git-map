@@ -165,6 +165,18 @@
         "year": "'21"
     },
     {
+        "name": "David Perez Gonzalez",
+        "iconUrl": "images/davidperezgonzalez.jpg",
+        "url": "//davidperez4712.me/",
+        "message": "WHATS GOOD",
+        "lat_long": [
+            40.778198,
+            -74.067863
+        ],    
+            "year": "'21"
+    },
+
+    {           
         "name": "Jon Alter",
         "iconUrl": "images/jonalter.jpg",
         "url": "//jalter.me/",
@@ -174,5 +186,5 @@
             -73.353180
         ],
         "year": "'21"
-    }
+    } 
 ]
