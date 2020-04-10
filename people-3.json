@@ -89,7 +89,7 @@
   },
   {
     "name": "Connor Davis",
-    "iconUrl":"images/con.jpg",
+    "iconUrl":"images/connor.jpg",
     "url": "//kickstat.app",
     "message": "Yo",
     "lat_long": [
@@ -108,5 +108,49 @@
       -122.293060
     ],
     "year": "'20"
+  },
+  {
+    "name": "Sam Morton",
+    "iconUrl":"images/sammorton.jpg",
+    "url": "//sammorton.me",
+    "message": "Hi",
+    "lat_long": [
+      43.479622,
+      -110.762352
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Kim Rangel",
+    "iconUrl":"images/kimr.jpg",
+    "url": "//kimberleyrangel.me",
+    "message": "What's not to like?",
+    "lat_long": [
+      59.938480,
+      30.312481
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Julian Wu",
+    "iconUrl":"images/julianwu.jpg",
+    "url": "//julian-cs52.me",
+    "message": "Rhode Island = Best Island",
+    "lat_long": [
+      41.650810,
+      -71.491720
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Hershel Wathore",
+    "iconUrl":"images/hershel.jpg",
+    "url": "//hershelwathore.me",
+    "message": "yo",
+    "lat_long": [
+      35.784580,
+      -78.854668
+    ],
+    "year": "'21"
   }
 ]

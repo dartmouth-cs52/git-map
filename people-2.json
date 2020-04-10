@@ -65,5 +65,50 @@
       -122.541730
     ],
     "year": "'21"
+  },
+  {
+    "name": "Jason Wang",
+    "iconURL": "images/jason.jpg",
+    "url": "//jasonkwang.me",
+    "message": "Hey from AZ",
+    "lat_long": [ 
+        34.86597, 
+        -111.76381
+      ],
+    "year": "'22"
+  },
+  {
+    "name": "Sanjana Goli",
+    "iconUrl": "images/sanjana.jpg",
+    "url": "//sgoli.me",
+    "message": "At home, how about you?",
+    "lat_long": [
+      37.338207,
+      -121.886330
+    ],
+    "year": "'22"
+  },
+
+  {
+    "name": "Sara Kay",
+    "iconUrl": "images/sara&flare.jpg",
+    "url": "//skay22.me",
+    "message": "Enjoying Animal Crossing in my gremlin cave at home uwu",
+    "lat_long": [
+      21.306944,
+      -157.858337
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Jason Wang",
+    "iconURL": "images/jason.jpg",
+    "url": "//jasonkwang.me",
+    "message": "Hey everyone",
+    "lat_long": [
+      34.86597, 
+      -111.76381
+    ],
+    "year": "'22"
   }
 ]

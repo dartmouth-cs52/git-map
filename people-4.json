@@ -38,6 +38,17 @@
         "lat_long": [36.8891, 10.322],
         "year": "1999"
       },
+      {
+        "name": "Musab Shakeel",
+        "iconUrl": "images/musab.jpg",
+        "url": "//mshakeel.me",
+        "message": "Hey, I am Musab!",
+        "lat_long": [
+          24.860735,
+          67.001137
+        ],
+        "year": "'21"
+      },
     {
         "name": "Ziray Hao",
         "iconUrl": "images/ziray.png",
@@ -57,6 +68,28 @@
             41.141700, -73.764110
         ],
         "year": "21"
+    },
+    {
+        "name": "Elizabeth Wilson",
+        "iconUrl": "images/edie.jpg",
+        "url": "//elizabethd.me",
+        "message": "Hello world!",
+        "lat_long": [
+            44.6488,
+            63.5752
+        ],
+        "year": "'22"
+    },
+    {
+        "name": "Nate Houston",
+        "iconUrl": "images/nateh.jpg",
+        "url": "//hoosti.me",
+        "message": "Woo-Hoo",
+        "lat_long": [
+            42.453116,
+             -71.220247
+        ],
+        "year": "'22"
     },
     {
         "name": "Georgina Davis",
@@ -87,5 +120,71 @@
             41.060111, -73.780163
         ],
         "year": "21"
-    }
+    },
+    {
+        "name": "Catherine Parnell",
+        "iconUrl": "images/catherineparnell.jpg",
+        "url": "//catherinedparnell.me",
+        "message": "sup y'all",
+        "lat_long": [
+            29.781500, -95.577410
+        ],
+        "year": "22"
+    },
+    {
+        "name": "Grant Dumanian",
+        "iconUrl": "https://lh3.googleusercontent.com/proxy/AT3U6aWWPfborS_SoFXksOxyGTkyhyffyK5mJXKa2Qp00BusIzPlYYJCXnZ9tUu2l9HhHtG8pQM10M1bE0FMGFa1Kw",
+        "url": "//gdumanian.me/",
+        "message": "what do you call a fake noodle?",
+        "lat_long": [
+          37.774929,
+          -122.419418
+        ],
+        "year": "'22"
+    },
+    {
+        "name": "Katherine Taylor",
+        "iconUrl": "images/katherinepic.jpg",
+        "url": "//katherinerocks.me/",
+        "message": "I'm an alien",
+        "lat_long": [
+            33.844960,
+            -84.474090
+        ],
+        "year": "'22"
+    },
+    {
+        "name": "Sunbir Chawla",
+        "iconUrl": "images/sunbir_pic.jpg",
+        "url": "//sunbir.me/",
+        "message": "Testing",
+        "lat_long": [
+            30.714769,
+            76.775278
+        ],
+        "year": "'21"
+    },
+    {
+        "name": "David Perez Gonzalez",
+        "iconUrl": "images/davidperezgonzalez.jpg",
+        "url": "//davidperez4712.me/",
+        "message": "WHATS GOOD",
+        "lat_long": [
+            40.778198,
+            -74.067863
+        ],    
+            "year": "'21"
+    },
+
+    {           
+        "name": "Jon Alter",
+        "iconUrl": "images/jonalter.jpg",
+        "url": "//jalter.me/",
+        "message": "Is nice!",
+        "lat_long": [
+            41.140442,
+            -73.353180
+        ],
+        "year": "'21"
+    } 
 ]
