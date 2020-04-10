@@ -75,5 +75,15 @@
       -72.31
     ],
     "year": "'GR 21"
+  },
+  {
+    "name": "Arjun Bhatt",
+    "iconUrl": "images/arjun.jpg",
+    "url":"//arjunbhatt.me",
+    "message": "Check out Kevin's Heart by JCole: https://www.youtube.com/watch?v=ufynqs_COF4",
+    "lat_long":[
+      35.79,
+      -78.78
+    ]
   }
 ]
