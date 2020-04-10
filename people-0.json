@@ -108,5 +108,16 @@
       -87.927238
     ],
     "year": "'21"
+  },
+  {
+    "name": "Manzi Bryan",
+    "iconUrl": "images/manzi.jpg",
+    "url":"//themanzi.me",
+    "message":"Hey There!",
+    "lat_long":[
+      -2.921640, 
+      29.409700
+    ],
+    "year":"'21"
   }
 ]
