@@ -75,5 +75,27 @@
       -97.7431
     ],
     "year": "'22"
+  },
+  {
+    "name": "Dylan Spector",
+    "iconUrl": "images/dylan.JPG",
+    "url": "//dylanrspector.me",
+    "message": "Add me on myspace",
+    "lat_long": [
+      41.878113, 
+      -87.629799
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Aditya Choudhari",
+    "iconUrl": "images/aditya.JPG",
+    "url": "//adityachoudhari.me",
+    "message": "Hi from Atlanta!",
+    "lat_long": [
+      34.091190, 
+      -84.355800
+    ],
+    "year": "'22"
   }
 ]

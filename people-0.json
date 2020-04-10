@@ -22,6 +22,17 @@
     "year": "'20"
   },
   {
+    "name": "Ian Hou",
+    "iconUrl": "images/ian.jpg",
+    "url": "http://http://iankwanhou.me/",
+    "message": "One day, the proles will rise again.",
+    "lat_long": [
+      42.3,
+      -71.2
+    ],
+    "year": "'22"
+  },
+ {
     "name": "Kevin Ge",
     "iconUrl": "images/kevinge2.png",
     "url": "http://kevingeis.me",
@@ -42,5 +53,38 @@
       -105.6
     ],
     "year": "'21"
+  },
+  {
+    "name": "Donia Tung",
+    "iconUrl": "images/donia.jpg",
+    "url": "http://doniacs52.me",
+    "message": "small girl, big city",
+    "lat_long":[
+      40.76,
+      -74
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Anjali Chikkula",
+    "iconUrl": "images/anjali.jpg",
+    "url": "//bbqfood.me",
+    "message": "can't hang, making banana bread",
+    "lat_long":[
+      29.56,
+      -95.62
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Yaorui Zhang",
+    "iconUrl": "images/yaorui.jpg",
+    "url": "//yaorui.me",
+    "message": "Hope everyone is in good health",
+    "lat_long":[
+      43.64,
+      -72.31
+    ],
+    "year": "'GR 21"
   }
 ]

@@ -55,6 +55,17 @@
     "year": "'20"
   },
   {
+    "name": "Mustafa Nasir-Moin",
+    "iconUrl": "images/mustafa.png",
+    "url": "http://mustafanasirmoin.me",
+    "message": "Hello!",
+    "lat_long": [
+      41.434559,
+      -74.038078
+    ],
+    "year": "'20"
+  },
+  {
     "name": "Juliette Pouchol",
     "iconUrl":"images/juliettepouchol.png",
     "url": "//poucholcs52.me",
@@ -62,6 +73,17 @@
     "lat_long": [
       41.307220,
       -73.589410
+    ],
+    "year": "'20"
+  },
+  {
+    "name": "Ryan Blankemeier",
+    "iconUrl":"images/ryanblankemeier.png",
+    "url": "//yankee-victor.xyz",
+    "message": "How do you feel about the Bay of Pigs?",
+    "lat_long": [
+      41.878113,
+      -87.629799
     ],
     "year": "'20"
   },
@@ -75,5 +97,16 @@
       -82.063890
     ],
     "year": "'22"
+  },
+  {
+    "name": "Bryan Shin",
+    "iconUrl":"images/bryan_shin.jpg",
+    "url": "//bryanshin.me",
+    "message": "wazzup",
+    "lat_long": [
+      47.905079,
+      -122.293060
+    ],
+    "year": "'20"
   }
 ]

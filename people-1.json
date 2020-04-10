@@ -14,5 +14,13 @@
     "message": "Click for Git related comics!",
     "lat_long": [42.1080556, -87.7358333],
     "year": "'20"
+  },
+  {
+    "name": "Chibuzo Chiwike",
+    "iconUrl": "images/chibuzo.png",
+    "url": "//chibuzochiwike.me",
+    "message": "Pas d'inquiétude pas de prélude",
+    "lat_long": [43.700859, -72.289398],
+    "year": "'22"
   }
 ]
