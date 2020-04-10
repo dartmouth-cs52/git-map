@@ -97,5 +97,16 @@
       -118.219050
     ],
     "year": "'22"
+  },
+  {
+    "name": "Ayan Agarwal",
+    "iconUrl": "images/ayan.png",
+    "url": "//ayanagarwal.me",
+    "message": "thanks for hovering!",
+    "lat_long":[
+      41.803692, 
+      -87.927238
+    ],
+    "year": "'21"
   }
 ]
