@@ -119,6 +119,18 @@
       -110.762352
     ],
     "year": "'21"
+  },
+  {
+    "name": "Kim Rangel",
+    "iconUrl":"images/kimr.jpg",
+    "url": "//kimberleyrangel.me",
+    "message": "What's not to like?",
+    "lat_long": [
+      59.938480,
+      30.312481
+    ],
+    "year": "'22"
   }
+
 
 ]
