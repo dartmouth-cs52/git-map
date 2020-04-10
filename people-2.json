@@ -65,5 +65,16 @@
       -122.541730
     ],
     "year": "'21"
+  },
+  {
+    "name": "Sanjana Goli",
+    "iconUrl": "images/sanjana.jpg",
+    "url": "//sgoli.me",
+    "message": "At home, how about you?",
+    "lat_long": [
+      37.338207,
+      -121.886330
+    ],
+    "year": "'22"
   }
 ]

@@ -59,6 +59,17 @@
         "year": "21"
     },
     {
+        "name": "Elizabeth Wilson",
+        "iconUrl": "images/edie.jpg",
+        "url": "//elizabethd.me",
+        "message": "Hello world!",
+        "lat_long": [
+            44.6488,
+            63.5752
+        ],
+        "year": "'22"
+    },
+    {
         "name": "Georgina Davis",
         "iconUrl": "images/georginadavis.jpg",
         "url": "//georginadavis.me",
@@ -77,6 +88,26 @@
             38.8841721, -77.1119314
         ],
         "year": "21"
+    },
+    {
+        "name": "Srishti Bagchi",
+        "iconUrl": "images/srishti.jpg",
+        "url": "//srishtibagchi.me",
+        "message": "^_^",
+        "lat_long": [
+            41.060111, -73.780163
+        ],
+        "year": "21"
+    },
+    {
+        "name": "Catherine Parnell",
+        "iconUrl": "images/catherineparnell.jpg",
+        "url": "//catherinedparnell.me",
+        "message": "sup y'all",
+        "lat_long": [
+            29.781500, -95.577410
+        ],
+        "year": "22"
     },
     {
         "name": "Grant Dumanian",
