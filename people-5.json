@@ -97,16 +97,5 @@
       -84.355800
     ],
     "year": "'22"
-  },
-  {
-    "name": "Sarah Hong",
-    "iconUrl": "images/sarahhong.JPG",
-    "url": "//sarahhong.me",
-    "message": "Hello from Dallas!",
-    "lat_long": [
-      32.776665, 
-      -96.796989
-    ],
-    "year": "'21"
   }
 ]
