@@ -87,5 +87,15 @@
             41.060111, -73.780163
         ],
         "year": "21"
+    },
+    {
+        "name": "Catherine Parnell",
+        "iconUrl": "images/catherineparnell.jpg",
+        "url": "//catherinedparnell.me",
+        "message": "sup y'all",
+        "lat_long": [
+            29.781500, -95.577410
+        ],
+        "year": "22"
     }
 ]
