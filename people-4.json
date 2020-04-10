@@ -152,5 +152,16 @@
             76.775278
         ],
         "year": "'21"
+    },
+    {
+        "name": "Jon Alter",
+        "iconUrl": "images/jonalter.jpg",
+        "url": "//jalter.me/",
+        "message": "Is nice!",
+        "lat_long": [
+            41.140442,
+            -73.353180
+        ],
+        "year": "'21"
     }
 ]
