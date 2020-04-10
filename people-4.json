@@ -81,6 +81,17 @@
         "year": "'22"
     },
     {
+        "name": "Nate Houston",
+        "iconUrl": "images/nateh.jpg",
+        "url": "//hoosti.me",
+        "message": "Woo-Hoo",
+        "lat_long": [
+            42.453116,
+             -71.220247
+        ],
+        "year": "'22"
+    },
+    {
         "name": "Georgina Davis",
         "iconUrl": "images/georginadavis.jpg",
         "url": "//georginadavis.me",
