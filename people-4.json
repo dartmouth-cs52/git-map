@@ -119,5 +119,16 @@
           -122.419418
         ],
         "year": "'22"
-      }
+    },
+    {
+        "name": "Katherine Taylor",
+        "iconUrl": "images/katherinepic.jpg",
+        "url": "//katherinerocks.me/",
+        "message": "I'm an alien",
+        "lat_long": [
+            33.844960,
+            -84.474090
+        ],
+        "year": "'22"
+    }
 ]
