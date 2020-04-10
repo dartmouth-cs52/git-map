@@ -22,5 +22,13 @@
     "message": "Pas d'inquiétude pas de prélude",
     "lat_long": [43.700859, -72.289398],
     "year": "'22"
+  },
+  {
+    "name": "Aarish Iyer",
+    "iconUrl": "images/aarish.jpg",
+    "url": "//aarishiyer.me/",
+    "message": "Why have abs when you can have kebabs",
+    "lat_long": [19.113299, 72.881722],
+    "year": "'21"
   }
 ]
