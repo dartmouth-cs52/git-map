@@ -152,5 +152,16 @@
       -78.854668
     ],
     "year": "'21"
+  },
+  {
+    "name": "Joe Zhang",
+    "iconUrl":"images/joezhang.jpg",
+    "url": "//dartmouth-cs52-20s.github.io/lab1-landingpage-zhangjoe99/",
+    "message": "if (going to fail) {Don't}",
+    "lat_long": [
+      43.529873,
+      -72.352689
+    ],
+    "year": "'21"
   }
 ]
