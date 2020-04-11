@@ -108,5 +108,16 @@
       -96.796989
     ],
     "year": "'21"
+  },
+  {
+    "name": "Sihao Huang",
+    "iconUrl": "images/sihao.jpg",
+    "url": "//sihao.me",
+    "message": "Nothingness lies in the heart of being",
+    "lat_long": [
+      43.715650,
+      -72.260060
+    ],
+    "year": "Grad"
   }
 ]
