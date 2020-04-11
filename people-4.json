@@ -154,6 +154,17 @@
         "year": "'22"
     },
     {
+        "name": "Arjun Bhatt",
+        "iconUrl": "images/arjun.jpg",
+        "url": "//arjunbhatt.me/",
+        "message": "Check out Kevin's Heart by JCole: https://www.youtube.com/watch?v=ufynqs_COF4",
+        "lat_long": [
+            35.790000,
+            -78.474090
+        ],
+        "year": "'20"
+    },
+    {
         "name": "Sunbir Chawla",
         "iconUrl": "images/sunbir_pic.jpg",
         "url": "//sunbir.me/",
