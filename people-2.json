@@ -121,5 +121,19 @@
       -73.052834
     ],
     "year": "'20"
+  },
+
+  {
+    "name": "Jackson Harris",
+    "iconURL": "images/jackson.jpg",
+    "url": "//jacksontharris.me",
+    "message": "Howdy there, hello",
+    "lat_long": [
+      38.729649, 
+      -120.799149
+    ],
+    "year": "'20"
   }
+
+  
 ]
