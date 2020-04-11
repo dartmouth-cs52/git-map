@@ -68,7 +68,7 @@
   },
   {
     "name": "Jason Wang",
-    "iconURL": "images/jason.jpg",
+    "iconUrl": "images/jason.jpg",
     "url": "//jasonkwang.me",
     "message": "Hey from AZ",
     "lat_long": [ 
@@ -97,17 +97,6 @@
     "lat_long": [
       21.306944,
       -157.858337
-    ],
-    "year": "'22"
-  },
-  {
-    "name": "Jason Wang",
-    "iconURL": "images/jason.jpg",
-    "url": "//jasonkwang.me",
-    "message": "Hey everyone",
-    "lat_long": [
-      34.86597, 
-      -111.76381
     ],
     "year": "'22"
   },
