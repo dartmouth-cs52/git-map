@@ -54,5 +54,14 @@
     "message": "I like to make websites!",
     "lat_long": [37.668819, -122.080795],
     "year": "21"
+  },
+  {
+    "name": "Tony Milne",
+    "iconUrl": "images/tony.jpg",
+    "url": "//tonymilne.me",
+    "message": "Tony's website!",
+    "lat_long": [-35.675148, -71.542969],
+    "year": "21"
   }
+
 ]
