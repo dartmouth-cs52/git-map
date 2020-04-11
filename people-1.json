@@ -62,6 +62,14 @@
     "message": "hello",
     "lat_long": [35.910259, -79.055473],
     "year": "'22"
+  },
+  {
+    "name": "Hanna Kidanemariam",
+    "iconUrl": "images/hanna.jpg",
+    "url": "//hannak.me",
+    "message": "Do not click. There's literally nothing interesting here",
+    "lat_long": [33.046341, -96.994171],
+    "year": "'22"
   }
   ,
   {
