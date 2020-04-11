@@ -90,5 +90,16 @@
       104.0668
     ],
     "year": "'22"
+  },
+  {
+    "name": "Nicolas Bergen",
+    "iconUrl": "images/Nic.jpg",
+    "url": "//cs52-nb.me",
+    "message": "are you covid-19, because if you were near me i wouldnt leave my house for two weeks straight",
+    "lat_long": [
+      45.303488,
+      -122.926889
+    ],
+    "year": "'20"
   }
 ]
