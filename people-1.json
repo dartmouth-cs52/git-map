@@ -56,6 +56,12 @@
     "year": "21"
   },
   {
+    "name": "Tony Milne",
+    "iconUrl": "images/tony.jpg",
+    "url": "//tonymilne.me",
+    "message": "Tony's website!",
+    "lat_long": [-35.675148, -71.542969],
+    "year": "21"
     "name": "Jennifer Qian",
     "iconUrl": "images/jennifer.jpg",
     "url": "//jqoo.me",
@@ -83,5 +89,4 @@
     ],
     "year": "'22"
   }
-
 ]
