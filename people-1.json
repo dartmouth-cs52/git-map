@@ -54,5 +54,14 @@
     "message": "I like to make websites!",
     "lat_long": [37.668819, -122.080795],
     "year": "21"
+  },
+  {
+    "name": "Jennifer Qian",
+    "iconUrl": "images/jennifer.jpg",
+    "url": "//jqoo.me",
+    "message": "hello",
+    "lat_long": [35.910259, -79.055473],
+    "year": "'22"
   }
+
 ]
