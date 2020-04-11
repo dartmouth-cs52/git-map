@@ -62,6 +62,31 @@
     "message": "Tony's website!",
     "lat_long": [-35.675148, -71.542969],
     "year": "21"
+    "name": "Jennifer Qian",
+    "iconUrl": "images/jennifer.jpg",
+    "url": "//jqoo.me",
+    "message": "hello",
+    "lat_long": [35.910259, -79.055473],
+    "year": "'22"
+  },
+  {
+    "name": "Hanna Kidanemariam",
+    "iconUrl": "images/hanna.jpg",
+    "url": "//hannak.me",
+    "message": "Do not click. There's literally nothing interesting here",
+    "lat_long": [33.046341, -96.994171],
+    "year": "'22"
   }
-
+  ,
+  {
+    "name": "April Zhang",
+    "iconUrl": "images/April.jpg",
+    "url": "//aprilzhang.me",
+    "message": "Finally got Animal Crossing but it's locked in hinman till Monday reeeeeeee",
+    "lat_long": [
+      30.5728,
+      104.0668
+    ],
+    "year": "'22"
+  }
 ]
