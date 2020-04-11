@@ -152,5 +152,16 @@
       -6.837620
     ],
     "year": "'21"
+  },
+  {
+    "name": "Ray Li",
+    "iconUrl": "images/RayLi.jpg",
+    "url": "//raylty.me",
+    "message": "Corona Free!",
+    "lat_long": [
+      39.904202,
+      116.407394
+    ],
+    "year": "'20"
   }
 ]
