@@ -197,9 +197,7 @@
             -73.353180
         ],
         "year": "'21"
-<<<<<<< HEAD
     },
-    
     {           
         "name": "Katrina Yu",
         "iconUrl": "images/katrina.jpg",
@@ -210,7 +208,6 @@
             114.109497
         ],
         "year": "'21"
-=======
     } ,
     {           
         "name": "Jennifer Qian",
@@ -222,6 +219,5 @@
             -79.055473
         ],
         "year": "'22"
->>>>>>> adding myself yay
     } 
 ]
