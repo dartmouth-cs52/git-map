@@ -163,5 +163,16 @@
       -72.352689
     ],
     "year": "'21"
+  },
+  {
+    "name": "Zack Gottesman",
+    "iconUrl":"images/zackg.jpg",
+    "url": "//zackgottesman.me",
+    "message": "Yours is the Earth",
+    "lat_long": [
+      47.592030,
+      -122.234820
+    ],
+    "year": "'22"
   }
 ]
