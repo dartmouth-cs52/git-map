@@ -100,10 +100,9 @@
     ],
     "year": "'22"
   },
-  
   {
     "name": "Josh Tanenbaum",
-    "iconURL": "images/noah_watermelon.jpg",
+    "iconUrl": "images/noah_watermelon.jpg",
     "url": "//themsfightinwords.me",
     "message": "Hi Diddly Ho",
     "lat_long": [

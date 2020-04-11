@@ -5,8 +5,8 @@
     "url": "//jmai.surge.sh",
     "message": "hi!",
     "lat_long": [
-      37.774929,
-      -122.419418
+      37.680729,
+      -122.452873
     ],
     "year": "'20"
   },
@@ -106,6 +106,28 @@
     "lat_long": [
       32.776665, 
       -96.796989
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Sihao Huang",
+    "iconUrl": "images/sihao.jpg",
+    "url": "//sihao.me",
+    "message": "Nothingness lies in the heart of being",
+    "lat_long": [
+      43.715650,
+      -72.260060
+    ],
+    "year": "Grad"
+  },
+  {
+    "name": "Shengsong Gao",
+    "iconUrl": "images/shengsong_gao.jpg",
+    "url": "//shengsong.me",
+    "message": "Never had enough of games, anime, and manga",
+    "lat_long": [
+      29.615990,
+      -95.556717
     ],
     "year": "'21"
   }
