@@ -63,5 +63,17 @@
     "lat_long": [35.910259, -79.055473],
     "year": "'22"
   }
+  ,
+  {
+    "name": "April Zhang",
+    "iconUrl": "images/April.jpg",
+    "url": "//aprilzhang.me",
+    "message": "Finally got Animal Crossing but it's locked in hinman till Monday reeeeeeee",
+    "lat_long": [
+      30.572815,
+      104.066803
+    ],
+    "year": "'22"
+  }
 
 ]
