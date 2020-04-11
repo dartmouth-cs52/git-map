@@ -119,5 +119,16 @@
       -72.260060
     ],
     "year": "Grad"
+  },
+  {
+    "name": "Shengsong Gao",
+    "iconUrl": "images/shengsong_gao.jpg",
+    "url": "//shengsong.me",
+    "message": "Never had enough of games, anime, and manga",
+    "lat_long": [
+      29.615990,
+      -95.556717
+    ],
+    "year": "'21"
   }
 ]
