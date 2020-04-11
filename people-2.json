@@ -110,5 +110,17 @@
       -111.76381
     ],
     "year": "'22"
+  },
+  
+  {
+    "name": "Josh Tanenbaum",
+    "iconURL": "images/noah_watermelon.jpg",
+    "url": "//themsfightinwords.me",
+    "message": "Hi Diddly Ho",
+    "lat_long": [
+      40.931751, 
+      -73.052834
+    ],
+    "year": "'20"
   }
 ]
