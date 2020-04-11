@@ -197,5 +197,17 @@
             -73.353180
         ],
         "year": "'21"
+    },
+    
+    {           
+        "name": "Katrina Yu",
+        "iconUrl": "images/katrinayu.jpg",
+        "url": "//katrinayu.me/",
+        "message": "Let's go yum cha!",
+        "lat_long": [
+            22.396427,
+            114.109497
+        ],
+        "year": "'21"
     } 
 ]
