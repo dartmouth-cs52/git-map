@@ -4,10 +4,7 @@
     "iconUrl": "images/cs52.png",
     "url": "//cs52.me",
     "message": "Full-Stack Web Dev Fun",
-    "lat_long": [
-      43.708999,
-      -72.284250
-    ],
+    "lat_long": [43.708999, -72.28425],
     "year": "'19S"
   },
   {
@@ -15,10 +12,7 @@
     "iconUrl": "images/andrea.jpg",
     "url": "//dreakj.me",
     "message": "Remember the Alamo",
-    "lat_long": [
-      32.494560,
-      -94.742340
-    ],
+    "lat_long": [32.49456, -94.74234],
     "year": "'20'"
   },
   {
@@ -26,10 +20,7 @@
     "iconUrl": "images/carlos_bro.png",
     "url": "//dartmouth-cs52-20s.github.io/lab1-landingpage-Emzyx/",
     "message": "Wide Dog is a debatable character",
-    "lat_long": [
-      40.089910,
-      -74.216270
-    ],
+    "lat_long": [40.08991, -74.21627],
     "year": "'22"
   },
   {
@@ -37,22 +28,16 @@
     "iconUrl": "images/bensink.jpg",
     "url": "//dartmouth-cs52-20s.github.io/lab1-landingpage-bensinkk/",
     "message": "I'm just here so I won't get fined",
-    "lat_long": [
-      42.982530,
-      -77.409550
-    ],
+    "lat_long": [42.98253, -77.40955],
     "year": "'21"
   },
-  
+
   {
     "name": "David Kantor",
     "iconUrl": "images/davidkantor.jpg",
     "url": "//davidkantor.me",
     "message": "Hey everyone!",
-    "lat_long": [
-      40.647560,
-      -73.541730
-    ],
+    "lat_long": [40.64756, -73.54173],
     "year": "'22"
   },
   {
@@ -60,10 +45,7 @@
     "iconUrl": "images/noahwhite.jpg",
     "url": "//noahrwhite.me",
     "message": "Hey what's up hello",
-    "lat_long": [
-      46.647560,
-      -122.541730
-    ],
+    "lat_long": [46.64756, -122.54173],
     "year": "'21"
   },
   {
@@ -71,10 +53,7 @@
     "iconUrl": "images/jason.jpg",
     "url": "//jasonkwang.me",
     "message": "Hey from AZ",
-    "lat_long": [ 
-        34.86597, 
-        -111.76381
-      ],
+    "lat_long": [34.86597, -111.76381],
     "year": "'22"
   },
   {
@@ -82,10 +61,7 @@
     "iconUrl": "images/sanjana.jpg",
     "url": "//sgoli.me",
     "message": "At home, how about you?",
-    "lat_long": [
-      37.338207,
-      -121.886330
-    ],
+    "lat_long": [37.338207, -121.88633],
     "year": "'22"
   },
 
@@ -94,10 +70,7 @@
     "iconUrl": "images/sara&flare.jpg",
     "url": "//skay22.me",
     "message": "Enjoying Animal Crossing in my gremlin cave at home uwu",
-    "lat_long": [
-      21.306944,
-      -157.858337
-    ],
+    "lat_long": [21.306944, -157.858337],
     "year": "'22"
   },
   {
@@ -105,10 +78,15 @@
     "iconUrl": "images/noah_watermelon.jpg",
     "url": "//themsfightinwords.me",
     "message": "Hi Diddly Ho",
-    "lat_long": [
-      40.931751, 
-      -73.052834
-    ],
+    "lat_long": [40.931751, -73.052834],
     "year": "'20"
+  },
+  {
+    "name": "Rodrigo Cavero Blades",
+    "iconUrl": "images/llama_icon.png",
+    "url": "//rodrigocb.me/",
+    "message": "Hi",
+    "lat_long": [-16.489689, -68.119293],
+    "year": "'21"
   }
 ]
