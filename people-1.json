@@ -101,5 +101,13 @@
       -122.926889
     ],
     "year": "'20"
+  },
+  {
+    "name": "Alex Feng",
+    "iconUrl": "images/alex.jpg",
+    "url": "//alexfeng.me",
+    "message": "I completely forgot to do this assignment!",
+    "lat_long": [34.127361, -118.045868],
+    "year": "'23"
   }
 ]
