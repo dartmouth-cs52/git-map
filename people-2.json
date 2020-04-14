@@ -31,7 +31,6 @@
     "lat_long": [42.98253, -77.40955],
     "year": "'21"
   },
-
   {
     "name": "David Kantor",
     "iconUrl": "images/davidkantor.jpg",
@@ -81,7 +80,6 @@
     "lat_long": [40.931751, -73.052834],
     "year": "'20"
   },
-
   {
     "name": "Jackson Harris",
     "iconURL": "images/jackson.jpg",
@@ -92,7 +90,7 @@
       -120.799149
     ],
     "year": "'20"
-
+  },
   {
     "name": "Rodrigo Cavero Blades",
     "iconUrl": "images/llama_icon.png",
@@ -101,6 +99,4 @@
     "lat_long": [-16.489689, -68.119293],
     "year": "'21"
   }
-
-  
 ]
