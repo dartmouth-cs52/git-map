@@ -109,5 +109,13 @@
     "message": "I completely forgot to do this assignment!",
     "lat_long": [34.127361, -118.045868],
     "year": "'23"
+  },
+  {
+    "name": "Samiha Datta",
+    "iconUrl": "images/samiha.jpg",
+    "url": "//samihadatta.me",
+    "message": "Hello, world!",
+    "lat_long": [42.349720, -71.226120],
+    "year": "'23"
   }
 ]
