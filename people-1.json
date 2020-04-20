@@ -117,5 +117,13 @@
     "message": "Hello, world!",
     "lat_long": [42.349720, -71.226120],
     "year": "'23"
+  },
+  {
+    "name": "Fedor Myagkov",
+    "iconUrl": "images/feddy.jpg",
+    "url": "//fedyam.me",
+    "message": "I am soooooooo far behind, but catching up!",
+    "lat_long": [55.755825, 37.617298],
+    "year": "21"
   }
 ]
