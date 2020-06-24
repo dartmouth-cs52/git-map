@@ -11,17 +11,6 @@
     "year": "'23"
   },
   {
-    "name": "Alexis Harris",
-    "iconUrl": "images/alexisImage.jpg",
-    "url": "http://alexish52.me",
-    "message": "Hi I'm Alexis!!",
-    "lat_long": [
-      40.7,
-      -74.0
-    ],
-    "year": "'20"
-  },
-  {
     "name": "Ian Hou",
     "iconUrl": "images/ian.jpg",
     "url": "http://iankwanhou.me/",
@@ -31,28 +20,6 @@
       -71.2
     ],
     "year": "'22"
-  },
- {
-    "name": "Kevin Ge",
-    "iconUrl": "images/kevinge2.png",
-    "url": "http://kevingeis.me",
-    "message": "Hey I'm Kevin",
-    "lat_long": [
-      40.5,
-      -73.9
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Mike Zhou",
-    "iconUrl": "images/mikezhou.jpg",
-    "url": "//mikezhou.me",
-    "message": "s'all good bois",
-    "lat_long": [
-      41.3,
-      -105.6
-    ],
-    "year": "'21"
   },
   {
     "name": "Donia Tung",
@@ -64,104 +31,5 @@
       -74
     ],
     "year": "'22"
-  },
-  {
-    "name": "Anjali Chikkula",
-    "iconUrl": "images/anjali.jpg",
-    "url": "//bbqfood.me",
-    "message": "can't hang, making banana bread",
-    "lat_long":[
-      29.56,
-      -95.62
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Yaorui Zhang",
-    "iconUrl": "images/yaorui.jpg",
-    "url": "//yaorui.me",
-    "message": "Hope everyone is in good health",
-    "lat_long":[
-      43.64,
-      -72.31
-    ],
-    "year": "'GR 21"
-  },
-  {
-    "name": "Arjun Bhatt",
-    "iconUrl": "images/arjun.jpg",
-    "url":"//arjunbhatt.me",
-    "message": "Check out Kevin's Heart by JCole: https://www.youtube.com/watch?v=ufynqs_COF4",
-    "lat_long":[
-      35.79,
-      -78.78
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Jose Chanchavac",
-    "iconUrl": "images/caution.jpg",
-    "url": "//dartmouth-cs52-20s.github.io/lab1-landingpage-chanchavac2022/",
-    "message": "Oof",
-    "lat_long":[
-      33.978950, 
-      -118.219050
-    ],
-    "year": "'22"
-  },
-  {
-    "name": "Ayan Agarwal",
-    "iconUrl": "images/ayan.png",
-    "url": "//ayanagarwal.me",
-    "message": "thanks for hovering!",
-    "lat_long":[
-      41.803692, 
-      -87.927238
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Manzi Bryan",
-    "iconUrl": "images/manzi.jpg",
-    "url":"//themanzi.me",
-    "message":"Hey There!",
-    "lat_long":[
-      -2.921640, 
-      29.409700
-    ],
-    "year":"'21"
-  },
-  {
-    "name": "Gia Kim",
-    "iconUrl": "images/gia.jpg",
-    "url": "//giakim.me",
-    "message": "*cries in HTML*",
-    "lat_long": [
-      21.606980,
-      -157.906200
-    ],
-    "year": "'22"
-  },
-  {
-    "name": "Meriem Fouad",
-    "iconUrl": "images/meriem.jpg",
-    "url": "//meriemfouad.me",
-    "message": "*My body is stuck in Hanover but my heart is in Morocco*",
-    "lat_long": [
-      34.021992,
-      -6.837620
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Ray Li",
-    "iconUrl": "images/RayLi.jpg",
-    "url": "//raylty.me",
-    "message": "Corona Free!",
-    "lat_long": [
-      39.904202,
-      116.407394
-    ],
-    "year": "'20"
   }
 ]

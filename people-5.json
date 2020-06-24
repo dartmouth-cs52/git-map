@@ -1,49 +1,5 @@
 [
   {
-    "name": "Jasmine Mai",
-    "iconUrl": "images/jasmine.jpg",
-    "url": "//jmai.surge.sh",
-    "message": "hi!",
-    "lat_long": [
-      37.680729,
-      -122.452873
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Anna Matusewicz",
-    "iconUrl": "images/anna_matusewicz.jpeg",
-    "url": "//dartmouth-cs52-19s.github.io/lab1-landingpage-a-matusewicz/",
-    "message": "Cool, cool cool cool",
-    "lat_long": [
-      47.574159,
-      -122.382228
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Kristie Chow",
-    "iconUrl": "images/kchow.jpg",
-    "url": "//kristiechow.com",
-    "message": "Tropical kid in the middle of the woods",
-    "lat_long": [
-      43.5225,
-      -72.1535
-    ],
-    "year": "'20"
-  },
-  {
-    "name": "Jialing Wu",
-    "iconUrl": "images/jialing.jpg",
-    "url": "//jialingrunrunrun.me",
-    "message": "Nice to meet you here!",
-    "lat_long": [
-      31.198738, 
-      121.297482
-    ],
-    "year": "'25"
-  }, 
-  {
     "name": "Tyler Vergho",
     "iconUrl": "images/tyler.jpg",
     "url": "//tvergho.me",
@@ -66,28 +22,6 @@
     "year": "'22"
   },
   {
-    "name": "Rohith Mandavilli",
-    "iconUrl": "images/rohith.png",
-    "url": "//rohithmandavilli.me",
-    "message": "Saturday is for the boys",
-    "lat_long": [
-      30.2672, 
-      -97.7431
-    ],
-    "year": "'22"
-  },
-  {
-    "name": "Dylan Spector",
-    "iconUrl": "images/dylan.JPG",
-    "url": "//dylanrspector.me",
-    "message": "Add me on myspace",
-    "lat_long": [
-      41.878113, 
-      -87.629799
-    ],
-    "year": "'22"
-  },
-  {
     "name": "Aditya Choudhari",
     "iconUrl": "images/aditya.JPG",
     "url": "//adityachoudhari.me",
@@ -97,38 +31,5 @@
       -84.355800
     ],
     "year": "'22"
-  },
-  {
-    "name": "Sarah Hong",
-    "iconUrl": "images/sarahhong.jpg",
-    "url": "//sarahhong.me",
-    "message": "Hello from Dallas, TX!",
-    "lat_long": [
-      32.776665, 
-      -96.796989
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Sihao Huang",
-    "iconUrl": "images/sihao.jpg",
-    "url": "//sihao.me",
-    "message": "Nothingness lies in the heart of being",
-    "lat_long": [
-      43.715650,
-      -72.260060
-    ],
-    "year": "Grad"
-  },
-  {
-    "name": "Shengsong Gao",
-    "iconUrl": "images/shengsong_gao.jpg",
-    "url": "//shengsong.me",
-    "message": "Never had enough of games, anime, and manga",
-    "lat_long": [
-      29.615990,
-      -95.556717
-    ],
-    "year": "'21"
   }
 ]
