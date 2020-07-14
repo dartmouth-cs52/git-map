@@ -4,10 +4,7 @@
     "iconUrl": "images/tyler.jpg",
     "url": "//tvergho.me",
     "message": "Hey!",
-    "lat_long": [
-      37.322998,
-      -122.032181
-    ],
+    "lat_long": [37.322998, -122.032181],
     "year": "'23"
   },
   {
@@ -15,10 +12,7 @@
     "iconUrl": "images/anne.jpg",
     "url": "//annegbailey.me",
     "message": "Hi!",
-    "lat_long": [
-      42.2459, 
-      -71.2829
-    ],
+    "lat_long": [42.2459, -71.2829],
     "year": "'22"
   },
   {
@@ -26,10 +20,15 @@
     "iconUrl": "images/aditya.JPG",
     "url": "//adityachoudhari.me",
     "message": "Hi from Atlanta!",
-    "lat_long": [
-      34.091190, 
-      -84.355800
-    ],
+    "lat_long": [34.09119, -84.3558],
+    "year": "'22"
+  },
+  {
+    "name": "Jack Keane",
+    "iconUrl": "images/jkeane.jpg",
+    "url": "//jkeane.me",
+    "message": "Hello world",
+    "lat_long": [39.640259, -106.370872],
     "year": "'22"
   }
 ]
