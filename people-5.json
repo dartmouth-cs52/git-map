@@ -30,5 +30,13 @@
     "message": "Hello world",
     "lat_long": [39.640259, -106.370872],
     "year": "'22"
+  },
+  {
+    "name": "Elizabeth Frey",
+    "iconUrl": "images/lizfrey.jpeg",
+    "url": "//elizabethfrey.me",
+    "message": "Hi!!!!",
+    "lat_long": [1.3521, 103.8198],
+    "year": "'22"
   }
 ]
