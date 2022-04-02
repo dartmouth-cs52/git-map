@@ -31,5 +31,16 @@
       30.312481
     ],
     "year": "'22"
+  },
+  {
+    "name": "James Utley",
+    "iconUrl":"images/James_Utley.jpg",
+    "url": "https://johnjamesutley.github.io/",
+    "message": "Heyo",
+    "lat_long": [
+      42.578280,
+      -83.282840
+    ],
+    "year": "'24"
   }
 ]
