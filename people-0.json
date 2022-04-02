@@ -31,5 +31,15 @@
       -74
     ],
     "year": "'22"
+  },
+  {
+    "name": "Samiha Datta",
+    "iconUrl": "images/samiha.jpg",
+    "url": "http://samihadatta.me",
+    "message": "hahaha",
+    "lat_long":[
+      42.3253676,-71.2486974
+    ],
+    "year": "'23"
   }
 ]
