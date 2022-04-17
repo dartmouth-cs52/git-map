@@ -126,7 +126,7 @@ var info = L.control();
 
 info.onAdd = function (map) {
   this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-  this._div.innerHTML = '<a href="https://dartmouth-cs52-21S.github.io/git-map/"><h4>CS52 21S</h4></a><p><a href="https://github.com/dartmouth-cs52-21S/git-map">code on github</p></a><div id="error"></div>';
+  this._div.innerHTML = '<a href="https://dartmouth-cs52.github.io/git-map/"><h4>Dartmouth CS GitMap</h4></a><p><a href="https://github.com/dartmouth-cs52/git-map">code on github</p></a><div id="error"></div>';
   return this._div;
 };
 
