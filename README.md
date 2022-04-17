@@ -410,3 +410,12 @@ if [ -f ~/.git-completion.bash ]; then
 fi
 ```
 More information can be found [here](http://apple.stackexchange.com/questions/55875/git-auto-complete-for-branches-at-the-command-line)
+
+
+## Acknowledgments
+
+Thanks to the many contributors to this over the years:
+* @timofei7
+* @ijemmao
+* @tmonfre
+* and various DALI and CS52 TA's and students
