@@ -415,7 +415,7 @@ More information can be found [here](http://apple.stackexchange.com/questions/55
 ## Acknowledgments
 
 Thanks to the many contributors to this over the years:
-* @timofei7
-* @ijemmao
-* @tmonfre
+* [@timofei7](https://github.com/timofei7)
+* [@ijemmao](https://github.com/ijemmao)
+* [@tmonfre](https://github.com/tmonfre)
 * and various DALI and CS52 TA's and students
